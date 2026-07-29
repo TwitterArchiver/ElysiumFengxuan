@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T14:11:30",
+  "last_updated": "2026-07-29T14:13:35",
   "html": {
     "https://web.archive.org/web/20241017082429if_/https://twitter.com/ElysiumFengxuan/status/1846829624069869764": {
       "status": "done",
@@ -64924,31 +64924,31 @@
       "last_updated": "2026-07-29T12:06:18"
     },
     "https://video.twimg.com/tweet_video/GlcJyvLbwAICYM5.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250308093153_twitter_com_ElysiumFengxuan_status_1898305664839209150.json"
       ],
-      "last_updated": "2026-07-29T12:06:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250308093153im_/https://video.twimg.com/tweet_video/GlcJyvLbwAICYM5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed025d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:17",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250308093153/https://video.twimg.com/tweet_video/GlcJyvLbwAICYM5.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GmBJcXJbcAIQBrf.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250315070750_twitter_com_ElysiumFengxuan_status_1900806126561882370.json"
       ],
-      "last_updated": "2026-07-29T12:06:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250315070750im_/https://video.twimg.com/tweet_video/GmBJcXJbcAIQBrf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed02720>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250315070750im_/https://video.twimg.com/tweet_video/GmBJcXJbcAIQBrf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f126c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/1280x720/CNCWQj2VbKDf1U5t.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250317013215_twitter_com_ElysiumFengxuan_status_1901446449889722857.json"
       ],
-      "last_updated": "2026-07-29T12:06:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250317013215im_/https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/1280x720/CNCWQj2VbKDf1U5t.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed03620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250317013215im_/https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/1280x720/CNCWQj2VbKDf1U5t.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f12cf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1901304350850654209/vid/avc1/720x1280/ylH8FvNBr73zunai.mp4?tag=14": {
       "status": "done",
@@ -64962,54 +64962,54 @@
       "referenced_by": [
         "20250318103222_twitter_com_ElysiumFengxuan_status_1901944764360008087.json"
       ],
-      "last_updated": "2026-07-29T12:06:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250318103222im_/https://video.twimg.com/tweet_video/GmUNrJZbMAAiQ6m.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed02ea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250318103222im_/https://video.twimg.com/tweet_video/GmUNrJZbMAAiQ6m.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b0f80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1902321822554845184/pu/vid/avc1/720x1280/WRZzQllNhWyEXNFR.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250320025642_twitter_com_ElysiumFengxuan_status_1902554866913783906.json"
       ],
-      "last_updated": "2026-07-29T12:06:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320025642im_/https://video.twimg.com/ext_tw_video/1902321822554845184/pu/vid/avc1/720x1280/WRZzQllNhWyEXNFR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efc94c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320025642im_/https://video.twimg.com/ext_tw_video/1902321822554845184/pu/vid/avc1/720x1280/WRZzQllNhWyEXNFR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b1cd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1909266154360885249/pu/vid/avc1/1280x720/Nivkxt7Fh3uGDcgU.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250408004955_twitter_com_ElysiumFengxuan_status_1909408329212027041.json"
       ],
-      "last_updated": "2026-07-29T12:06:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408004955im_/https://video.twimg.com/ext_tw_video/1909266154360885249/pu/vid/avc1/1280x720/Nivkxt7Fh3uGDcgU.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efcae40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408004955im_/https://video.twimg.com/ext_tw_video/1909266154360885249/pu/vid/avc1/1280x720/Nivkxt7Fh3uGDcgU.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b3710>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1912153770772828161/pu/vid/avc1/576x1280/BHBlD0NIUXWNWRnw.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250415145334_twitter_com_ElysiumFengxuan_status_1912157356466614409.json"
       ],
-      "last_updated": "2026-07-29T12:06:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415145334im_/https://video.twimg.com/ext_tw_video/1912153770772828161/pu/vid/avc1/576x1280/BHBlD0NIUXWNWRnw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efcaa80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250415145334im_/https://video.twimg.com/ext_tw_video/1912153770772828161/pu/vid/avc1/576x1280/BHBlD0NIUXWNWRnw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f11f70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GooTBjIX0AAJ9yK.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250416042740_twitter_com_ElysiumFengxuan_status_1912362229178990621.json"
       ],
-      "last_updated": "2026-07-29T12:07:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416042740im_/https://video.twimg.com/tweet_video/GooTBjIX0AAJ9yK.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efca150>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416042740im_/https://video.twimg.com/tweet_video/GooTBjIX0AAJ9yK.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b12e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GooUYI8WsAAgH3I.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250416043458_twitter_com_ElysiumFengxuan_status_1912364069065273772.json"
       ],
-      "last_updated": "2026-07-29T12:07:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416043458im_/https://video.twimg.com/tweet_video/GooUYI8WsAAgH3I.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed02c60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250416043458im_/https://video.twimg.com/tweet_video/GooUYI8WsAAgH3I.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b04d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1925135485720223744/pu/vid/avc1/720x1280/TnlLk8rjxUddWEsT.mp4?tag=12": {
       "status": "done",
@@ -65023,9 +65023,9 @@
       "referenced_by": [
         "20250531151519_twitter_com_ElysiumFengxuan_status_1928832672656404645.json"
       ],
-      "last_updated": "2026-07-29T12:07:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250531151519im_/https://video.twimg.com/tweet_video/Gqu-kNbbcAAe1a4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa01a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:12:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250531151519im_/https://video.twimg.com/tweet_video/Gqu-kNbbcAAe1a4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20e42c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1947584381805334531/pu/vid/avc1/720x1280/7-4tNiVrKB-cR-Ml.mp4?tag=12": {
       "status": "done",
@@ -65225,9 +65225,9 @@
       "referenced_by": [
         "20251123061920_twitter_com_ElysiumFengxuan_status_1992478052572676605.json"
       ],
-      "last_updated": "2026-07-29T12:07:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123061920im_/https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/1080x1920/D5ZF8J3zpG5_yQKq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa1190>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123061920im_/https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/1080x1920/D5ZF8J3zpG5_yQKq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f12d50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G6cCVgQaIAAwsuN.mp4": {
       "status": "done",
@@ -65242,9 +65242,9 @@
       "referenced_by": [
         "20251124033143_twitter_com_ElysiumFengxuan_status_1992798255076589966.json"
       ],
-      "last_updated": "2026-07-29T12:07:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251124033143im_/https://video.twimg.com/amplify_video/1992651007730536449/vid/avc1/1280x720/-_UkRS6X9KQ15eFW.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463ed00fb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251124033143im_/https://video.twimg.com/amplify_video/1992651007730536449/vid/avc1/1280x720/-_UkRS6X9KQ15eFW.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b0da0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1992893094241730560/pu/vid/avc1/704x1280/wBohG_3IwWJZjylN.mp4?tag=12": {
       "status": "done",
@@ -65293,9 +65293,9 @@
       "referenced_by": [
         "20251203151444_twitter_com_ElysiumFengxuan_status_1996236667183640894.json"
       ],
-      "last_updated": "2026-07-29T12:07:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251203151444im_/https://video.twimg.com/ext_tw_video/1996104617055379456/pu/vid/avc1/1280x720/ArL2_MEDGkeTYqFp.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efc9d90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251203151444im_/https://video.twimg.com/ext_tw_video/1996104617055379456/pu/vid/avc1/1280x720/ArL2_MEDGkeTYqFp.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b2360>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1996960211081560064/pu/vid/avc1/480x852/kIxX326jdNpd0CdJ.mp4": {
       "status": "done",
@@ -65358,9 +65358,9 @@
       "referenced_by": [
         "20251213150022_twitter_com_ElysiumFengxuan_status_1999856930903482403.json"
       ],
-      "last_updated": "2026-07-29T12:07:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213150022im_/https://video.twimg.com/ext_tw_video/1999854129121034241/pu/vid/avc1/1280x720/v--zPEc2Aur6w1mV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa0ec0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213150022im_/https://video.twimg.com/ext_tw_video/1999854129121034241/pu/vid/avc1/1280x720/v--zPEc2Aur6w1mV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20e4e30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2008986939576512512/vid/avc1/1280x708/QEfvg9mf9YaTp20q.mp4": {
       "status": "done",
@@ -65395,9 +65395,9 @@
       "referenced_by": [
         "20260224122244_twitter_com_ElysiumFengxuan_status_2026271573905494236.json"
       ],
-      "last_updated": "2026-07-29T12:07:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224122244im_/https://video.twimg.com/ext_tw_video/2026102724266426368/pu/vid/avc1/576x1280/g7hC0GvDuN2DG49q.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa2bd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224122244im_/https://video.twimg.com/ext_tw_video/2026102724266426368/pu/vid/avc1/576x1280/g7hC0GvDuN2DG49q.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20b1460>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2026930251813761026/pu/vid/avc1/1280x720/AK2BajM0rv7JcMXp.mp4?tag=12": {
       "status": "done",
@@ -65447,9 +65447,9 @@
       "referenced_by": [
         "20260304022736_twitter_com_ElysiumFengxuan_status_2029020908845973635.json"
       ],
-      "last_updated": "2026-07-29T12:07:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260304022736im_/https://video.twimg.com/ext_tw_video/2029005135561801728/pu/vid/avc1/576x1024/4SMixs3ZqrczIM56.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efc8050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260304022736im_/https://video.twimg.com/ext_tw_video/2029005135561801728/pu/vid/avc1/576x1024/4SMixs3ZqrczIM56.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f13b30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2024509539639521281/pu/vid/avc1/1280x720/Eiltv2tTlWZDmoWQ.mp4?tag=12": {
       "status": "done",
@@ -65470,9 +65470,9 @@
       "referenced_by": [
         "20260310181015_twitter_com_ElysiumFengxuan_status_2031432462304461178.json"
       ],
-      "last_updated": "2026-07-29T12:07:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310181015im_/https://video.twimg.com/ext_tw_video/2031378673706688513/pu/vid/avc1/1280x720/iVXDHMV40in_vLBg.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa2d80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310181015im_/https://video.twimg.com/ext_tw_video/2031378673706688513/pu/vid/avc1/1280x720/iVXDHMV40in_vLBg.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d20e66f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2031618894574792705/pu/vid/avc1/1280x720/-PCuYj11atQr6V8Z.mp4?tag=12": {
       "status": "done",
@@ -65549,18 +65549,18 @@
       "referenced_by": [
         "20260323015939_twitter_com_ElysiumFengxuan_status_2035899244251664552.json"
       ],
-      "last_updated": "2026-07-29T12:07:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323015939im_/https://video.twimg.com/amplify_video/2035057283563188224/vid/avc1/1280x720/niepB-IKf7YO76Wk.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa0560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323015939im_/https://video.twimg.com/amplify_video/2035057283563188224/vid/avc1/1280x720/niepB-IKf7YO76Wk.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1f12ff0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260323050859_twitter_com_ElysiumFengxuan_status_2035946890945278060.json"
       ],
-      "last_updated": "2026-07-29T12:07:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323050859im_/https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f463efa3950>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:13:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323050859im_/https://video.twimg.com/tweet_video/HEEY_WTa4AARADn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd2d1bc3da0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/1080x1920/SOJAi55vEIABnION.mp4": {
       "status": "done",
