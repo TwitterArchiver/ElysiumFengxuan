@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1993699786126704703",
+    "created_at": "2025-11-27T11:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994006536709198057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994006536709198057",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993699786126704703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 恭喜我的世界和我的世界完成第一次联动壮举"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_1993699782649696256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sLY6Wb0AAovX_.jpg",
+        "width": 1280
+      },
+      {
+        "height": 605,
+        "media_key": "3_1993699774831394817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sLYdOaAAErGRJ.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1993699786126704703",
+        "created_at": "2025-11-27T11:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994006536709198057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994006536709198057",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993699786126704703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 恭喜我的世界和我的世界完成第一次联动壮举"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993699782649696256",
+            "3_1993699774831394817"
+          ]
+        },
+        "author_id": "1867432957113204736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993699786126704703",
+        "created_at": "2025-11-26T15:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993699786126704703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdpqkVv42V",
+              "end": 23,
+              "expanded_url": "https://x.com/owO123qwe/status/1993699786126704703/photo/1",
+              "media_key": "3_1993699782649696256",
+              "start": 0,
+              "url": "https://t.co/MdpqkVv42V"
+            },
+            {
+              "display_url": "pic.x.com/MdpqkVv42V",
+              "end": 23,
+              "expanded_url": "https://x.com/owO123qwe/status/1993699786126704703/photo/1",
+              "media_key": "3_1993699774831394817",
+              "start": 0,
+              "url": "https://t.co/MdpqkVv42V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993699786126704703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2167,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MdpqkVv42V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1683,
+          "like_count": 2348,
+          "listed_count": 6,
+          "media_count": 772,
+          "tweet_count": 5599
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的睦头人：@AiYin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "AiYin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958630429730509283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936541535148871680/sm3pRx9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 576,
+          "like_count": 4699,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 1841
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

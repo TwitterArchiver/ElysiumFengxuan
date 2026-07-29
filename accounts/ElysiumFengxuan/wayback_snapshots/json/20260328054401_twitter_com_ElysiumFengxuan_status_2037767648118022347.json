@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2037429509583225125",
+    "created_at": "2026-03-28T05:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037767648118022347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859523475670695941",
+          "start": 0,
+          "username": "yan93510742972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037767648118022347",
+    "in_reply_to_user_id": "1859523475670695941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037429509583225125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan93510742972 怎么只有一圈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2037429505229500416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZnVxoasAA-_5k.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2037429509583225125",
+        "created_at": "2026-03-28T05:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037767648118022347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859523475670695941",
+              "start": 0,
+              "username": "yan93510742972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037767648118022347",
+        "in_reply_to_user_id": "1859523475670695941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037429509583225125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan93510742972 怎么只有一圈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037429505229500416"
+          ]
+        },
+        "author_id": "1859523475670695941",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2037429509583225125",
+        "created_at": "2026-03-27T07:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037429509583225125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/FPJ44YYvte"
+            },
+            {
+              "display_url": "pic.x.com/V9MigtvXKR",
+              "end": 64,
+              "expanded_url": "https://x.com/yan93510742972/status/2037429509583225125/photo/1",
+              "media_key": "3_2037429505229500416",
+              "start": 41,
+              "url": "https://t.co/V9MigtvXKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037429509583225125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/FPJ44YYvte https://t.co/V9MigtvXKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 2050,
+          "like_count": 4407,
+          "listed_count": 8,
+          "media_count": 1069,
+          "tweet_count": 8333
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T09:06:06.000Z",
+        "description": "我是ayy/🎨🎨🎨🎨🎨🎨/二游不会输/翻译器不会输/喷我你完了/不键政/来找我互fo有惊喜/\n如果可以我会更喜欢收到评论，发点梦话也可以好吧。🥴\n放画号：@yan513243192057",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "yan513243192057"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/121957751",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/121957751",
+                "start": 0,
+                "url": "https://t.co/5lft5Ua8Fh"
+              }
+            ]
+          }
+        },
+        "id": "1859523475670695941",
+        "location": "提瓦特",
+        "name": "ayy",
+        "pinned_tweet_id": "2022915454562603092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024179549165277187/kJal29CB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 105,
+          "like_count": 7812,
+          "listed_count": 0,
+          "media_count": 465,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/5lft5Ua8Fh",
+        "username": "yan93510742972",
+        "verified": false
+      }
+    ]
+  }
+}

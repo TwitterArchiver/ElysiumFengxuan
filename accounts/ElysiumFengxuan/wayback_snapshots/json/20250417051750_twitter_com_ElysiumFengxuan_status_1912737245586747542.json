@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1912469799235690977",
+    "created_at": "2025-04-17T05:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T06:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912737245586747542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912737245586747542",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912469799235690977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 诶好腻害）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912469794906898432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gop1JVEXAAAGgXp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1912469799235690977",
+        "created_at": "2025-04-17T05:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912737245586747542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912737245586747542",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912469799235690977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 诶好腻害）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912469794906898432"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912469799235690977",
+        "created_at": "2025-04-16T11:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T12:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912469799235690977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFOmDivBXe",
+              "end": 36,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/1912469799235690977/photo/1",
+              "media_key": "3_1912469794906898432",
+              "start": 13,
+              "url": "https://t.co/YFOmDivBXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912469799235690977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额\n感觉这次包子有点…… https://t.co/YFOmDivBXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕迷茫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1219,
+          "like_count": 1645,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学艺术类/SteamID1151422332/红警系列/CR&COC/粥批/原神/GTA/生化危机/COD/CS&HL/梦想是变成酷女孩/烹饪烘焙/人格现实解体/一生之妻@zixinmiao2/主人@lyb1007/想一起做爱@jiang_chua28655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "zixinmiao2"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "lyb1007"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "jiang_chua28655"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912698382453510144/aUXT08nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 4177
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

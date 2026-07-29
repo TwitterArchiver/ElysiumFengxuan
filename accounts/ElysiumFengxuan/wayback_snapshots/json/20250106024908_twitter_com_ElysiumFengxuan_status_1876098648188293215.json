@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1875936015942320377",
+    "created_at": "2025-01-06T02:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T03:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876098648188293215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1322361321346641920",
+          "start": 0,
+          "username": "SoftToothBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876098648188293215",
+    "in_reply_to_user_id": "1322361321346641920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876079453857792349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoftToothBunny 普通的衣服而已，很多不知道的银也穿呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1875936015942320377",
+        "created_at": "2025-01-06T02:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T03:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876098648188293215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1322361321346641920",
+              "start": 0,
+              "username": "SoftToothBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876098648188293215",
+        "in_reply_to_user_id": "1322361321346641920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876079453857792349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoftToothBunny 普通的衣服而已，很多不知道的银也穿呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322361321346641920",
+        "conversation_id": "1875936015942320377",
+        "created_at": "2025-01-06T01:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T02:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876079453857792349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876079453857792349",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875936015942320377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 有了已经 但是一直不敢穿出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 672,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T02:14:53.000Z",
+        "description": "在北京，吃了一点点糖，22岁，智力不正常，下雨不知道躲雨，会乱捡地上的东西吃",
+        "id": "1322361321346641920",
+        "name": "糯牙小兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532336983229464576/DbSwiejM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 658,
+          "like_count": 1671,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 572
+        },
+        "username": "SoftToothBunny",
+        "verified": false
+      }
+    ]
+  }
+}

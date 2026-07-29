@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2038174075332571540",
+    "created_at": "2026-03-29T13:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038252231175094684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778293240132759552",
+          "start": 0,
+          "username": "Yuanrpa"
+        },
+        {
+          "end": 24,
+          "id": "1810873766119100416",
+          "start": 9,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038252231175094684",
+    "in_reply_to_user_id": "1778293240132759552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038174075332571540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanrpa @RainBuild_2024 泥给ai说了什么！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 1280,
+        "media_key": "7_2038173982709686272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038173982709686272/pu/img/SSoMJJZmdjqdVwsG.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173982709686272/pu/vid/avc1/320x568/MFQTjkrRsMfPiDU2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173982709686272/pu/vid/avc1/480x852/-1i85p8hX4Op5Us2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173982709686272/pu/vid/avc1/720x1280/MytaGi9CEP_UVjx4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038173982709686272/pu/pl/xaBa9mABOPdt8MdX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2038174075332571540",
+        "created_at": "2026-03-29T13:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038252231175094684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778293240132759552",
+              "start": 0,
+              "username": "Yuanrpa"
+            },
+            {
+              "end": 24,
+              "id": "1810873766119100416",
+              "start": 9,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038252231175094684",
+        "in_reply_to_user_id": "1778293240132759552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038174075332571540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanrpa @RainBuild_2024 泥给ai说了什么！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038173982709686272"
+          ]
+        },
+        "author_id": "1778293240132759552",
+        "conversation_id": "2038174075332571540",
+        "created_at": "2026-03-29T08:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038174075332571540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhRCRHHxDF",
+              "end": 35,
+              "expanded_url": "https://x.com/Yuanrpa/status/2038174075332571540/video/1",
+              "media_key": "7_2038173982709686272",
+              "start": 12,
+              "url": "https://t.co/IhRCRHHxDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038174075332571540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨晴汁宣传视频😋想吃吗 https://t.co/IhRCRHHxDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 2067,
+          "like_count": 4493,
+          "listed_count": 8,
+          "media_count": 1070,
+          "tweet_count": 8409
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/ENFP/讨厌：赌，毒，鉴政，od，伤害/hrt:????",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 430,
+          "like_count": 7547,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 3067
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9235,
+          "following_count": 878,
+          "like_count": 65959,
+          "listed_count": 18,
+          "media_count": 1396,
+          "tweet_count": 9712
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

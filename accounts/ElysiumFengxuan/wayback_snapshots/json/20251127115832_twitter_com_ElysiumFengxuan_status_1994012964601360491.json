@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1993989722222547203",
+    "created_at": "2025-11-27T11:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994012964601360491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994012964601360491",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993989722222547203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 到脑子里过一遍后，人生很累的，很苦的，无论做什么都不会改变。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25033,
+        "height": 1280,
+        "media_key": "13_1993989652047646730",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993989652047646730/img/9z5IgEq5VtAPS2uF.jpg",
+        "public_metrics": {
+          "view_count": 328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993989652047646730/vid/avc1/320x594/RpGkMlW8MijbVGPT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993989652047646730/vid/avc1/480x892/Bcq_-cBFoFWWK7i4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993989652047646730/vid/avc1/688x1280/z6imaHpkdJYv4JwP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993989652047646730/pl/gyBr3CqgSpeyUuah.m3u8"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1993989722222547203",
+        "created_at": "2025-11-27T11:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994012964601360491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994012964601360491",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993989722222547203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 到脑子里过一遍后，人生很累的，很苦的，无论做什么都不会改变。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993989652047646730"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "1993989722222547203",
+        "created_at": "2025-11-27T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993989722222547203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToBosi4wfP",
+              "end": 33,
+              "expanded_url": "https://x.com/DianaAnya0/status/1993989722222547203/video/1",
+              "media_key": "13_1993989652047646730",
+              "start": 10,
+              "url": "https://t.co/ToBosi4wfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993989722222547203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 765,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国pua式的教育 https://t.co/ToBosi4wfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 1683,
+          "like_count": 2352,
+          "listed_count": 6,
+          "media_count": 772,
+          "tweet_count": 5602
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "女大.176.50kg的可爱猫娘♡/ 每天会分享日常,和有趣的梗图💬/ 4k.ex1音游人 (偶尔玩玩音乐🎵) (严格控制身材体重) (绳师❤️S.攻) (求求给我点个关注🥺) (备用号@SatouXXJ)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "SatouXXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🏳️‍⚧️",
+        "pinned_tweet_id": "1978814394852114756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990725243397439488/UJwD6zWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8109,
+          "following_count": 160,
+          "like_count": 3657,
+          "listed_count": 6,
+          "media_count": 167,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2043328879037976745",
+    "created_at": "2026-04-13T01:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043497021630493082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990025288189960193",
+          "start": 0,
+          "username": "0524Asp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043497021630493082",
+    "in_reply_to_user_id": "1990025288189960193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043486869581930932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0524Asp 好叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2043328879037976745",
+        "created_at": "2026-04-13T01:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043497021630493082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990025288189960193",
+              "start": 0,
+              "username": "0524Asp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043497021630493082",
+        "in_reply_to_user_id": "1990025288189960193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043486869581930932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0524Asp 好叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990025288189960193",
+        "conversation_id": "2043328879037976745",
+        "created_at": "2026-04-13T00:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043486869581930932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043486869581930932",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043347443807559723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 后面括号里面的特殊条件（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 2210,
+          "like_count": 4988,
+          "listed_count": 8,
+          "media_count": 1108,
+          "tweet_count": 8750
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T11:53:16.000Z",
+        "description": "不是火车迷/：（本命CR400BF-Z-0524）｜HRT：2024.11.22｜持证含🍥（2025.7.17）｜双A（AS+ADHD）｜17岁｜宁波站票房S级通缉人士（逃/：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rail.re",
+                "end": 23,
+                "expanded_url": "http://rail.re",
+                "start": 0,
+                "url": "https://t.co/HN2tY3G4P1"
+              }
+            ]
+          }
+        },
+        "id": "1990025288189960193",
+        "name": "Asp.CR400BF-Z-0524🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990025901287837696/KS_2lubG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 197,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/HN2tY3G4P1",
+        "username": "0524Asp",
+        "verified": false
+      }
+    ]
+  }
+}

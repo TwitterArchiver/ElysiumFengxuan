@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992758427932905472"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992104349691207783",
+    "created_at": "2025-11-24T00:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T01:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992758431019892948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828145760917168128",
+          "start": 0,
+          "username": "bichn525925"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJVLhZ2aVt",
+          "end": 36,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1992758431019892948/photo/1",
+          "media_key": "3_1992758427932905472",
+          "start": 13,
+          "url": "https://t.co/xJVLhZ2aVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992758431019892948",
+    "in_reply_to_user_id": "1828145760917168128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992666485014311386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bichn525925 https://t.co/xJVLhZ2aVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_1992758427932905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ezO2wbUAAwiEs.jpg",
+        "width": 630
+      },
+      {
+        "height": 933,
+        "media_key": "3_1992666477976338432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dfmqebwAAauJE.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992758427932905472"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992104349691207783",
+        "created_at": "2025-11-24T00:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T01:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992758431019892948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828145760917168128",
+              "start": 0,
+              "username": "bichn525925"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJVLhZ2aVt",
+              "end": 36,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1992758431019892948/photo/1",
+              "media_key": "3_1992758427932905472",
+              "start": 13,
+              "url": "https://t.co/xJVLhZ2aVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992758431019892948",
+        "in_reply_to_user_id": "1828145760917168128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992666485014311386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bichn525925 https://t.co/xJVLhZ2aVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992666477976338432"
+          ]
+        },
+        "author_id": "1828145760917168128",
+        "conversation_id": "1992104349691207783",
+        "created_at": "2025-11-23T18:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T19:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992666485014311386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAO24y4hQo",
+              "end": 40,
+              "expanded_url": "https://x.com/bichn525925/status/1992666485014311386/photo/1",
+              "media_key": "3_1992666477976338432",
+              "start": 17,
+              "url": "https://t.co/SAO24y4hQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992666485014311386",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992280478662164897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan https://t.co/SAO24y4hQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1646,
+          "like_count": 2252,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 5405
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T19:01:42.000Z",
+        "description": "",
+        "id": "1828145760917168128",
+        "name": "北辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828145889459703808/hHTvVsKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 213
+        },
+        "username": "bichn525925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1876322386141908999",
+    "created_at": "2025-01-07T06:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T07:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876509391626924263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876509391626924263",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876509184788971576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 我不割手od阿巴阿巴，割手怕留伤不好康，od单纯没钱o）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1876322386141908999",
+        "created_at": "2025-01-07T06:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T07:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876509391626924263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876509391626924263",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876509184788971576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 我不割手od阿巴阿巴，割手怕留伤不好康，od单纯没钱o）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1876322386141908999",
+        "created_at": "2025-01-07T06:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T07:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876509184788971576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876509184788971576",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876508837102117305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 好吧好吧，随便，不过希望你们对自己好一点的，不要伤害自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 688,
+          "like_count": 799,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学类和艺术类/SteamID：1151422332/红警2&心灵终结/CR&COC/明日方舟/原神/GTA/生化危机/COD/CS&HL/梦想是成为酷酷的大姐头/愿意奉献自我/九年最佳劳委/已退学/希望大家也可以变成自己心中的样子/烹饪和烘焙/人格解体现实解体/",
+        "id": "1870022570353012736",
+        "location": "山西",
+        "name": "贾西贝",
+        "pinned_tweet_id": "1875448484817764757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870022689844539392/_d-1PSQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 177,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 373
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

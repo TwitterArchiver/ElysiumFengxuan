@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1896152923207544875",
+    "created_at": "2025-03-03T05:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T06:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896429076573032505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798017061131874304",
+          "start": 0,
+          "username": "cupric_oxide_"
+        },
+        {
+          "end": 29,
+          "id": "1781184041305387008",
+          "start": 15,
+          "username": "Crazy_mengQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896429076573032505",
+    "in_reply_to_user_id": "1798017061131874304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896423936755425574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupric_oxide_ @Crazy_mengQAQ 好有道理（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1896152923207544875",
+        "created_at": "2025-03-03T05:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896429076573032505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            },
+            {
+              "end": 29,
+              "id": "1781184041305387008",
+              "start": 15,
+              "username": "Crazy_mengQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896429076573032505",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896423936755425574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ @Crazy_mengQAQ 好有道理（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "1896152923207544875",
+        "created_at": "2025-03-03T04:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T05:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896423936755425574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781184041305387008",
+              "start": 0,
+              "username": "Crazy_mengQAQ"
+            },
+            {
+              "end": 31,
+              "id": "1738907027362209792",
+              "start": 15,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896423936755425574",
+        "in_reply_to_user_id": "1781184041305387008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896201092582752612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crazy_mengQAQ @ElysiumFengxuan 京爷（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 764,
+          "like_count": 940,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "Ten years\n\n提问↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cupric_oxide_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cupric_oxide_",
+                "start": 0,
+                "url": "https://t.co/MQWBfhwtLz"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "南门二",
+        "name": "氧化铜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 912,
+          "like_count": 16879,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/MQWBfhwtLz",
+        "username": "cupric_oxide_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T04:52:43.000Z",
+        "description": "",
+        "id": "1781184041305387008",
+        "name": "Crazy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890413434422050816/bUVgBV-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Crazy_mengQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

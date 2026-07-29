@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033419460124786688"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2033413481618436555",
+    "created_at": "2026-03-16T05:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033419463849345419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTlE94u2gs",
+          "end": 161,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2033419463849345419/photo/1",
+          "media_key": "3_2033419460124786688",
+          "start": 138,
+          "url": "https://t.co/lTlE94u2gs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033419463849345419",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033417278239481871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 普马林是我上一个问题问他普马林和达英是啥，这个问题我问他达英能做hrt药物吗和达英和色普龙的区别，所以他会说色普龙要配合雌二醇使用，色普龙在非hrt方面本来就是治疗前列腺的，他就会声称治疗前列腺药物，他是说从12.5-25mg起用逐步调整至最低剂量，没说逐增 https://t.co/lTlE94u2gs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033419460124786688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgoObgawAAOWTj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033419460124786688"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2033413481618436555",
+        "created_at": "2026-03-16T05:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033419463849345419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTlE94u2gs",
+              "end": 161,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2033419463849345419/photo/1",
+              "media_key": "3_2033419460124786688",
+              "start": 138,
+              "url": "https://t.co/lTlE94u2gs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033419463849345419",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033417278239481871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 普马林是我上一个问题问他普马林和达英是啥，这个问题我问他达英能做hrt药物吗和达英和色普龙的区别，所以他会说色普龙要配合雌二醇使用，色普龙在非hrt方面本来就是治疗前列腺的，他就会声称治疗前列腺药物，他是说从12.5-25mg起用逐步调整至最低剂量，没说逐增 https://t.co/lTlE94u2gs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "2033413481618436555",
+        "created_at": "2026-03-16T05:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033417278239481871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033417278239481871",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033415924456554533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 又叫普马林又叫色谱龙，声称是治疗前列腺药物，又说是抗雄制剂需配合雌二醇，说从12.5-25mg起用逐增又说按最小剂量使用（）\n这不就是纯梦游（）大把人到现在不会查wiki，色谱龙剂量乱吃感觉就是被ai和某些药商生产的垃圾信息坑害的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2043,
+          "like_count": 4033,
+          "listed_count": 8,
+          "media_count": 1028,
+          "tweet_count": 7931
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "疑似47XXY？|07|高三被家庭「抛弃」辍学出走无业穷困一年余😥|精神良好，无不良嗜好😀|八字命理爱好者，可无偿看🤓|真的没钱，赞赏看着给点吧😭|具体简介请看置顶☺️|🚪门66+好友（私信截图告诉我）😇|不建🐧群了，神人太多😅|od紫餐怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "骂我长得像冰棍的死全家😅",
+        "name": "❄️雪梦歆屿🍥",
+        "pinned_tweet_id": "2030448606663377215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 67,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2058
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

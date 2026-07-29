@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954498978394849280"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954498983956480282",
+    "created_at": "2025-08-10T11:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T12:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954498983956480282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LG5zwwxhNY",
+          "end": 46,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1954498983956480282/photo/1",
+          "media_key": "3_1954498978394849280",
+          "start": 23,
+          "url": "https://t.co/LG5zwwxhNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954498983956480282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是。。。。纳西妲？？？？！喵呜？？（震惊） https://t.co/LG5zwwxhNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1954498978394849280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_GdykWwAAqDvA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954498978394849280"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954498983956480282",
+        "created_at": "2025-08-10T11:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954498983956480282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LG5zwwxhNY",
+              "end": 46,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1954498983956480282/photo/1",
+              "media_key": "3_1954498978394849280",
+              "start": 23,
+              "url": "https://t.co/LG5zwwxhNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954498983956480282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是。。。。纳西妲？？？？！喵呜？？（震惊） https://t.co/LG5zwwxhNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1431,
+          "like_count": 1941,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 4628
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      }
+    ]
+  }
+}

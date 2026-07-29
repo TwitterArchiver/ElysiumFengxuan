@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2077812437362053158",
+    "created_at": "2026-07-17T01:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077922014774632602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649467740086996992",
+          "start": 0,
+          "username": "qziyn463297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077922014774632602",
+    "in_reply_to_user_id": "1649467740086996992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077812437362053158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qziyn463297 医生看完嘎嘣脆一声似了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2077812437362053158",
+        "created_at": "2026-07-17T01:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077922014774632602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649467740086996992",
+              "start": 0,
+              "username": "qziyn463297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077922014774632602",
+        "in_reply_to_user_id": "1649467740086996992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077812437362053158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qziyn463297 医生看完嘎嘣脆一声似了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649467740086996992",
+        "conversation_id": "2077812437362053158",
+        "created_at": "2026-07-16T17:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077812437362053158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/martinosemil/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/martinosemil/status/2077423881250623899",
+              "start": 30,
+              "url": "https://t.co/9uCCQKVnz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077812437362053158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2556,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077423881250623899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我也想学医了，可以在手术台上随便摸女性乳房想想就硬了啊 https://t.co/9uCCQKVnz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 2667,
+          "like_count": 6991,
+          "listed_count": 11,
+          "media_count": 1282,
+          "tweet_count": 10357
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T17:39:03.000Z",
+        "description": "",
+        "id": "1649467740086996992",
+        "name": "abjjzjhtg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901149357145219072/fFKkyOBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 70,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "qziyn463297",
+        "verified": false
+      }
+    ]
+  }
+}

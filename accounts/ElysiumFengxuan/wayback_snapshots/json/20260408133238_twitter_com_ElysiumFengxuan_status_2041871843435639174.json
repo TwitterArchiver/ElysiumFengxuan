@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2041540525006995464",
+    "created_at": "2026-04-08T13:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041871843435639174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945662305234206720",
+          "start": 0,
+          "username": "AoiLunaStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041871843435639174",
+    "in_reply_to_user_id": "1945662305234206720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041869100511850955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoiLunaStar 呜哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2041540525006995464",
+        "created_at": "2026-04-08T13:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041871843435639174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945662305234206720",
+              "start": 0,
+              "username": "AoiLunaStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041871843435639174",
+        "in_reply_to_user_id": "1945662305234206720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041869100511850955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoiLunaStar 呜哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945662305234206720",
+        "conversation_id": "2041540525006995464",
+        "created_at": "2026-04-08T13:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041869100511850955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041869100511850955",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041540525006995464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 最近QQ好多药娘群都被炸了，10个群9个都被炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 2151,
+          "like_count": 4866,
+          "listed_count": 8,
+          "media_count": 1100,
+          "tweet_count": 8633
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T01:50:31.000Z",
+        "description": "09/2/20，喜欢玩抽象和胡言乱语，还有发癫，水平和智商很低，小学生的水平和能力，专业研究LGPTQ群体，喜欢和大家聊天和关注一些新闻，推特经常更新，我本人不参与讨论任何政治话题和内容\n（QQ：3315304485）\n（联系猫猫本人推荐添加主页的QQ号哦，推特的私信不经常看）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FluffyTaffy77",
+                "end": 23,
+                "expanded_url": "http://t.me/FluffyTaffy77",
+                "start": 0,
+                "url": "https://t.co/TOi9F8i3NU"
+              }
+            ]
+          }
+        },
+        "id": "1945662305234206720",
+        "location": "美国迈阿密🇺🇲",
+        "name": "疏影横窗晚风香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041487559986130945/P3NhvXfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 2,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/TOi9F8i3NU",
+        "username": "AoiLunaStar",
+        "verified": false
+      }
+    ]
+  }
+}

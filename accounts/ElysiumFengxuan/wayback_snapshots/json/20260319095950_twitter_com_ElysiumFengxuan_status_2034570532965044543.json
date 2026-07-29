@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2034541108014067871",
+    "created_at": "2026-03-19T09:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034570532965044543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034570532965044543",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034541108014067871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 感觉你有点娘娘的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2034541098425864192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwkWXybUAAf3jK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034541098383847424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwkWXoaMAAuS4r.jpg",
+        "width": 691
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034541098383949824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwkWXobwAA6P38.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2034541108014067871",
+        "created_at": "2026-03-19T09:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034570532965044543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034570532965044543",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034541108014067871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 感觉你有点娘娘的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034541098425864192",
+            "3_2034541098383847424",
+            "3_2034541098383949824"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2034541108014067871",
+        "created_at": "2026-03-19T08:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034541108014067871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usKCB7V6W5",
+              "end": 135,
+              "expanded_url": "https://x.com/520illusion/status/2034541108014067871/photo/1",
+              "media_key": "3_2034541098425864192",
+              "start": 112,
+              "url": "https://t.co/usKCB7V6W5"
+            },
+            {
+              "display_url": "pic.x.com/usKCB7V6W5",
+              "end": 135,
+              "expanded_url": "https://x.com/520illusion/status/2034541108014067871/photo/1",
+              "media_key": "3_2034541098383847424",
+              "start": 112,
+              "url": "https://t.co/usKCB7V6W5"
+            },
+            {
+              "display_url": "pic.x.com/usKCB7V6W5",
+              "end": 135,
+              "expanded_url": "https://x.com/520illusion/status/2034541108014067871/photo/1",
+              "media_key": "3_2034541098383949824",
+              "start": 112,
+              "url": "https://t.co/usKCB7V6W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034541108014067871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1468,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能得退出跨圈了\n被一个认识五六年的同学炸柜了\n\n稍微捋了一下思路 之前发朋友圈里一张图里有补佳乐 我同学的兄弟在国外留学 认出药来了\n\n有一点点崩溃  其实没啥影响吧 还是很难受 现实生活中 之前除了我对象没人知道... https://t.co/usKCB7V6W5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 2058,
+          "like_count": 4109,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 8060
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 🏳‍⚧ | 杂鱼 | 杭州南京合肥武汉随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市中兴大桥南3号线地铁站A出口",
+        "name": "ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3973,
+          "following_count": 446,
+          "like_count": 8720,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 5164
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

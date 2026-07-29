@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1990018317546115139",
+    "created_at": "2025-11-17T01:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990229933344632979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542726331913633792",
+          "start": 0,
+          "username": "awaste996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990229933344632979",
+    "in_reply_to_user_id": "1542726331913633792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990018317546115139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaste996 啊呜！本来能睡着的现在没睡意了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1990018300374573056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G533GcJaYAA94YJ.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1990018317546115139",
+        "created_at": "2025-11-17T01:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990229933344632979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542726331913633792",
+              "start": 0,
+              "username": "awaste996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990229933344632979",
+        "in_reply_to_user_id": "1542726331913633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990018317546115139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaste996 啊呜！本来能睡着的现在没睡意了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990018300374573056"
+          ]
+        },
+        "author_id": "1542726331913633792",
+        "conversation_id": "1990018317546115139",
+        "created_at": "2025-11-16T11:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990018317546115139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O79kJp8S93",
+              "end": 23,
+              "expanded_url": "https://x.com/awaste996/status/1990018317546115139/photo/1",
+              "media_key": "3_1990018300374573056",
+              "start": 0,
+              "url": "https://t.co/O79kJp8S93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990018317546115139",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O79kJp8S93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1533,
+          "like_count": 2111,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 5078
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T04:26:49.000Z",
+        "description": "感谢你的关注\n在校学生/随机在线/互fo私信（查成分）\n情绪极不稳定，谨慎交往\n⚠️禁止一切涉政话题⚠️\n中国語、英語、日本語の交流が可能です。\nChinese, English, Japanese communication are all acceptable.\n\n我许愿，不要再有短暂的人出现干扰我本就不平静的生活",
+        "id": "1542726331913633792",
+        "location": "Liaoning",
+        "name": "客服千鹤（ChizuruKawaragi）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990220573780434944/vLFQwIHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 27,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "username": "awaste996",
+        "verified": false
+      }
+    ]
+  }
+}

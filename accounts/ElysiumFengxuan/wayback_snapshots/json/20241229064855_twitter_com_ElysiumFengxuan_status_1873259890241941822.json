@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1873047421095428136",
+    "created_at": "2024-12-29T06:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873259890241941822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643517192955207680",
+          "start": 0,
+          "username": "GlassFoxowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873259890241941822",
+    "in_reply_to_user_id": "1643517192955207680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873047421095428136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlassFoxowo 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1873047421095428136",
+        "created_at": "2024-12-29T06:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873259890241941822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643517192955207680",
+              "start": 0,
+              "username": "GlassFoxowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873259890241941822",
+        "in_reply_to_user_id": "1643517192955207680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873047421095428136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlassFoxowo 天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873047418188775425"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "conversation_id": "1873047421095428136",
+        "created_at": "2024-12-28T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873047421095428136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKjhIFqGYT",
+              "end": 43,
+              "expanded_url": "https://x.com/GlassFoxowo/status/1873047421095428136/photo/1",
+              "media_key": "3_1873047418188775425",
+              "start": 20,
+              "url": "https://t.co/EKjhIFqGYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873047421095428136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8207,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个人喜欢精液，那他是不是恋童癖？ https://t.co/EKjhIFqGYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 535,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "妄想成为小动物的人类边角料/\n💻业余开发者/ \n男，gay子🏳️‍🌈，色批，Furry／\nEnglish OK／\n精神状态不是很稳定／\n非常讨厌政治话题／\n没有梦想的fw／\n如果发现我突然变得文绉绉的，请过来抽醒我／\n表推无NSFW内容/\n🐻Beloved❤️@realShellWen/\nPM Friendly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "realShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "http://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/27oOQOMxKD"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723760164258385921/XvL1oibV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 450,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/27oOQOMxKD",
+        "username": "GlassFoxowo",
+        "verified": false
+      }
+    ]
+  }
+}

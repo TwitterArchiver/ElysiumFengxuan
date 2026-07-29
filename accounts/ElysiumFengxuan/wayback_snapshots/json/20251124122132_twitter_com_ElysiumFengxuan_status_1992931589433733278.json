@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992652008105599442",
+    "created_at": "2025-11-24T12:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T13:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992931589433733278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825836923958726656",
+          "start": 0,
+          "username": "xxsheng0927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992931589433733278",
+    "in_reply_to_user_id": "1825836923958726656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992930941933900180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxsheng0927 我05出生的你让我回02干什么呜哇哇哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992652008105599442",
+        "created_at": "2025-11-24T12:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992931589433733278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825836923958726656",
+              "start": 0,
+              "username": "xxsheng0927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992931589433733278",
+        "in_reply_to_user_id": "1825836923958726656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992930941933900180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxsheng0927 我05出生的你让我回02干什么呜哇哇哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825836923958726656",
+        "conversation_id": "1992652008105599442",
+        "created_at": "2025-11-24T12:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992930941933900180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992930941933900180",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992924965013016624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 你上坟烧报纸，糊弄鬼呢😤😤😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1663,
+          "like_count": 2278,
+          "listed_count": 6,
+          "media_count": 750,
+          "tweet_count": 5455
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T10:07:28.000Z",
+        "description": "关关难过关关过，前路漫漫亦灿灿……（互fo 100％）\nIt's hard to pass the customs, and the road ahead is long. (Mutual fo 100%)漏关的宝子们踢我一脚留个言，小女子这厢有礼了🙆🙆🙆",
+        "id": "1825836923958726656",
+        "name": "xxsheng（互Fo 100%）",
+        "pinned_tweet_id": "1992652008105599442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989349956507897856/I5zmTggZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 2863,
+          "like_count": 24092,
+          "listed_count": 6,
+          "media_count": 293,
+          "tweet_count": 3328
+        },
+        "username": "xxsheng0927",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993321124470702082"
+      ],
+      "media_source_tweet_id": [
+        "1993321137992790305"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1993327851865883047",
+    "created_at": "2025-11-25T14:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993327851865883047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880727838405640192",
+          "start": 3,
+          "username": "zhiyy_775852"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYammSOglL",
+          "end": 63,
+          "expanded_url": "https://x.com/zhiyy_775852/status/1993321137992790305/photo/1",
+          "media_key": "3_1993321124470702082",
+          "start": 40,
+          "url": "https://t.co/VYammSOglL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993327851865883047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993321137992790305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyy_775852: 试着来收养一只xyn好啦～欢迎私信了解喵！ https://t.co/VYammSOglL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993327851865883047].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993327851865883047",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993327851865883047"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993321124470702082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mzAGtbwAIujr6.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993321124470702082"
+          ]
+        },
+        "author_id": "1880727838405640192",
+        "conversation_id": "1993321137992790305",
+        "created_at": "2025-11-25T14:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993321137992790305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYammSOglL",
+              "end": 45,
+              "expanded_url": "https://x.com/zhiyy_775852/status/1993321137992790305/photo/1",
+              "media_key": "3_1993321124470702082",
+              "start": 22,
+              "url": "https://t.co/VYammSOglL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993321137992790305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "试着来收养一只xyn好啦～欢迎私信了解喵！ https://t.co/VYammSOglL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1674,
+          "like_count": 2311,
+          "listed_count": 6,
+          "media_count": 762,
+          "tweet_count": 5532
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T21:24:14.000Z",
+        "description": "186cm/65kg\n大证含糖︱戴锁小男娘︱\n是喜欢老公的好猫猫︱同类互fo︱\n线上搞黄︱线下约饭！︱INTP/INTJ︱",
+        "id": "1880727838405640192",
+        "location": "杭州",
+        "name": "愿愿🍥",
+        "pinned_tweet_id": "1993321137992790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982400492543025152/yFTQ-aCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 25,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 72
+        },
+        "username": "zhiyy_775852",
+        "verified": true
+      }
+    ]
+  }
+}

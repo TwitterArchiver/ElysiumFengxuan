@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2022668695139684645",
+    "created_at": "2026-02-16T07:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023299912746815549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759853333777674240",
+          "start": 0,
+          "username": "kaojinni66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023299912746815549",
+    "in_reply_to_user_id": "1759853333777674240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022668695139684645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaojinni66 ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2022668695139684645",
+        "created_at": "2026-02-16T07:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023299912746815549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759853333777674240",
+              "start": 0,
+              "username": "kaojinni66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023299912746815549",
+        "in_reply_to_user_id": "1759853333777674240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022668695139684645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaojinni66 ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759853333777674240",
+        "conversation_id": "2022668695139684645",
+        "created_at": "2026-02-14T13:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022668695139684645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022668695139684645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 45322,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我在认识我主人没几个小时之后就再也没有自称过“我“，每句话也不会没有自称和您。\n\n有一次因为一个意外不小心发出去没有自称的，对面发来一个“？”\n我差点腿软直接跪在地上磕头，不停的求饶。过了许久主人说了一个“嗯”我才胆战心惊的继续说好多话，看到问号我就能吓死。\n\n真的太喜欢这种感觉了谁懂啊😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1865,
+          "like_count": 3299,
+          "listed_count": 7,
+          "media_count": 954,
+          "tweet_count": 7013
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T08:12:02.000Z",
+        "description": "做主人最虔诚的信徒｜每日自省｜文字只代表我的一部份｜坚持运动多看书常思考少管闲事｜私信看情况回复，欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaojinni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaojinni",
+                "start": 0,
+                "url": "https://t.co/LDigmA1OMl"
+              }
+            ]
+          }
+        },
+        "id": "1759853333777674240",
+        "name": "任尔东西南北风",
+        "pinned_tweet_id": "2014544521217122310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020178037707563008/Sf9N7DcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 84,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/LDigmA1OMl",
+        "username": "kaojinni66",
+        "verified": false
+      }
+    ]
+  }
+}

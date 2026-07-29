@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2029223385633620227",
+    "created_at": "2026-03-04T18:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029260327918157838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1421144469227941891",
+          "start": 0,
+          "username": "RakanMahmoud7"
+        },
+        {
+          "end": 28,
+          "id": "2005261732751802368",
+          "start": 15,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029260327918157838",
+    "in_reply_to_user_id": "1421144469227941891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029223385633620227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RakanMahmoud7 @HappyHejsDay RIP，虽然但是猝死是第一次见qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029223361822535680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk_5XNbMAARHGr.jpg",
+        "width": 1027
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029223362166439936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk_5YfawAAVi9l.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029223370357915648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk_53AawAA-40a.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029223371351982080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk_56tbAAAt6rb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2029223385633620227",
+        "created_at": "2026-03-04T18:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029260327918157838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1421144469227941891",
+              "start": 0,
+              "username": "RakanMahmoud7"
+            },
+            {
+              "end": 28,
+              "id": "2005261732751802368",
+              "start": 15,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029260327918157838",
+        "in_reply_to_user_id": "1421144469227941891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029223385633620227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RakanMahmoud7 @HappyHejsDay RIP，虽然但是猝死是第一次见qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029223361822535680",
+            "3_2029223362166439936",
+            "3_2029223370357915648",
+            "3_2029223371351982080"
+          ]
+        },
+        "author_id": "1421144469227941891",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029223385633620227",
+        "created_at": "2026-03-04T15:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029223385633620227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6Z475iVUG",
+              "end": 75,
+              "expanded_url": "https://x.com/RakanMahmoud7/status/2029223385633620227/photo/1",
+              "media_key": "3_2029223361822535680",
+              "start": 52,
+              "url": "https://t.co/T6Z475iVUG"
+            },
+            {
+              "display_url": "pic.x.com/T6Z475iVUG",
+              "end": 75,
+              "expanded_url": "https://x.com/RakanMahmoud7/status/2029223385633620227/photo/1",
+              "media_key": "3_2029223362166439936",
+              "start": 52,
+              "url": "https://t.co/T6Z475iVUG"
+            },
+            {
+              "display_url": "pic.x.com/T6Z475iVUG",
+              "end": 75,
+              "expanded_url": "https://x.com/RakanMahmoud7/status/2029223385633620227/photo/1",
+              "media_key": "3_2029223370357915648",
+              "start": 52,
+              "url": "https://t.co/T6Z475iVUG"
+            },
+            {
+              "display_url": "pic.x.com/T6Z475iVUG",
+              "end": 75,
+              "expanded_url": "https://x.com/RakanMahmoud7/status/2029223385633620227/photo/1",
+              "media_key": "3_2029223371351982080",
+              "start": 52,
+              "url": "https://t.co/T6Z475iVUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029223385633620227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5766,
+          "like_count": 57,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n枣桐酱因为忙于圈内事务与家庭压力不慎于2026年3月4日晚上22:53分于家中猝死，享年16岁 https://t.co/T6Z475iVUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1963,
+          "like_count": 3852,
+          "listed_count": 8,
+          "media_count": 997,
+          "tweet_count": 7633
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T16:23:55.000Z",
+        "description": "出生：2012/2/28｜hrt：2024/9/27｜跨圈药神｜药娘皇帝｜已扭转｜家暴党｜一天上网18小时\n\n扣扣：3804812474",
+        "id": "1421144469227941891",
+        "name": "小青🍥",
+        "pinned_tweet_id": "2029011818694492487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028644198103273472/2hyZIXJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 170,
+          "like_count": 201,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 117
+        },
+        "username": "RakanMahmoud7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜混沌阿姨｜enby｜失敗交易員｜amab｜🇹🇼🇭🇰🇨🇳｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni @Suimikax @YuningTepes03 @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "Suimikax"
+              },
+              {
+                "end": 133,
+                "start": 119,
+                "username": "YuningTepes03"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021381883918155776/nRmYht_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1135,
+          "like_count": 5885,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 3536
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

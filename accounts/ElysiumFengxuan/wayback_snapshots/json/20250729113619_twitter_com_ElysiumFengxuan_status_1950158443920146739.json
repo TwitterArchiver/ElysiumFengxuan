@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1950145664685400514",
+    "created_at": "2025-07-29T11:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T12:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950158443920146739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1939867725435912192",
+          "start": 6,
+          "username": "xiaoxunjiang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950158443920146739",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950145997587566844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @xiaoxunjiang520 原来你是真能回复的吗qwq？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1950145664685400514",
+        "created_at": "2025-07-29T11:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T12:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950158443920146739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1939867725435912192",
+              "start": 6,
+              "username": "xiaoxunjiang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950158443920146739",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950145997587566844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @xiaoxunjiang520 原来你是真能回复的吗qwq？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1950145664685400514",
+        "created_at": "2025-07-29T10:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T11:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950145997587566844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939867725435912192",
+              "start": 0,
+              "username": "xiaoxunjiang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950145997587566844",
+        "in_reply_to_user_id": "1939867725435912192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950145664685400514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxunjiang520 爸爸：一只  \n妈妈：大狐帝国史官邹智萱（笔名段歌文）  \n爷爷：噬魂兽  \n奶奶：神楽坂琉璃  \n外公：唐毓文  \n外婆：知式🍥  \n弟弟：朝梦引帆🍥  \n哥哥：Hayase.TPZ🍥🏳️‍⚧️  \n妹妹：小小菠萝包🍥  \n姐姐：小阿瑾🍥（大笨蛋）  \n爱人：家妻小寻❤️  \n孩子：池鱼鱼🍥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1409,
+          "like_count": 1897,
+          "listed_count": 5,
+          "media_count": 593,
+          "tweet_count": 4507
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5618674,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4522,
+          "media_count": 2410230,
+          "tweet_count": 29234433
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T02:04:56.000Z",
+        "description": "11年的无证小药娘🍥叫我小寻就行咯😘有重度抑郁和狂躁症🤕喜欢吃😋甜甜的🍥已彻底炸柜半家长党😭最爱的老公🥰@wjhlovelzp 详情看下面↓QQ群：744190720 TG群：https://t.co/uKrCGKBnTD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "wjhlovelzp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+f2Ymt1vt5cE1O…",
+                "end": 111,
+                "expanded_url": "https://t.me/+f2Ymt1vt5cE1OTA1",
+                "start": 88,
+                "url": "https://t.co/uKrCGKBnTD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.report/zh-cn/submissi…",
+                "end": 23,
+                "expanded_url": "https://mtf.report/zh-cn/submissions/zS520zx1314",
+                "start": 0,
+                "url": "https://t.co/SuSXQE2TCr"
+              }
+            ]
+          }
+        },
+        "id": "1939867725435912192",
+        "location": "雌二醇星球",
+        "name": "小寻酱🍥（努力重回2000fo）",
+        "pinned_tweet_id": "1947887817897492688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939868808573067265/vlOCrlfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 473,
+          "like_count": 418,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/SuSXQE2TCr",
+        "username": "xiaoxunjiang520",
+        "verified": false
+      }
+    ]
+  }
+}

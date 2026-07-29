@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2016464384323998046",
+    "created_at": "2026-01-29T04:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016734446259720360",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016464384323998046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2016463660483497984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vrA_maUAA-JXu.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016463660483497984"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2016464384323998046",
+        "created_at": "2026-01-28T10:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUhS2cgSWp",
+              "end": 67,
+              "expanded_url": "https://x.com/mwdxj29477/status/2016464384323998046/photo/1",
+              "media_key": "3_2016463660483497984",
+              "start": 44,
+              "url": "https://t.co/yUhS2cgSWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016464384323998046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7195,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊，窝为什么翻车了喵≡ω≡ ? \n我只是买了两盒国补🍥，先试试水而已哈。。。。。。 https://t.co/yUhS2cgSWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1802,
+          "like_count": 3110,
+          "listed_count": 6,
+          "media_count": 922,
+          "tweet_count": 6740
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "|翻车顺男~ /出厂日期:11.13.2011|\n|01.28.2026翻车…只是体验一下|\n|喜欢xnn xyn/INFP-T/欢迎互fo~|\n|初二牲/家长几乎放养我/161  50|\n|反共/支持台灣/繁體 & 简体中文|\n|QQ&B站:私信加 TG:『mwdxj』|\n|坐标湖北/ 社恐 /玩MINECRAFT|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民国/湖北省",
+        "name": "Mwdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012764703894671360/6Pvt_xDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 281,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

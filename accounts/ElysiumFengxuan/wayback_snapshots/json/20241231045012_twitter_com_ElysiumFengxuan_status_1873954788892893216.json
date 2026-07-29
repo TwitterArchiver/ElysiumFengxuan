@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1872954160515371421",
+    "created_at": "2024-12-31T04:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T05:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873954788892893216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia8964"
+        },
+        {
+          "end": 26,
+          "id": "1757616332240224256",
+          "start": 15,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873954788892893216",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873460161391825025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia8964 @B_cat38324 我脑内发言是个男音qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1872954160515371421",
+        "created_at": "2024-12-31T04:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873954788892893216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia8964"
+            },
+            {
+              "end": 26,
+              "id": "1757616332240224256",
+              "start": 15,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873954788892893216",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873460161391825025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia8964 @B_cat38324 我脑内发言是个男音qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1872954160515371421",
+        "created_at": "2024-12-29T20:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T21:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873460161391825025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873460161391825025",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872954160515371421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 我好像从小脑内发言那个声音就分不出男女声，很中性……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 617,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "JS/TS Fullstack | UI/UX | Queer Feminist | ASD | #INFJ | ❤️@CatTalkerMitaka",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "INFJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "0.9km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1835227356170190958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814328425890643968/Lmc8sqgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 969,
+          "like_count": 61746,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 8307
+        },
+        "username": "Lycaropia8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫=2",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12771,
+          "following_count": 180,
+          "like_count": 380,
+          "listed_count": 42,
+          "media_count": 72,
+          "tweet_count": 12269
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

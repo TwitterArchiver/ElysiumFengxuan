@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1873218913355612290",
+    "created_at": "2024-12-29T05:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T06:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873240837251072377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643063473969168386",
+          "start": 0,
+          "username": "Nemiya_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873240837251072377",
+    "in_reply_to_user_id": "1643063473969168386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873240595843694713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nemiya_3 我十天一针（主要没钱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1873218913355612290",
+        "created_at": "2024-12-29T05:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873240837251072377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643063473969168386",
+              "start": 0,
+              "username": "Nemiya_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873240837251072377",
+        "in_reply_to_user_id": "1643063473969168386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873240595843694713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nemiya_3 我十天一针（主要没钱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643063473969168386",
+        "conversation_id": "1873218913355612290",
+        "created_at": "2024-12-29T05:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873240595843694713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873240595843694713",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873218913355612290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 色不少，在能压得住睾酮的情况下量越少越好。测激素最好在下一次注射前测，雌谷值不低于二百就可以延期注射"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 528,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-04T01:30:54.000Z",
+        "description": "社会化指数归零，没有钱没有行动力，还有点弱智\n希望能做乐观友善的人",
+        "id": "1643063473969168386",
+        "name": "铃铃空澄🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862208689228197888/bQuzX1R5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 226,
+          "like_count": 10379,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 998
+        },
+        "username": "Nemiya_3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1876165472712020071",
+    "created_at": "2025-01-06T10:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T11:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876216226357412172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1412787007940481030",
+          "start": 0,
+          "username": "CutieRivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876216226357412172",
+    "in_reply_to_user_id": "1412787007940481030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876165472712020071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutieRivers 抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1876165472712020071",
+        "created_at": "2025-01-06T10:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T11:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876216226357412172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1412787007940481030",
+              "start": 0,
+              "username": "CutieRivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876216226357412172",
+        "in_reply_to_user_id": "1412787007940481030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876165472712020071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutieRivers 抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876165469918597120"
+          ]
+        },
+        "author_id": "1412787007940481030",
+        "conversation_id": "1876165472712020071",
+        "created_at": "2025-01-06T07:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T08:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876165472712020071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE44atCG3s",
+              "end": 31,
+              "expanded_url": "https://x.com/CutieRivers/status/1876165472712020071/photo/1",
+              "media_key": "3_1876165469918597120",
+              "start": 8,
+              "url": "https://t.co/eE44atCG3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876165472712020071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要看着我.. https://t.co/eE44atCG3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 681,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "咪@sesamesama\n                                                                           笨蛋@theboxofgirl  如果痛苦只会转移，那死是最美的幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "sesamesama"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "theboxofgirl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "『數據刪除』.wiki",
+                "end": 23,
+                "expanded_url": "http://xn--36jc603xzvptwab16s.wiki",
+                "start": 0,
+                "url": "https://t.co/3p9FOeYSEs"
+              }
+            ]
+          }
+        },
+        "id": "1412787007940481030",
+        "location": "距离您0.23km",
+        "name": "♡百川花花子♡",
+        "pinned_tweet_id": "1867052267884646821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829916267698065408/D35Omeop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 83,
+          "like_count": 11117,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 7732
+        },
+        "url": "https://t.co/3p9FOeYSEs",
+        "username": "CutieRivers",
+        "verified": false
+      }
+    ]
+  }
+}

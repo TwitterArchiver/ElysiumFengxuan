@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2052217824169664978",
+    "created_at": "2026-05-07T09:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052316788013355250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043711489517715456",
+          "start": 0,
+          "username": "qiankang080621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052316788013355250",
+    "in_reply_to_user_id": "2043711489517715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052253212267438194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiankang080621 要花一万多去掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2052217824169664978",
+        "created_at": "2026-05-07T09:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052316788013355250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043711489517715456",
+              "start": 0,
+              "username": "qiankang080621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052316788013355250",
+        "in_reply_to_user_id": "2043711489517715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052253212267438194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiankang080621 要花一万多去掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043711489517715456",
+        "conversation_id": "2052217824169664978",
+        "created_at": "2026-05-07T05:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052253212267438194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052253212267438194",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052217824169664978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 喉结是这辈子都不能去掉的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 2385,
+          "like_count": 5573,
+          "listed_count": 10,
+          "media_count": 1150,
+          "tweet_count": 9184
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T15:22:56.000Z",
+        "description": "本康，男，风向，人族，温柔，贤惠，多才多艺（划掉）动物爱好者兼睡觉爱好者小政府主义者？？？（无所谓）听摇滚的疯狍子（犬儒牛*）小吃重度依赖宅地生存学家，喜欢午夜，雨雪天气，平等接受包容所有群体，任何人都有被爱的权利（贴脸除外）",
+        "id": "2043711489517715456",
+        "name": "千千康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049497982740123648/b6gjq7xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 39,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 269
+        },
+        "username": "qiankang080621",
+        "verified": false
+      }
+    ]
+  }
+}

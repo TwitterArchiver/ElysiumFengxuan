@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1874758254561304801",
+    "created_at": "2025-01-03T00:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T01:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874976061655806173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "ksk41760545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874976061655806173",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874758254561304801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksk41760545 我是家里蹲，主银不让出去玩qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1874758254561304801",
+        "created_at": "2025-01-03T00:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T01:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874976061655806173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "ksk41760545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874976061655806173",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874758254561304801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksk41760545 我是家里蹲，主银不让出去玩qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874758241001021440"
+          ]
+        },
+        "author_id": "1520156802368753664",
+        "conversation_id": "1874758254561304801",
+        "created_at": "2025-01-02T10:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T11:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874758254561304801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRGPWd3sDp",
+              "end": 44,
+              "expanded_url": "https://x.com/ksk41760545/status/1874758254561304801/photo/1",
+              "media_key": "3_1874758241001021440",
+              "start": 21,
+              "url": "https://t.co/BRGPWd3sDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874758254561304801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道你们都是现充\n难道只有我是真的家里蹲 https://t.co/BRGPWd3sDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 650,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "pinned_tweet_id": "1664605179973607426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452740967186432/RLQ90oY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 302,
+          "like_count": 14790,
+          "listed_count": 4,
+          "media_count": 3729,
+          "tweet_count": 11423
+        },
+        "username": "ksk41760545",
+        "verified": false
+      }
+    ]
+  }
+}

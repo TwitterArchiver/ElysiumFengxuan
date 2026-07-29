@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1962724178588516679",
+    "created_at": "2025-09-02T17:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962936207534411864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937899755243454464",
+          "start": 0,
+          "username": "Ayaka_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962936207534411864",
+    "in_reply_to_user_id": "1937899755243454464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962724178588516679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayaka_susu 注射用东西喝了只会大大降低药效还可能伤身"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962724037483749376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzz_HPZW4AAQHXr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1962724178588516679",
+        "created_at": "2025-09-02T17:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962936207534411864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937899755243454464",
+              "start": 0,
+              "username": "Ayaka_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962936207534411864",
+        "in_reply_to_user_id": "1937899755243454464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962724178588516679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayaka_susu 注射用东西喝了只会大大降低药效还可能伤身"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962724037483749376"
+          ]
+        },
+        "author_id": "1937899755243454464",
+        "conversation_id": "1962724178588516679",
+        "created_at": "2025-09-02T03:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962724178588516679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FEfw1bxxW",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayaka_susu/status/1962724178588516679/photo/1",
+              "media_key": "3_1962724037483749376",
+              "start": 21,
+              "url": "https://t.co/7FEfw1bxxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962724178588516679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 885,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以这个是不是口服的\n喝一瓶试试口感？🤤 https://t.co/7FEfw1bxxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1458,
+          "like_count": 1946,
+          "listed_count": 6,
+          "media_count": 647,
+          "tweet_count": 4731
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T15:44:55.000Z",
+        "description": "04的老年🍥\nよろしくね。🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️\n6.28夢のはじめ",
+        "id": "1937899755243454464",
+        "location": "近所",
+        "name": "桐生さなき🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950084729828757504/aHX4AP43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 57,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 190
+        },
+        "username": "Ayaka_susu",
+        "verified": false
+      }
+    ]
+  }
+}

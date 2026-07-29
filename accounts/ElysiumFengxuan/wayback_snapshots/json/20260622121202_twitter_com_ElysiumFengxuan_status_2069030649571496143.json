@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2068661585007333442",
+    "created_at": "2026-06-22T12:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069030649571496143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449853213974528",
+          "start": 0,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069030649571496143",
+    "in_reply_to_user_id": "2041449853213974528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068884030754533782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiangnie 住院费顶了（确信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2068661585007333442",
+        "created_at": "2026-06-22T12:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069030649571496143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449853213974528",
+              "start": 0,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069030649571496143",
+        "in_reply_to_user_id": "2041449853213974528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068884030754533782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiangnie 住院费顶了（确信）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449853213974528",
+        "conversation_id": "2068661585007333442",
+        "created_at": "2026-06-22T02:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068884030754533782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068884030754533782",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068871190249357785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 是这样的喵，还免费喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 2592,
+          "like_count": 6727,
+          "listed_count": 11,
+          "media_count": 1231,
+          "tweet_count": 10032
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵 hrt🍥2026.3.28 已炸柜（第三天炸柜极速版）出厂日期2009.12.17 偏天赋一点天生雌高喵～ 蓄发中喵，闲的没事就爱吃点小糖呀喵🍥咱是心理委员喵，有不开心的阔以找咱呀喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaojiangnie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaojiangnie",
+                "start": 0,
+                "url": "https://t.co/GQwOKrmbQK"
+              }
+            ]
+          }
+        },
+        "id": "2041449853213974528",
+        "location": "青岛市",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 292,
+          "like_count": 2377,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/GQwOKrmbQK",
+        "username": "xiaojiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

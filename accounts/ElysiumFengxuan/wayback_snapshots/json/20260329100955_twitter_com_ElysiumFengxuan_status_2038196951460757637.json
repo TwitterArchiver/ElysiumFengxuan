@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1980066453346029625",
+    "created_at": "2026-03-29T10:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038196951460757637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431696032501571584",
+          "start": 0,
+          "username": "JeffNoro"
+        },
+        {
+          "end": 24,
+          "id": "1179429210999279616",
+          "start": 10,
+          "username": "manguyuxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038196951460757637",
+    "in_reply_to_user_id": "1431696032501571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980115130722697570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeffNoro @manguyuxiaoyu 牛都没了为什么泥觉得还能射"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1980066453346029625",
+        "created_at": "2026-03-29T10:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038196951460757637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431696032501571584",
+              "start": 0,
+              "username": "JeffNoro"
+            },
+            {
+              "end": 24,
+              "id": "1179429210999279616",
+              "start": 10,
+              "username": "manguyuxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038196951460757637",
+        "in_reply_to_user_id": "1431696032501571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980115130722697570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeffNoro @manguyuxiaoyu 牛都没了为什么泥觉得还能射"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431696032501571584",
+        "conversation_id": "1980066453346029625",
+        "created_at": "2025-10-20T03:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980115130722697570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1179429210999279616",
+              "start": 0,
+              "username": "manguyuxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980115130722697570",
+        "in_reply_to_user_id": "1179429210999279616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7662,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980066453346029625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manguyuxiaoyu 变性人射精是怎么样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2060,
+          "like_count": 4458,
+          "listed_count": 8,
+          "media_count": 1070,
+          "tweet_count": 8380
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T19:12:29.000Z",
+        "description": "Female bodhisattva give me kkb(look look vaginal) bei, please!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ca.gov",
+                "end": 23,
+                "expanded_url": "https://www.ca.gov/",
+                "start": 0,
+                "url": "https://t.co/qIviEwpjx4"
+              }
+            ]
+          }
+        },
+        "id": "1431696032501571584",
+        "location": "Fremont, CA",
+        "name": "Jeff Noro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557110248292331522/ozCn8Esc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 619,
+          "like_count": 440,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/qIviEwpjx4",
+        "username": "JeffNoro",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-02T16:13:39.000Z",
+        "description": "我是小雨，我人在曼谷。从事跨性别帮助10年。曼谷雨变性中心 加微信(wechat) manguyu004或@manguyu003 QQ: 3296254691微博：曼谷雨泰国变性中心 小红书：1100258031 松果倾听：4854455",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "manguyu003"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hormoes.com",
+                "end": 23,
+                "expanded_url": "https://hormoes.com/",
+                "start": 0,
+                "url": "https://t.co/Qn1238OrJY"
+              }
+            ]
+          }
+        },
+        "id": "1179429210999279616",
+        "name": "曼谷雨小雨",
+        "pinned_tweet_id": "1929217889921544331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923710613550759939/cLmdb7GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45765,
+          "following_count": 12,
+          "like_count": 207,
+          "listed_count": 219,
+          "media_count": 2300,
+          "tweet_count": 2533
+        },
+        "url": "https://t.co/Qn1238OrJY",
+        "username": "manguyuxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

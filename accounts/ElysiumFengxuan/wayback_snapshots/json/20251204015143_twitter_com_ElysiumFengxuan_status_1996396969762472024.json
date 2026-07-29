@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1996286942040949122",
+    "created_at": "2025-12-04T01:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T02:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996396969762472024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996396969762472024",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996286942040949122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 偷偷发给你主人）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996286935711858688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q8ZCjbwAAT5j4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996286910969602049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q8XmYa4AEN6sD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996286911800135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q8Xpeb0AAzKb0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1996286912404062208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q8XrubAAAs8mt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1996286942040949122",
+        "created_at": "2025-12-04T01:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996396969762472024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996396969762472024",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996286942040949122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 偷偷发给你主人）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996286935711858688",
+            "3_1996286910969602049",
+            "3_1996286911800135680",
+            "3_1996286912404062208"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "1996286942040949122",
+        "created_at": "2025-12-03T18:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996286942040949122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFmGjjz9TD",
+              "end": 57,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/1996286942040949122/photo/1",
+              "media_key": "3_1996286935711858688",
+              "start": 34,
+              "url": "https://t.co/mFmGjjz9TD"
+            },
+            {
+              "display_url": "pic.x.com/mFmGjjz9TD",
+              "end": 57,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/1996286942040949122/photo/1",
+              "media_key": "3_1996286910969602049",
+              "start": 34,
+              "url": "https://t.co/mFmGjjz9TD"
+            },
+            {
+              "display_url": "pic.x.com/mFmGjjz9TD",
+              "end": 57,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/1996286942040949122/photo/1",
+              "media_key": "3_1996286911800135680",
+              "start": 34,
+              "url": "https://t.co/mFmGjjz9TD"
+            },
+            {
+              "display_url": "pic.x.com/mFmGjjz9TD",
+              "end": 57,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/1996286942040949122/photo/1",
+              "media_key": "3_1996286912404062208",
+              "start": 34,
+              "url": "https://t.co/mFmGjjz9TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996286942040949122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 340,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是偷偷打开清洁一下\n不小心玩出来了对不对😺\n反正主人也不上推） https://t.co/mFmGjjz9TD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1732,
+          "like_count": 2489,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 5858
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 2909,
+          "like_count": 17991,
+          "listed_count": 9,
+          "media_count": 993,
+          "tweet_count": 3631
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

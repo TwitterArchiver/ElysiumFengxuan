@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1876127608850763983",
+    "created_at": "2025-01-07T01:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T02:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876437559192301912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1406631425181368330",
+          "start": 0,
+          "username": "duoyuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876437559192301912",
+    "in_reply_to_user_id": "1406631425181368330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876127608850763983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoyuchan 好酷酷~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1876127608850763983",
+        "created_at": "2025-01-07T01:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T02:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876437559192301912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406631425181368330",
+              "start": 0,
+              "username": "duoyuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876437559192301912",
+        "in_reply_to_user_id": "1406631425181368330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876127608850763983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoyuchan 好酷酷~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876127574646214656"
+          ]
+        },
+        "author_id": "1406631425181368330",
+        "conversation_id": "1876127608850763983",
+        "created_at": "2025-01-06T04:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T05:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876127608850763983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voFE5h3pZX",
+              "end": 32,
+              "expanded_url": "https://x.com/duoyuchan/status/1876127608850763983/video/1",
+              "media_key": "7_1876127574646214656",
+              "start": 9,
+              "url": "https://t.co/voFE5h3pZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876127608850763983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 59907,
+          "like_count": 971,
+          "quote_count": 8,
+          "reply_count": 311,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "能夸我一句好酷嘛 https://t.co/voFE5h3pZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 687,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-20T15:14:09.000Z",
+        "description": "我此生到今天任然在犯错🫶忧郁文青走开 瞎显摆浪漫走开 拒绝无病呻吟  ‖做菜︱自拍︱宠物🐱︱",
+        "id": "1406631425181368330",
+        "location": "b613星球",
+        "name": "蝉蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715569500433842176/wHqFxQru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13542,
+          "following_count": 314,
+          "like_count": 6508,
+          "listed_count": 38,
+          "media_count": 325,
+          "tweet_count": 1914
+        },
+        "username": "duoyuchan",
+        "verified": false
+      }
+    ]
+  }
+}

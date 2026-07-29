@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1906977371170939110",
+    "created_at": "2025-04-02T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907251639641108880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695452816658325504",
+          "start": 0,
+          "username": "minchen3943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907251639641108880",
+    "in_reply_to_user_id": "1695452816658325504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906977371170939110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minchen3943 挖槽三千"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1906977363180863488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbxzucbQAA9Pdn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1906977371170939110",
+        "created_at": "2025-04-02T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907251639641108880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695452816658325504",
+              "start": 0,
+              "username": "minchen3943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907251639641108880",
+        "in_reply_to_user_id": "1695452816658325504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906977371170939110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minchen3943 挖槽三千"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906977363180863488"
+          ]
+        },
+        "author_id": "1695452816658325504",
+        "conversation_id": "1906977371170939110",
+        "created_at": "2025-04-01T07:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T08:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906977371170939110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3c5xEUj12j",
+              "end": 45,
+              "expanded_url": "https://x.com/minchen3943/status/1906977371170939110/photo/1",
+              "media_key": "3_1906977363180863488",
+              "start": 22,
+              "url": "https://t.co/3c5xEUj12j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906977371170939110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，这备注的意思是要线下单杀我吗🥺\n孩怕 https://t.co/3c5xEUj12j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "Elysium_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 990,
+          "like_count": 1205,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-26T15:07:16.000Z",
+        "description": "07年天才少女！持证含糖丨17岁丨也许是INTP？丨喜欢玩音游，包括：舞立方、Phigros｜看到就会回fo，如果没回可以私信/tg丨日常出没在湖南长沙｜tg：https://t.co/KKC329JhfY 老婆是 @Moyang0709 ^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Moyang0709"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minchen3943",
+                "end": 103,
+                "expanded_url": "http://t.me/minchen3943",
+                "start": 80,
+                "url": "https://t.co/KKC329JhfY"
+              }
+            ]
+          }
+        },
+        "id": "1695452816658325504",
+        "location": "长沙",
+        "name": "瞑尘🍥（鸳鸾是我的🐶）",
+        "pinned_tweet_id": "1905570999288168613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697598311883304960/jDWBHRM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 702,
+          "like_count": 2497,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1149
+        },
+        "username": "minchen3943",
+        "verified": false
+      }
+    ]
+  }
+}

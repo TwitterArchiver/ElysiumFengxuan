@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1902880173491417421",
+    "created_at": "2025-10-13T14:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977742203033145415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946488536951386112",
+          "start": 0,
+          "username": "MTD1468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977742203033145415",
+    "in_reply_to_user_id": "1946488536951386112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977705278456860988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTD1468 阿巴阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1902880173491417421",
+        "created_at": "2025-10-13T14:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977742203033145415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946488536951386112",
+              "start": 0,
+              "username": "MTD1468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977742203033145415",
+        "in_reply_to_user_id": "1946488536951386112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977705278456860988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTD1468 阿巴阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946488536951386112",
+        "conversation_id": "1902880173491417421",
+        "created_at": "2025-10-13T11:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977705278456860988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977705278456860988",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902880173491417421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 耳鸣吧，我之前掏耳朵的时候掏多了开始就这样了，的确很烦，尤其是你想睡觉的时候，真的很折磨人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1466,
+          "like_count": 1948,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 4783
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T08:34:03.000Z",
+        "description": "",
+        "id": "1946488536951386112",
+        "name": "zhao man",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975554115494371328/JJu16o9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "MTD1468",
+        "verified": false
+      }
+    ]
+  }
+}

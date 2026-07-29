@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2006381516008648782",
+    "created_at": "2026-01-01T00:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T01:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006527904084275352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        },
+        {
+          "end": 15,
+          "id": "1817584080437014528",
+          "start": 8,
+          "username": "N552AA"
+        },
+        {
+          "end": 30,
+          "id": "1999795510341935105",
+          "start": 16,
+          "username": "jamesniko0302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006527904084275352",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006381516008648782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo @N552AA @jamesniko0302 这事还没过去呢ovo"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2006381516008648782",
+        "created_at": "2026-01-01T00:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T01:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006527904084275352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            },
+            {
+              "end": 15,
+              "id": "1817584080437014528",
+              "start": 8,
+              "username": "N552AA"
+            },
+            {
+              "end": 30,
+              "id": "1999795510341935105",
+              "start": 16,
+              "username": "jamesniko0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006527904084275352",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006381516008648782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo @N552AA @jamesniko0302 这事还没过去呢ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2006381516008648782",
+        "created_at": "2025-12-31T15:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006381516008648782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1817584080437014528",
+              "start": 14,
+              "username": "N552AA"
+            },
+            {
+              "end": 37,
+              "id": "1999795510341935105",
+              "start": 23,
+              "username": "jamesniko0302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 103,
+              "expanded_url": "https://x.com/520illusion/status/1991048529364574617",
+              "start": 80,
+              "url": "https://t.co/p9uPdQwBnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006381516008648782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3553,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991048529364574617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "八\n11月19日，N55（原@N552AA，现@jamesniko0302）被摄于上海市精神卫生中心，相关视频被广泛传播。后续与N55等人相关的舆论迅速发酵。\nhttps://t.co/p9uPdQwBnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1777,
+          "like_count": 2872,
+          "listed_count": 6,
+          "media_count": 883,
+          "tweet_count": 6468
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "pinned_tweet_id": "2003856886207312104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 284,
+          "like_count": 2188,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 963
+        },
+        "username": "CldGeo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T10:56:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/分离障碍（精分？/双相/ADHD/ASD/BPD/断续含糖/小证：2025-11-14/坐标上海/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（私信过门之后加QQ234559943 同类免费）/便宜糖商推荐QQ：3518541175/请大家记住我现在的样子谢谢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/xb0u8Vpp8T"
+              }
+            ]
+          }
+        },
+        "id": "1999795510341935105",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（四代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004170988389650432/4OWBPHXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 73,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/xb0u8Vpp8T",
+        "username": "jamesniko0302",
+        "verified": false
+      }
+    ]
+  }
+}

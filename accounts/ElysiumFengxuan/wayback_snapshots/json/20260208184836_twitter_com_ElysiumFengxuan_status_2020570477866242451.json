@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2020494156054040884",
+    "created_at": "2026-02-08T18:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020570477866242451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996563547007176704",
+          "start": 0,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 27,
+          "id": "1818731995310309376",
+          "start": 11,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020570477866242451",
+    "in_reply_to_user_id": "1996563547007176704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020494156054040884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu666 @fuckpregaabalin 干啥似了ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020494152811855873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAo8uhkawAE3oK6.jpg",
+        "width": 1199
+      },
+      {
+        "height": 891,
+        "media_key": "3_2020494151650062336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAo8udPbMAAp3nx.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2020494156054040884",
+        "created_at": "2026-02-08T18:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020570477866242451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 27,
+              "id": "1818731995310309376",
+              "start": 11,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020570477866242451",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020494156054040884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 @fuckpregaabalin 干啥似了ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020494152811855873",
+            "3_2020494151650062336"
+          ]
+        },
+        "author_id": "1996563547007176704",
+        "conversation_id": "2020494156054040884",
+        "created_at": "2026-02-08T13:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020494156054040884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "咱喵就是说啊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64SudwIFsX",
+              "end": 51,
+              "expanded_url": "https://x.com/gu_niu666/status/2020494156054040884/photo/1",
+              "media_key": "3_2020494152811855873",
+              "start": 28,
+              "url": "https://t.co/64SudwIFsX"
+            },
+            {
+              "display_url": "pic.x.com/64SudwIFsX",
+              "end": 51,
+              "expanded_url": "https://x.com/gu_niu666/status/2020494156054040884/photo/1",
+              "media_key": "3_2020494151650062336",
+              "start": 28,
+              "url": "https://t.co/64SudwIFsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020494156054040884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "震撼首发，咱喵(吴问源)已经确认死亡。\n#咱喵就是说啊 https://t.co/64SudwIFsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1833,
+          "like_count": 3169,
+          "listed_count": 7,
+          "media_count": 935,
+          "tweet_count": 6839
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n 人格在立希和头模零之间来回切换\n🚫禁止未工作者🈚稳定资金来源者购买任何   🍥🍬💉\n 反lgbt/跨人乐子/重开药桶饭\n 理想是世界没有跨\n 安卓跨人 安卓救人 安卓共情力\n 纯乐子人 如果你对我认真，你就输了 \n 如果你对我感到破防 那祝你以后学会笑一笑就好",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡💯互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018938146436894720/pmXDOh3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 202,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1642
+        },
+        "username": "gu_niu666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "好玩 幽默的其乐无穷",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄒㄧˊ蘭",
+        "pinned_tweet_id": "2019287591275958775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020506480752168960/5NXaCuxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 2719,
+          "like_count": 163756,
+          "listed_count": 11,
+          "media_count": 1486,
+          "tweet_count": 31384
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

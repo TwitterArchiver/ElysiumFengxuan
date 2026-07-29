@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2037492746257322133",
+    "created_at": "2026-03-27T12:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037513205225025830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692168065650462720",
+          "start": 0,
+          "username": "EveningCity"
+        },
+        {
+          "end": 22,
+          "id": "1693873810469199872",
+          "start": 13,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037513205225025830",
+    "in_reply_to_user_id": "1692168065650462720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037492746257322133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EveningCity @eve_city 抱抱喵QAQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [eve_city].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "eve_city",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "eve_city"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037492737122172929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEag2WybAAEoemB.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2037492746257322133",
+        "created_at": "2026-03-27T12:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037513205225025830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692168065650462720",
+              "start": 0,
+              "username": "EveningCity"
+            },
+            {
+              "end": 22,
+              "id": "1693873810469199872",
+              "start": 13,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037513205225025830",
+        "in_reply_to_user_id": "1692168065650462720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037492746257322133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EveningCity @eve_city 抱抱喵QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037492737122172929"
+          ]
+        },
+        "author_id": "1692168065650462720",
+        "conversation_id": "2037492746257322133",
+        "created_at": "2026-03-27T11:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037492746257322133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1693873810469199872",
+              "start": 9,
+              "username": "eve_city"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45mKhNIM9r",
+              "end": 170,
+              "expanded_url": "https://x.com/EveningCity/status/2037492746257322133/photo/1",
+              "media_key": "3_2037492737122172929",
+              "start": 147,
+              "url": "https://t.co/45mKhNIM9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037492746257322133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 605,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉地通知大家，@eve_city（雨城EveCity）被无故封禁了。警钟长鸣，请各位一定要注意自己的账户安全😭\n在焦虑之中，我又想起了这个里推。我于是打算以后就拿这个账号来刷推罢…不知道能看到这条帖子的人又有多少喵…（碎碎念）\n无所谓啦…就当作是重新开始吧…\n欢迎曾经的推友姐妹来互fo🥺 https://t.co/45mKhNIM9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2079,
+          "like_count": 4331,
+          "listed_count": 8,
+          "media_count": 1065,
+          "tweet_count": 8269
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T13:34:52.000Z",
+        "description": "07年 高二在读📖丨HRT 2024.3.7🌸丨永远怀念 @eve_city 😭丨寻回互fo中🕊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "eve_city"
+              }
+            ]
+          }
+        },
+        "id": "1692168065650462720",
+        "location": "Earth",
+        "name": "重生版の雨城EveCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037490742701256704/18qowIcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 36,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "EveningCity",
+        "verified": false
+      }
+    ]
+  }
+}

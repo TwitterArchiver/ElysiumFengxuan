@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2043226660804386939",
+    "created_at": "2026-04-12T08:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043248935507235073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        },
+        {
+          "end": 19,
+          "id": "2036071254873276416",
+          "start": 9,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043248935507235073",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043248493519900973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 @renyue105 啊?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2043226660804386939",
+        "created_at": "2026-04-12T08:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043248935507235073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            },
+            {
+              "end": 19,
+              "id": "2036071254873276416",
+              "start": 9,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043248935507235073",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043248493519900973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 @renyue105 啊?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2043226660804386939",
+        "created_at": "2026-04-12T08:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043248493519900973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 27,
+              "id": "2036071254873276416",
+              "start": 17,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043248493519900973",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043232664191447235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @renyue105 药娘巧施连环计，大叔误入断头台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 2165,
+          "like_count": 4963,
+          "listed_count": 8,
+          "media_count": 1107,
+          "tweet_count": 8730
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥南梁 | 含糖量低 | 偏内向 怕生 | 炫压抑高手 | 飞友 | Cpp Coder | 有2台服务器 | 爱玩战雷 | P3D/FSX/萝卜拉式...... \n人机能不能远离我口牙",
+        "id": "1764195010986274816",
+        "name": "不会起名の捌拐玖捌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 162,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "CCA8798",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "拳碎星辰，身纳炎阳。\n金龙附体，战意无双。\n我之所向，便是坦途；\n任他风雨起，我自破天行",
+        "id": "2036071254873276416",
+        "name": "任破天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042948238601523200/b8hpY6RI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 29,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 468
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

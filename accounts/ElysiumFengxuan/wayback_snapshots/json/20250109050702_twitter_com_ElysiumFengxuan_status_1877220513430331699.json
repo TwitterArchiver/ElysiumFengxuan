@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1876924288327876983",
+    "created_at": "2025-01-09T05:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T06:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877220513430331699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1876552605486153728",
+          "start": 0,
+          "username": "bhdhc1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877220513430331699",
+    "in_reply_to_user_id": "1876552605486153728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876924288327876983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhdhc1234 一起来玩MC~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1876924288327876983",
+        "created_at": "2025-01-09T05:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T06:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877220513430331699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1876552605486153728",
+              "start": 0,
+              "username": "bhdhc1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877220513430331699",
+        "in_reply_to_user_id": "1876552605486153728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876924288327876983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhdhc1234 一起来玩MC~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876924276764225537"
+          ]
+        },
+        "author_id": "1876552605486153728",
+        "conversation_id": "1876924288327876983",
+        "created_at": "2025-01-08T09:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876924288327876983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b62JKbl8DY",
+              "end": 109,
+              "expanded_url": "https://x.com/bhdhc1234/status/1876924288327876983/photo/1",
+              "media_key": "3_1876924276764225537",
+              "start": 86,
+              "url": "https://t.co/b62JKbl8DY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876924288327876983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍v1\n唔.. 大家好..\n是被喝掉的花茶..\nMtF🏳️‍⚧️🍥 有小证 HRT2024/6/4\n喜欢玩mc..\n没什么特殊的.. 对不起..\n希望大家能喜欢.. https://t.co/b62JKbl8DY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 699,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T08:53:11.000Z",
+        "description": "唔.. 好累..\nMtF🏳️‍⚧️🍥 | 小证含糖 HRT2024/6/4 | 2009/6/26",
+        "id": "1876552605486153728",
+        "name": "被喝的花茶🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1876924288327876983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876552921627680768/0fHJ0OOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 197,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "bhdhc1234",
+        "verified": false
+      }
+    ]
+  }
+}

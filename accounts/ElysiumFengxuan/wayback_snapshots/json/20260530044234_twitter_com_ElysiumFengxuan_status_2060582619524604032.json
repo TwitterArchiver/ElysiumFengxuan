@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2059950616886358347",
+    "created_at": "2026-05-30T04:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060582619524604032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963286420145020928",
+          "start": 0,
+          "username": "yoasohanasys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060582619524604032",
+    "in_reply_to_user_id": "1963286420145020928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059950616886358347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoasohanasys 为什么泥觉得是贬义?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2059950616886358347",
+        "created_at": "2026-05-30T04:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060582619524604032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963286420145020928",
+              "start": 0,
+              "username": "yoasohanasys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060582619524604032",
+        "in_reply_to_user_id": "1963286420145020928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059950616886358347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoasohanasys 为什么泥觉得是贬义?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963286420145020928",
+        "conversation_id": "2059950616886358347",
+        "created_at": "2026-05-28T10:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059950616886358347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059950616886358347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13728,
+          "like_count": 58,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药娘这个词我有点反感，感觉是不友好的词汇，甚至可以和跨➗，人妖什么的站一队，用来诋毁跨性别群体（？），但圈内人还是很喜欢拿来当人称代词，是自嘲还是什么呢……一直不是很理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 2483,
+          "like_count": 5954,
+          "listed_count": 10,
+          "media_count": 1180,
+          "tweet_count": 9470
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T17:02:41.000Z",
+        "description": "夜は花の色、僕は知っていた                                      \n\n无证含糖 🏳️‍⚧️｜HRT2024.11｜DID｜重度社交障碍｜夜遊花Channel｜抑郁症｜保护性约束｜致幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RLE.wiki",
+                "end": 23,
+                "expanded_url": "http://RLE.wiki",
+                "start": 0,
+                "url": "https://t.co/YAVb7nvzys"
+              }
+            ]
+          }
+        },
+        "id": "1963286420145020928",
+        "location": "1km内",
+        "name": "雨夜复眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019561746521055232/fh5b1Loc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 193,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/YAVb7nvzys",
+        "username": "yoasohanasys",
+        "verified": false
+      }
+    ]
+  }
+}

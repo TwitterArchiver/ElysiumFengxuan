@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1925179596573700596",
+    "created_at": "2025-05-23T03:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T04:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925761218301604144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        },
+        {
+          "end": 25,
+          "id": "1805373961020260353",
+          "start": 15,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925761218301604144",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925531101822366045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever @ciyou9443 补药啊猫有主银"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1925179596573700596",
+        "created_at": "2025-05-23T03:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T04:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925761218301604144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            },
+            {
+              "end": 25,
+              "id": "1805373961020260353",
+              "start": 15,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925761218301604144",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925531101822366045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever @ciyou9443 补药啊猫有主银"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872113640064786432",
+        "conversation_id": "1925179596573700596",
+        "created_at": "2025-05-22T12:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T13:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925531101822366045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            },
+            {
+              "end": 27,
+              "id": "1738907027362209792",
+              "start": 11,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925531101822366045",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925189580422316468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 @ElysiumFengxuan 我是你的狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1343,
+          "like_count": 1892,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 4189
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）\nbluesky: https://t.co/p6CngYU70a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "niox.lol",
+                "end": 108,
+                "expanded_url": "http://niox.lol",
+                "start": 85,
+                "url": "https://t.co/p6CngYU70a"
+              }
+            ]
+          }
+        },
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 83,
+          "like_count": 756,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1116
+        },
+        "username": "ChariseStever",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～/戾气现在很重/有两个人格/没有家长党🏳️‍⚧️🍥/",
+        "id": "1805373961020260353",
+        "location": "基沃托斯",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 320,
+          "like_count": 2987,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 919
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

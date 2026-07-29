@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1987721386341896275",
+    "created_at": "2025-11-11T10:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T11:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988199000940658910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880324584815366144",
+          "start": 0,
+          "username": "XingXu_000"
+        },
+        {
+          "end": 22,
+          "id": "1625030759395524608",
+          "start": 12,
+          "username": "pandyingg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988199000940658910",
+    "in_reply_to_user_id": "1880324584815366144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988084012657918284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingXu_000 @pandyingg 好叭ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1987721386341896275",
+        "created_at": "2025-11-11T10:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988199000940658910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880324584815366144",
+              "start": 0,
+              "username": "XingXu_000"
+            },
+            {
+              "end": 22,
+              "id": "1625030759395524608",
+              "start": 12,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988199000940658910",
+        "in_reply_to_user_id": "1880324584815366144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988084012657918284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingXu_000 @pandyingg 好叭ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880324584815366144",
+        "conversation_id": "1987721386341896275",
+        "created_at": "2025-11-11T03:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988084012657918284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 27,
+              "id": "1625030759395524608",
+              "start": 17,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988084012657918284",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987812992948240636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @pandyingg 郵箱帳戶本身的頭像在註冊時會顯示在GPT帳戶裡，不是所有的郵箱都能設定頭像，所以有的就沒有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1522,
+          "like_count": 2001,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 4963
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:28.000Z",
+        "description": "",
+        "id": "1880324584815366144",
+        "name": "序",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880325332609462272/_MxTwUW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 180
+        },
+        "username": "XingXu_000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈\n/💧🐟。o 〇@Romanorum_\n Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Romanorum_"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "1977597737513488883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 723,
+          "like_count": 6720,
+          "listed_count": 3,
+          "media_count": 506,
+          "tweet_count": 2710
+        },
+        "username": "pandyingg",
+        "verified": false
+      }
+    ]
+  }
+}

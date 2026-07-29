@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1991337389151903753",
+    "created_at": "2025-11-21T09:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991794188493709506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972198626266173447",
+          "start": 0,
+          "username": "kanameRanachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991794188493709506",
+    "in_reply_to_user_id": "1972198626266173447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991776928957886541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameRanachan 微信怎么了微信，只是一个聚会而已（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1991337389151903753",
+        "created_at": "2025-11-21T09:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991794188493709506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972198626266173447",
+              "start": 0,
+              "username": "kanameRanachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991794188493709506",
+        "in_reply_to_user_id": "1972198626266173447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991776928957886541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameRanachan 微信怎么了微信，只是一个聚会而已（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972198626266173447",
+        "conversation_id": "1991337389151903753",
+        "created_at": "2025-11-21T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991776928957886541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991776928957886541",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991337389151903753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 为什么不是tg群🤔非要明知故犯😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1588,
+          "like_count": 2182,
+          "listed_count": 6,
+          "media_count": 723,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T07:16:13.000Z",
+        "description": "喜欢小野猫，懂一点币圈，不谈政治敏感话题。\n欢迎请我喝咖啡（ERC20链：0x26c9ef2ae079f850b8808101f848af71790c4cad）【erc20支持usdt和usdc噢】",
+        "id": "1972198626266173447",
+        "location": "Toshima-ku, Tokyo",
+        "name": "Rana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985367532212232193/WloqZx_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 166
+        },
+        "username": "kanameRanachan",
+        "verified": false
+      }
+    ]
+  }
+}

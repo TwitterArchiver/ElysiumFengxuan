@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2027194335154880991",
+    "created_at": "2026-02-27T11:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027342207943078274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027342207943078274",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027194335154880991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiwenel 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2027194311033692160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIKfD_bIAA0-oH.png",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2027194335154880991",
+        "created_at": "2026-02-27T11:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027342207943078274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027342207943078274",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027194335154880991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiwenel 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027194311033692160"
+          ]
+        },
+        "author_id": "1451898340262645760",
+        "conversation_id": "2027194335154880991",
+        "created_at": "2026-02-27T01:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027194335154880991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A Telegram user has created the 小涵Naiwenel sticker",
+              "display_url": "t.me/addstickers/Na…",
+              "end": 35,
+              "expanded_url": "https://t.me/addstickers/Naiwenel",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2027194335616290816/VD2n8i-Y?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027194335616290816/VD2n8i-Y?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "Add sticker set 小涵Naiwenel on Telegram",
+              "unwound_url": "https://t.me/addstickers/Naiwenel",
+              "url": "https://t.co/sosaFJQ4Fm"
+            },
+            {
+              "display_url": "pic.x.com/yOiPckzqXo",
+              "end": 59,
+              "expanded_url": "https://x.com/Naiwenel/status/2027194335154880991/photo/1",
+              "media_key": "3_2027194311033692160",
+              "start": 36,
+              "url": "https://t.co/yOiPckzqXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027194335154880991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 324,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发布了一套自己的表情包\nhttps://t.co/sosaFJQ4Fm https://t.co/yOiPckzqXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 1926,
+          "like_count": 3693,
+          "listed_count": 7,
+          "media_count": 983,
+          "tweet_count": 7430
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵~希望你能天天开心哦~ | they&them | 个人势Vup&Vtuber | 开源独立游戏开发者 | 发布的作品默认均遵循GPLv3协议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naiwenel.com",
+                "end": 23,
+                "expanded_url": "http://www.naiwenel.com",
+                "start": 0,
+                "url": "https://t.co/pjAQTrYBYG"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5792,
+          "following_count": 311,
+          "like_count": 106283,
+          "listed_count": 15,
+          "media_count": 2173,
+          "tweet_count": 22428
+        },
+        "url": "https://t.co/pjAQTrYBYG",
+        "username": "Naiwenel",
+        "verified": false
+      }
+    ]
+  }
+}

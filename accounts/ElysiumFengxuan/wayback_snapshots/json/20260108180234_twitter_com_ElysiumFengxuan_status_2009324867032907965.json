@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2006974607652434045",
+    "created_at": "2026-01-08T18:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009324867032907965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1920795331933204481",
+          "start": 0,
+          "username": "Sink__cz"
+        },
+        {
+          "end": 21,
+          "id": "344165300",
+          "start": 10,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009324867032907965",
+    "in_reply_to_user_id": "1920795331933204481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007033837533245948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sink__cz @senchannya 初中才知道的我自闭了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [senchannya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "senchannya",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "senchannya"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2006974607652434045",
+        "created_at": "2026-01-08T18:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009324867032907965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1920795331933204481",
+              "start": 0,
+              "username": "Sink__cz"
+            },
+            {
+              "end": 21,
+              "id": "344165300",
+              "start": 10,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009324867032907965",
+        "in_reply_to_user_id": "1920795331933204481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007033837533245948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sink__cz @senchannya 初中才知道的我自闭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920795331933204481",
+        "conversation_id": "2006974607652434045",
+        "created_at": "2026-01-02T10:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007033837533245948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "344165300",
+              "start": 0,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007033837533245948",
+        "in_reply_to_user_id": "344165300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3559,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974607652434045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senchannya byd的我二年级（2016），在西瓜视就知道有女装大佬&amp;伪娘这些了😡，看的还是圆肥白、阿木木、k777和守夜这些，所以我算不算老资历😋👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1769,
+          "like_count": 3007,
+          "listed_count": 6,
+          "media_count": 893,
+          "tweet_count": 6528
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T10:57:59.000Z",
+        "description": "圈子很杂，你能想到的都有我/爱玩点抽象/网上幽默/现实社恐☝🤓\n                                                               这个世界是一个巨大的“🤔”",
+        "id": "1920795331933204481",
+        "location": "泽鲁斯",
+        "name": "沉舟落雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969412039216152583/WbS-cmbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 34,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 374
+        },
+        "username": "Sink__cz",
+        "verified": false
+      }
+    ]
+  }
+}

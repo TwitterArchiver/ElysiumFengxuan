@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995711404025020417"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1995711408550416796",
+    "created_at": "2025-12-02T04:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T05:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995711408550416796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RIiuSQjyL5",
+          "end": 102,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1995711408550416796/photo/1",
+          "media_key": "3_1995711404025020417",
+          "start": 79,
+          "url": "https://t.co/RIiuSQjyL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995711408550416796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假设有个学生上课和别人讲话，老师罚他写一百遍自己名字，这个学生图省事拿两支笔夹在一起写（一下能写两个自己名），老师瞅见以后叫他写两百遍，\n问：老师都做法对吗 https://t.co/RIiuSQjyL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_1995711404025020417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Iw8r8bgAEYSsB.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995711404025020417"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1995711408550416796",
+        "created_at": "2025-12-02T04:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995711408550416796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIiuSQjyL5",
+              "end": 102,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1995711408550416796/photo/1",
+              "media_key": "3_1995711404025020417",
+              "start": 79,
+              "url": "https://t.co/RIiuSQjyL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995711408550416796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假设有个学生上课和别人讲话，老师罚他写一百遍自己名字，这个学生图省事拿两支笔夹在一起写（一下能写两个自己名），老师瞅见以后叫他写两百遍，\n问：老师都做法对吗 https://t.co/RIiuSQjyL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1721,
+          "like_count": 2452,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 5796
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

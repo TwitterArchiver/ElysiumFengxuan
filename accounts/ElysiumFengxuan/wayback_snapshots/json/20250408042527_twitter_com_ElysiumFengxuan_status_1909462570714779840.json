@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1909161047866433583",
+    "created_at": "2025-04-08T04:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T05:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909462570714779840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892761617575923712",
+          "start": 0,
+          "username": "Imagawanobunaga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909462570714779840",
+    "in_reply_to_user_id": "1892761617575923712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909161047866433583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Imagawanobunaga 国内还说药娘活不过30（吐槽）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1909161047866433583",
+        "created_at": "2025-04-08T04:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T05:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909462570714779840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892761617575923712",
+              "start": 0,
+              "username": "Imagawanobunaga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909462570714779840",
+        "in_reply_to_user_id": "1892761617575923712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909161047866433583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Imagawanobunaga 国内还说药娘活不过30（吐槽）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892761617575923712",
+        "conversation_id": "1909161047866433583",
+        "created_at": "2025-04-07T08:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909161047866433583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909161047866433583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文药圈和欧美药圈区别真大啊，那边一堆快三十才吃药的，三十往上的，四五十的，甚至六七十的都有，中文圈一堆十三四，十六七的，咱22岁出头在那边算小的，但在中文圈已经算老的掉土渣滓了，一周前GD发作搞得对自身的生理厌恶剧增，还胡思乱想了一堆给自己精神施压，此后一天至少哭个四回，我好难受啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1146,
+          "like_count": 1379,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T02:22:00.000Z",
+        "description": "生来就是注定要受苦的破砖烂瓦，因为害怕所以不混圈子",
+        "id": "1892761617575923712",
+        "name": "梅岳承芳🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892761982685609984/L_64yxBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 26,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "Imagawanobunaga",
+        "verified": false
+      }
+    ]
+  }
+}

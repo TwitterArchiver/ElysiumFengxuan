@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031713373533200384"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2031420055045738994",
+    "created_at": "2026-03-11T12:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031713376410509669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568953331514757121",
+          "start": 0,
+          "username": "yyjet28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lITa78HXqS",
+          "end": 38,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2031713376410509669/photo/1",
+          "media_key": "3_2031713373533200384",
+          "start": 15,
+          "url": "https://t.co/lITa78HXqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031713376410509669",
+    "in_reply_to_user_id": "1568953331514757121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031645519114863001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyjet28 康康这个? https://t.co/lITa78HXqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031713373533200384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIYjHrbYAA7rxn.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031713373533200384"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2031420055045738994",
+        "created_at": "2026-03-11T12:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031713376410509669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568953331514757121",
+              "start": 0,
+              "username": "yyjet28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lITa78HXqS",
+              "end": 38,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031713376410509669/photo/1",
+              "media_key": "3_2031713373533200384",
+              "start": 15,
+              "url": "https://t.co/lITa78HXqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031713376410509669",
+        "in_reply_to_user_id": "1568953331514757121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031645519114863001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyjet28 康康这个? https://t.co/lITa78HXqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568953331514757121",
+        "conversation_id": "2031420055045738994",
+        "created_at": "2026-03-11T08:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031645519114863001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031645519114863001",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031420055045738994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 因为现在的 AI 都是非常倾向于奉承用户的观点的（也许只有这样才能更好地留住用户吧），如果你家长带着其固有的偏见向这些 AI 提问，只要不涉及明显的的事实错误或严重的伦理问题，这些 AI 大概率照样会认同你家长的观点的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 2037,
+          "like_count": 3989,
+          "listed_count": 8,
+          "media_count": 1020,
+          "tweet_count": 7845
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T13:23:34.000Z",
+        "description": "锦瑟无端五十弦，一弦一柱思华年",
+        "id": "1568953331514757121",
+        "location": "B612",
+        "name": "锦师傅祝大家妇女节快乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635316116502499329/Sypp2500_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 592,
+          "like_count": 973,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1445
+        },
+        "username": "yyjet28",
+        "verified": false
+      }
+    ]
+  }
+}

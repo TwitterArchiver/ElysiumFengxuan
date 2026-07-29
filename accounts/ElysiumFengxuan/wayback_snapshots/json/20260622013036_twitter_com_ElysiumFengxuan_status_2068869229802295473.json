@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2068826210843729936",
+    "created_at": "2026-06-22T01:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068869229802295473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Nya_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068869229802295473",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068826210843729936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_QwQ 在哪看的ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2068826201142231040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXyeAUagAATPu9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2068826210843729936",
+        "created_at": "2026-06-22T01:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068869229802295473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Nya_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068869229802295473",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068826210843729936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_QwQ 在哪看的ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068826201142231040"
+          ]
+        },
+        "author_id": "1960198897827282944",
+        "conversation_id": "2068826210843729936",
+        "created_at": "2026-06-21T22:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068826210843729936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzBoBaJZUI",
+              "end": 35,
+              "expanded_url": "https://x.com/Nya_QwQ/status/2068826210843729936/photo/1",
+              "media_key": "3_2068826201142231040",
+              "start": 12,
+              "url": "https://t.co/pzBoBaJZUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068826210843729936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后应该能做这个..？ https://t.co/pzBoBaJZUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 2592,
+          "like_count": 6723,
+          "listed_count": 11,
+          "media_count": 1231,
+          "tweet_count": 10027
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya🍥",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066546464067895296/PPX9sADq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 984,
+          "like_count": 7474,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "Nya_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T11:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988568547996418288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943288759778447360",
+          "start": 0,
+          "username": "lu_tou20445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988568547996418288",
+    "in_reply_to_user_id": "1943288759778447360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988441756283916550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu_tou20445 你让一个国外的品牌来收集国内的成语词句长句会不会有点不合理ovo（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1988441745810759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4uboAAHvWP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1192,
+        "media_key": "3_1988441745814851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4vaEAA-hWP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1186,
+        "media_key": "3_1988441745785544705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4oa4AEtl4M.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1189,
+        "media_key": "3_1988441745793970176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4qbcAAX3h6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T11:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988568547996418288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988568547996418288",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你让一个国外的品牌来收集国内的成语词句长句会不会有点不合理ovo（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988441745810759680",
+            "3_1988441745814851584",
+            "3_1988441745785544705",
+            "3_1988441745793970176"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T03:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988441756283916550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745810759680",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745814851584",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745785544705",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745793970176",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988441756283916550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 72792,
+          "like_count": 424,
+          "quote_count": 14,
+          "reply_count": 116,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "谁来管管苹果自带的输入法，感觉没上过网没经历过社会化训练一样，成语词语长句是不会拼的，常用词是记不住的，还会自己耍点小聪明，打的打的就会变成这样🚬 https://t.co/8IsNM9v81r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1522,
+          "like_count": 2021,
+          "listed_count": 6,
+          "media_count": 696,
+          "tweet_count": 4988
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 74,
+          "like_count": 8320,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

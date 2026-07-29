@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1900203172238602248",
+    "created_at": "2025-03-14T12:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900525612680310983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599546260402638848",
+          "start": 0,
+          "username": "chika_ichii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900525612680310983",
+    "in_reply_to_user_id": "1599546260402638848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900203172238602248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chika_ichii 喵？皮肤自定义吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1900203160003919872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7gtNEbwAAiADv.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1048,
+        "media_key": "3_1900203160003895297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7gtNEbYAE8zbf.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1900203172238602248",
+        "created_at": "2025-03-14T12:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900525612680310983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599546260402638848",
+              "start": 0,
+              "username": "chika_ichii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900525612680310983",
+        "in_reply_to_user_id": "1599546260402638848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900203172238602248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chika_ichii 喵？皮肤自定义吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900203160003919872",
+            "3_1900203160003895297"
+          ]
+        },
+        "author_id": "1599546260402638848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900203172238602248",
+        "created_at": "2025-03-13T15:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900203172238602248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAJDABbddy",
+              "end": 108,
+              "expanded_url": "https://x.com/chika_ichii/status/1900203172238602248/photo/1",
+              "media_key": "3_1900203160003919872",
+              "start": 85,
+              "url": "https://t.co/JAJDABbddy"
+            },
+            {
+              "display_url": "pic.x.com/JAJDABbddy",
+              "end": 108,
+              "expanded_url": "https://x.com/chika_ichii/status/1900203172238602248/photo/1",
+              "media_key": "3_1900203160003895297",
+              "start": 85,
+              "url": "https://t.co/JAJDABbddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900203172238602248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "宣传一下我们的MC服务器\n喵之国度🎉🎉🎉\n\n喵！欢迎闯入猫娘专属MC异世界\n\n还在普通MC服务器里当平凡冒险者吗？是时候跳入超萌次元，加入我们全员猫娘的MC社区服啦！\n\n在这里，每个人都是软萌猫娘，顶着毛茸茸的耳朵，甩着俏皮的尾巴挖矿、探险、建造。挖矿时，猫娘的敏锐感官让矿物无所遁形；建造时，灵活的猫爪能精准放置每一块方块。\n\n社区里，大家都像亲密的猫姐妹，分享着猫咪趣事，交流猫娘生存秘籍。快来这个充满爱与萌的服务器，开启只属于猫娘的方块大冒险，一起喵呜喵喵呜！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2945,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宣传一下我们的MC服务器\n喵之国度🎉🎉🎉\n\n喵！欢迎闯入猫娘专属MC异世界\n\n还在普通MC服务器里当平凡冒险者吗？是时候跳入超萌次元，加入我们全员猫娘的MC社区服啦！… https://t.co/JAJDABbddy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 861,
+          "like_count": 969,
+          "listed_count": 5,
+          "media_count": 295,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "🧊🔥冰棍必须是涩的！/千夏/あまねく奇跡の始発点/メンヘラの子/医師/日本語N2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chikahair.com",
+                "end": 23,
+                "expanded_url": "http://chikahair.com",
+                "start": 0,
+                "url": "https://t.co/fxoZNJ8l6N"
+              }
+            ]
+          }
+        },
+        "id": "1599546260402638848",
+        "location": "東京都千代田区神田須田町1丁目12-3アルカディアビル",
+        "name": "冰棍好涩喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1900203172238602248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713906913589764096/h3IZfzmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 142,
+          "like_count": 369,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/fxoZNJ8l6N",
+        "username": "chika_ichii",
+        "verified": true
+      }
+    ]
+  }
+}

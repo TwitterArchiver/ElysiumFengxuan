@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1997986787432792561",
+    "created_at": "2025-12-08T15:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998050069720023177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857684678423248896",
+          "start": 0,
+          "username": "approved_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998050069720023177",
+    "in_reply_to_user_id": "1857684678423248896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997986787432792561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@approved_cry 臭直男！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_1997986784937132032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pGZSYaQAAIEbR.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1997986787432792561",
+        "created_at": "2025-12-08T15:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998050069720023177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857684678423248896",
+              "start": 0,
+              "username": "approved_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998050069720023177",
+        "in_reply_to_user_id": "1857684678423248896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997986787432792561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@approved_cry 臭直男！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997986784937132032"
+          ]
+        },
+        "author_id": "1857684678423248896",
+        "conversation_id": "1997986787432792561",
+        "created_at": "2025-12-08T11:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997986787432792561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYXoBZrPv3",
+              "end": 45,
+              "expanded_url": "https://x.com/approved_cry/status/1997986787432792561/photo/1",
+              "media_key": "3_1997986784937132032",
+              "start": 22,
+              "url": "https://t.co/RYXoBZrPv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997986787432792561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孤独是凉爽的夏夜\n可供人无忧的安眠\n(图转 https://t.co/RYXoBZrPv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1745,
+          "like_count": 2584,
+          "listed_count": 6,
+          "media_count": 843,
+          "tweet_count": 6029
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "区一哥/\n\n深邃评论制造者/\n\nacg重度依赖/\n\n我要去二次元了/\n\n若你相信我，我便始终如一/\n\nac酱一直在这里/\n\n欢迎私信来扩我qq(小声/\n\n拉菲艾拉是对的/\n\n^^",
+        "id": "1857684678423248896",
+        "location": "劣品酒吧城市",
+        "name": "当一辈子区和特许哭泣吧",
+        "pinned_tweet_id": "1986722152981450880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975071451607900160/W2j2xHWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 722,
+          "like_count": 25664,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2952
+        },
+        "username": "approved_cry",
+        "verified": false
+      }
+    ]
+  }
+}

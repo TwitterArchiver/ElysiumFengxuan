@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1997125633588318583",
+    "created_at": "2025-12-06T04:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T05:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997164706193354982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997164706193354982",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997125633588318583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 我又来了我又觉得他是唐疏文的高徒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997125629154930688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3LbGbsAADLV4.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997125629347778560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3Lb0aUAA9AFH.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997125631193272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3LisaUAAsSrm.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1997125633588318583",
+        "created_at": "2025-12-06T04:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997164706193354982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997164706193354982",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997125633588318583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我又来了我又觉得他是唐疏文的高徒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997125629154930688",
+            "3_1997125629347778560",
+            "3_1997125631193272320"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1997125633588318583",
+        "created_at": "2025-12-06T02:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997125633588318583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125629154930688",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125629347778560",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125631193272320",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "x.com/kaga_needs_buf…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/kaga_needs_buff/status/1996650083652456903",
+              "start": 65,
+              "url": "https://t.co/4GCx5c94YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997125633588318583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996650083652456903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "....他都通灵了 我能说啥？\n原来b站号是被洗脑成功的迹象\n我看确实得多洗洗😥 https://t.co/jo37V5ktRa https://t.co/4GCx5c94YT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 1737,
+          "like_count": 2521,
+          "listed_count": 6,
+          "media_count": 831,
+          "tweet_count": 5925
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 96,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

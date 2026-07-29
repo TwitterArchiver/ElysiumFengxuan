@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2065699143255986609",
+    "created_at": "2026-06-13T08:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065717883381125589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065717883381125589",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065699143255986609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 泥群呢泥群呢卧要进泥群"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2065699022485225475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUQAagAM9lpt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022422298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUPxaUAAEqTt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022489456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUQBbEAA5Ce7.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022481014784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUP_aQAAutVb.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2065699143255986609",
+        "created_at": "2026-06-13T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065717883381125589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065717883381125589",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065699143255986609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 泥群呢泥群呢卧要进泥群"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065699022485225475",
+            "3_2065699022422298624",
+            "3_2065699022489456640",
+            "3_2065699022481014784"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065699143255986609",
+        "created_at": "2026-06-13T07:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065699143255986609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022485225475",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022422298624",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022489456640",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022481014784",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065699143255986609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新消息 海月水母已同意我把它蒸馏成 A I\n并且已同意我注销他的账号\n所以那些反对的呢？ 继续出来叫啊！ https://t.co/uPdYxvunP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 2570,
+          "like_count": 6532,
+          "listed_count": 11,
+          "media_count": 1223,
+          "tweet_count": 9875
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2065699143255986609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 10,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 262
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

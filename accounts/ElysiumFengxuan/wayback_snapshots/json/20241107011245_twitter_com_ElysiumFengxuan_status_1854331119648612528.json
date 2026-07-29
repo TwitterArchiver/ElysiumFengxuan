@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1854292274944864298",
+    "created_at": "2024-11-07T01:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T02:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854331119648612528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "813945615516254208",
+          "start": 0,
+          "username": "AotearoaNZer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854331119648612528",
+    "in_reply_to_user_id": "813945615516254208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854292274944864298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AotearoaNZer 为什么要感谢能去新西兰（好奇）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1854292274944864298",
+        "created_at": "2024-11-07T01:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T02:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854331119648612528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "813945615516254208",
+              "start": 0,
+              "username": "AotearoaNZer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854331119648612528",
+        "in_reply_to_user_id": "813945615516254208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854292274944864298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AotearoaNZer 为什么要感谢能去新西兰（好奇）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813945615516254208",
+        "conversation_id": "1854292274944864298",
+        "created_at": "2024-11-06T22:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T23:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854292274944864298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854292274944864298",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1215,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子得感谢两个男人，一个是我爹，支持我并且带着我妈一起来新西兰；另一个是我对象，来澳洲之前一个劲儿的劝阻我别去美国😄看着现在欧洲和北美加上亚洲中东都乱得一团糟，南美和非洲也没什么意思。真的是庆幸自己活在大洋洲，远离上面的纷争😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 340,
+          "like_count": 401,
+          "listed_count": 0,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-28T03:12:11.000Z",
+        "description": "Kiwi🇳🇿Construction project manager🏠Australia🦘& New Zealand based🐑Foodie🍔and travel enthusiast✈️Furry/Gay/Bear/Pup🏳️‍🌈Ambassador-at-large of @Enchenia❄️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "Enchenia"
+              }
+            ]
+          }
+        },
+        "id": "813945615516254208",
+        "location": "Brisbane, Queensland",
+        "name": "NZLBIGMAC雷凌",
+        "pinned_tweet_id": "1342584305395015680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850493473050210305/RfcR_8Hx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 3168,
+          "like_count": 77053,
+          "listed_count": 6,
+          "tweet_count": 19764
+        },
+        "username": "AotearoaNZer",
+        "verified": false
+      }
+    ]
+  }
+}

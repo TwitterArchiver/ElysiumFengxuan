@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2065640678349209998",
+    "created_at": "2026-06-13T08:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065714317736182048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028661482624622592",
+          "start": 0,
+          "username": "ban_xi6867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065714317736182048",
+    "in_reply_to_user_id": "2028661482624622592",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065688138908062126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_xi6867 （）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2065688128451739648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrMaIkbgAAjcaL.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2065640678349209998",
+        "created_at": "2026-06-13T08:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065714317736182048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028661482624622592",
+              "start": 0,
+              "username": "ban_xi6867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065714317736182048",
+        "in_reply_to_user_id": "2028661482624622592",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065688138908062126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_xi6867 （）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065688128451739648"
+          ]
+        },
+        "author_id": "2028661482624622592",
+        "conversation_id": "2065640678349209998",
+        "created_at": "2026-06-13T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065688138908062126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbEDGKzXDg",
+              "end": 47,
+              "expanded_url": "https://x.com/ban_xi6867/status/2065688138908062126/photo/1",
+              "media_key": "3_2065688128451739648",
+              "start": 24,
+              "url": "https://t.co/BbEDGKzXDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065688138908062126",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065675393764647405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 我这是复制的 https://t.co/BbEDGKzXDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 2570,
+          "like_count": 6525,
+          "listed_count": 11,
+          "media_count": 1223,
+          "tweet_count": 9873
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T02:39:43.000Z",
+        "description": "你好 我叫陈顺东\n耳东陈\n顺利的顺\n东方的东\n我的父母希望我顺顺利利的所以给我取名陈顺东\n可是我半辈子都在走下坡路",
+        "id": "2028661482624622592",
+        "name": "25级 陈顺东",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050982712186744832/3epYI1Zx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "ban_xi6867",
+        "verified": false
+      }
+    ]
+  }
+}

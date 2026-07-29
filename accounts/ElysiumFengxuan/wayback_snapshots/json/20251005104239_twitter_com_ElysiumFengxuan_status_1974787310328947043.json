@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1974714565163413847",
+    "created_at": "2025-10-05T10:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T11:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974787310328947043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806728273378082816",
+          "start": 0,
+          "username": "cx2855654421"
+        },
+        {
+          "end": 23,
+          "id": "1943561677762646016",
+          "start": 14,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974787310328947043",
+    "in_reply_to_user_id": "1806728273378082816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974758891935400280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cx2855654421 @qusuunmd ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1974714565163413847",
+        "created_at": "2025-10-05T10:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974787310328947043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806728273378082816",
+              "start": 0,
+              "username": "cx2855654421"
+            },
+            {
+              "end": 23,
+              "id": "1943561677762646016",
+              "start": 14,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974787310328947043",
+        "in_reply_to_user_id": "1806728273378082816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974758891935400280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cx2855654421 @qusuunmd ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806728273378082816",
+        "conversation_id": "1974714565163413847",
+        "created_at": "2025-10-05T08:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974758891935400280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 26,
+              "id": "1738907027362209792",
+              "start": 10,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974758891935400280",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974745420783120812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd @ElysiumFengxuan 哪一个傻鱼?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1463,
+          "like_count": 1949,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 4770
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-28T16:36:25.000Z",
+        "description": "喜欢睡觉的笨蛋小曦",
+        "id": "1806728273378082816",
+        "name": "想有饭吃的笨曦曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806947869657829376/-ojqpm82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "cx2855654421",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/8月15号开始吃糖/无证含糖/高一牲/有点缺爱/想要贴贴",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943564601829859328/eOpvqcX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 32,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

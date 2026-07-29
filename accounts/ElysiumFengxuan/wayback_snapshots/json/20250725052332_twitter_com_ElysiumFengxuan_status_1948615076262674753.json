@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1948309730411356462",
+    "created_at": "2025-07-25T05:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948615076262674753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "205449297",
+          "start": 0,
+          "username": "CaiqueBasilio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948615076262674753",
+    "in_reply_to_user_id": "205449297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948309730411356462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiqueBasilio 孩子已经被热傻了，拉出去埋了吧）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_1948309709922107392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnJW8xaAAAFoMP.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1948309730411356462",
+        "created_at": "2025-07-25T05:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948615076262674753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "205449297",
+              "start": 0,
+              "username": "CaiqueBasilio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948615076262674753",
+        "in_reply_to_user_id": "205449297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948309730411356462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiqueBasilio 孩子已经被热傻了，拉出去埋了吧）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948309709922107392"
+          ]
+        },
+        "author_id": "205449297",
+        "conversation_id": "1948309730411356462",
+        "created_at": "2025-07-24T09:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948309730411356462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Om6YX6qZSa",
+              "end": 45,
+              "expanded_url": "https://x.com/CaiqueBasilio/status/1948309730411356462/photo/1",
+              "media_key": "3_1948309709922107392",
+              "start": 22,
+              "url": "https://t.co/Om6YX6qZSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948309730411356462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7071,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "她妈的傻逼学校，开91°空调还让不让人活辣 https://t.co/Om6YX6qZSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 1408,
+          "like_count": 1879,
+          "listed_count": 5,
+          "media_count": 587,
+          "tweet_count": 4457
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-20T22:32:59.000Z",
+        "description": "夢想是讓全天下的男性同胞吃上賽博名🐓#互关 #互關 #互贊 #互評",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "互关"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "互關"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "互贊"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "互評"
+              }
+            ]
+          }
+        },
+        "id": "205449297",
+        "location": "canguçu",
+        "name": "霸王別妓（💯互關互贊）",
+        "pinned_tweet_id": "1917491278717280478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915302069445287942/yEbsU0As_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 2751,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 482
+        },
+        "username": "CaiqueBasilio",
+        "verified": false
+      }
+    ]
+  }
+}

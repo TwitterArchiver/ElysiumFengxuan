@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1989624869185884207",
+    "created_at": "2025-11-16T04:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989920386767884768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934297754626613248",
+          "start": 0,
+          "username": "SsssCld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989920386767884768",
+    "in_reply_to_user_id": "1934297754626613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989624869185884207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SsssCld 跑来发日常的我：吧唧吧唧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1989624869185884207",
+        "created_at": "2025-11-16T04:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989920386767884768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934297754626613248",
+              "start": 0,
+              "username": "SsssCld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989920386767884768",
+        "in_reply_to_user_id": "1934297754626613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989624869185884207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SsssCld 跑来发日常的我：吧唧吧唧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934297754626613248",
+        "conversation_id": "1989624869185884207",
+        "created_at": "2025-11-15T09:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989624869185884207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989624869185884207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 44990,
+          "like_count": 528,
+          "quote_count": 5,
+          "reply_count": 110,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "老中人翻墙必做清单：\n1.看黄\n2.发表骂犹太人的内容，然后被封禁，被封禁后在墙内发贴装无辜\n3.发表支持纳粹的内容，然后被封禁，被封禁后在墙内发贴装无辜\n4.和其他人对骂，然后被封禁，被封禁后在墙内发贴装无辜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988766406477799424/gZWtEpcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1526,
+          "like_count": 2060,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 5041
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:11:56.000Z",
+        "description": "No gap  / no masters  / no authority \nFreedom  / democracy  / bread",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssscld",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssscld",
+                "start": 0,
+                "url": "https://t.co/Dzj2iVoRBj"
+              }
+            ]
+          }
+        },
+        "id": "1934297754626613248",
+        "location": "state capitalism fallen zone",
+        "name": "Ⓐssss_cld 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983911936665460737/vH_FUD7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 258,
+          "like_count": 22276,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/Dzj2iVoRBj",
+        "username": "SsssCld",
+        "verified": false
+      }
+    ]
+  }
+}

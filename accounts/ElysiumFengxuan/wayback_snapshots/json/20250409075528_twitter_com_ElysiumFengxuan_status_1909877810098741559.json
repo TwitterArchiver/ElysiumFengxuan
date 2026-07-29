@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1909228277773779105",
+    "created_at": "2025-04-09T07:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T08:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909877810098741559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476623796501381121",
+          "start": 0,
+          "username": "101pc_mixsoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909877810098741559",
+    "in_reply_to_user_id": "1476623796501381121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909864568479772894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101pc_mixsoda 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1909228277773779105",
+        "created_at": "2025-04-09T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909877810098741559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476623796501381121",
+              "start": 0,
+              "username": "101pc_mixsoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909877810098741559",
+        "in_reply_to_user_id": "1476623796501381121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909864568479772894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101pc_mixsoda 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476623796501381121",
+        "conversation_id": "1909228277773779105",
+        "created_at": "2025-04-09T07:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909864568479772894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909864568479772894",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909831053297983930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 直接说我要开易性症诊断证明就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1170,
+          "like_count": 1440,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 3263
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T18:39:10.000Z",
+        "description": "@chabaokawai入骨相思知不知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "chabaokawai"
+              }
+            ]
+          }
+        },
+        "id": "1476623796501381121",
+        "name": "101%_mixsoda🥤",
+        "pinned_tweet_id": "1899522363143954785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899521401620660224/QMo2Mfyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 54,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "username": "101pc_mixsoda",
+        "verified": false
+      }
+    ]
+  }
+}

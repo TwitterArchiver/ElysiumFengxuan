@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1865739493593997629",
+    "created_at": "2024-12-10T10:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T11:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866429901412421632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866429901412421632",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865739493593997629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 好消息，我成为药娘了，坏消息，我宠物了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1865739493593997629",
+        "created_at": "2024-12-10T10:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866429901412421632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866429901412421632",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865739493593997629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 好消息，我成为药娘了，坏消息，我宠物了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "1865739493593997629",
+        "created_at": "2024-12-08T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865739493593997629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865739493593997629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 34039,
+          "like_count": 261,
+          "quote_count": 12,
+          "reply_count": 38,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "翻车成为木桶饭前四条须知\n一：不可紫餐、紫砂、欧弟、圆角、找金主\n二：学习护肤、穿搭（穿搭自由但强调化学反应），并以正当工作获得收入\n三：每笔收入存入40%进去个人账户，只保留60%随时支配，当危机时再使用个人账户的钱\n四：接受持续性文化教育、职业培训、个人生存技巧训练、兴趣爱好学习\n\n特知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 416,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "she/her\n不要讨厌我😭\n极深柜的底层穷人 但是永远爱大家\n本体是直言不讳的玫瑰剑客\n心中的大姐姐：Diana Spencer\n星空合众国居民\nLGBTQ+友好\n以清水+牢骚+学术为主 清水牢骚占大头\n现实与理想混合的进步派左翼\n@bayer04fussball 球迷\n独立生活派\n道教正一派/佛教禅宗/祆教/景教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "bayer04fussball"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "Sonder rede dra hulle dieblaam",
+        "name": "Tuệ Quều",
+        "pinned_tweet_id": "1858043172703682561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792112053118791680/8zI0c-Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 505,
+          "like_count": 24704,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 9736
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

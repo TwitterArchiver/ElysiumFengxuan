@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1999824965055779196",
+    "created_at": "2025-12-15T03:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000412505852817661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1288842786389671936",
+          "start": 0,
+          "username": "RinkaiR02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000412505852817661",
+    "in_reply_to_user_id": "1288842786389671936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999824965055779196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinkaiR02 呜哇是无脸怪哇哇哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999824954335059969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DOM1AaYAEUyI3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999824954318352384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DOM08bcAAuQkz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1999824965055779196",
+        "created_at": "2025-12-15T03:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000412505852817661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1288842786389671936",
+              "start": 0,
+              "username": "RinkaiR02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000412505852817661",
+        "in_reply_to_user_id": "1288842786389671936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999824965055779196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinkaiR02 呜哇是无脸怪哇哇哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999824954335059969",
+            "3_1999824954318352384"
+          ]
+        },
+        "author_id": "1288842786389671936",
+        "conversation_id": "1999824965055779196",
+        "created_at": "2025-12-13T12:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999824965055779196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "zentai"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "全包紧身衣"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ゼンタイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuY8eFeHBa",
+              "end": 74,
+              "expanded_url": "https://x.com/RinkaiR02/status/1999824965055779196/photo/1",
+              "media_key": "3_1999824954335059969",
+              "start": 51,
+              "url": "https://t.co/cuY8eFeHBa"
+            },
+            {
+              "display_url": "pic.x.com/cuY8eFeHBa",
+              "end": 74,
+              "expanded_url": "https://x.com/RinkaiR02/status/1999824965055779196/photo/1",
+              "media_key": "3_1999824954318352384",
+              "start": 51,
+              "url": "https://t.co/cuY8eFeHBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999824965055779196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 14976,
+          "like_count": 555,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "看似清纯的外表下，是——\n\n#kigurumi #着ぐるみ #zentai #全包紧身衣 #ゼンタイ https://t.co/cuY8eFeHBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1752,
+          "like_count": 2661,
+          "listed_count": 6,
+          "media_count": 856,
+          "tweet_count": 6161
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:24:06.000Z",
+        "description": "这里東雲！北京新人kiger 目前角色水月/忍冬/槐琥/烛煌 偶尔玩涩涩 偶尔玩摄摄 欢迎扩列捏～/SONY a7RIV + 24-105G + 50 1.4GM/💗@Yuelin_V/神秘账号@KeiyoJE07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "Yuelin_V"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "KeiyoJE07"
+              }
+            ]
+          }
+        },
+        "id": "1288842786389671936",
+        "location": "北京",
+        "name": "東雲🪼",
+        "pinned_tweet_id": "1999365287662223875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000064248039571456/aNZTcXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4693,
+          "following_count": 3726,
+          "like_count": 231,
+          "listed_count": 24,
+          "media_count": 119,
+          "tweet_count": 408
+        },
+        "username": "RinkaiR02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1873555047910715441",
+    "created_at": "2024-12-30T12:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T13:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873714308967993531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3265760526",
+          "start": 0,
+          "username": "Fiiiissssshhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873714308967993531",
+    "in_reply_to_user_id": "3265760526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873555047910715441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiiiissssshhhhh 男同是吧 超市他！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1873555047910715441",
+        "created_at": "2024-12-30T12:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T13:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873714308967993531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3265760526",
+              "start": 0,
+              "username": "Fiiiissssshhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873714308967993531",
+        "in_reply_to_user_id": "3265760526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873555047910715441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiiiissssshhhhh 男同是吧 超市他！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3265760526",
+        "conversation_id": "1873555047910715441",
+        "created_at": "2024-12-30T02:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T03:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873555047910715441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873555047910715441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13705,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友说我性格不像个女的，像个男同，所以他才喜欢我🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 599,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-02T07:00:46.000Z",
+        "description": "一条死鱼/只会一点音乐/纯正恋爱脑/不正经也不清水/有精神病/INTP/会发疯还没素质/长相三分普女                                                                                     ❤️❤️❤️@LinOREJ ❤❤️❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 141,
+                "username": "LinOREJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Diefishmusic",
+                "end": 23,
+                "expanded_url": "https://t.me/Diefishmusic",
+                "start": 0,
+                "url": "https://t.co/F0d8vjoAm6"
+              }
+            ]
+          }
+        },
+        "id": "3265760526",
+        "name": "🐟",
+        "pinned_tweet_id": "1801209738262437960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702652402439262208/ur4CmDvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 490,
+          "like_count": 8961,
+          "listed_count": 11,
+          "media_count": 560,
+          "tweet_count": 5174
+        },
+        "url": "https://t.co/F0d8vjoAm6",
+        "username": "Fiiiissssshhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

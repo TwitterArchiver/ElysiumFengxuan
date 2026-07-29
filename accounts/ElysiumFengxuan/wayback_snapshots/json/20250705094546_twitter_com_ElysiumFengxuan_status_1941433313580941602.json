@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1941142541224784244",
+    "created_at": "2025-07-05T09:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T10:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941433313580941602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460183475235950593",
+          "start": 0,
+          "username": "OuroraEtimis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941433313580941602",
+    "in_reply_to_user_id": "1460183475235950593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941367771822162377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuroraEtimis 惨（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1941142541224784244",
+        "created_at": "2025-07-05T09:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941433313580941602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460183475235950593",
+              "start": 0,
+              "username": "OuroraEtimis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941433313580941602",
+        "in_reply_to_user_id": "1460183475235950593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941367771822162377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuroraEtimis 惨（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460183475235950593",
+        "conversation_id": "1941142541224784244",
+        "created_at": "2025-07-05T05:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941367771822162377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941367771822162377",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941142541224784244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 我也是，只吃得起五块钱的拼好饭，（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1388,
+          "like_count": 1859,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 4362
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-15T09:50:56.000Z",
+        "description": "| 持证含糖 |❤️ HRT2024-9-15| INFP-T ||双向||轻度M||伪魅魔|伪音学习中||💞|面基||广东顺德||可爱的笨蛋老婆 @hsysda32312  雨晴@YuQing_Etimis \n~电报：https://t.co/oMQEKNtFAD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "hsysda32312"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "YuQing_Etimis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Etimis",
+                "end": 133,
+                "expanded_url": "https://t.me/Etimis",
+                "start": 110,
+                "url": "https://t.co/oMQEKNtFAD"
+              }
+            ]
+          }
+        },
+        "id": "1460183475235950593",
+        "location": "广东 顺德 雨晴的梦乡🍥",
+        "name": "🍥暮雨晴🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912910032842444800/UNQXwweB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 327,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 488
+        },
+        "username": "OuroraEtimis",
+        "verified": false
+      }
+    ]
+  }
+}

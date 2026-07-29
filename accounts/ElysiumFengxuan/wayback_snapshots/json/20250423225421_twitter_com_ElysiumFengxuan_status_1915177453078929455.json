@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1915175945818038768",
+    "created_at": "2025-04-23T22:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T23:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915177453078929455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682428492078788608",
+          "start": 0,
+          "username": "shiroko486318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915177453078929455",
+    "in_reply_to_user_id": "1682428492078788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915176822880559558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko486318 不能玩手机，不能出门，每天就在家里，除了吃就是睡）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1915176822880559558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1915176822880559558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1915176822880559558"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1915175945818038768",
+        "created_at": "2025-04-23T22:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T23:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915177453078929455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682428492078788608",
+              "start": 0,
+              "username": "shiroko486318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915177453078929455",
+        "in_reply_to_user_id": "1682428492078788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915176822880559558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko486318 不能玩手机，不能出门，每天就在家里，除了吃就是睡）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1243,
+          "like_count": 1760,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 3764
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T16:33:21.000Z",
+        "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shiroko486318",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shiroko486318",
+                "start": 0,
+                "url": "https://t.co/9NiuQsKFtL"
+              }
+            ]
+          }
+        },
+        "id": "1682428492078788608",
+        "location": "OM70##",
+        "name": "和摇滚的你说拜拜",
+        "pinned_tweet_id": "1914572306690789807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 639,
+          "like_count": 1101,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/9NiuQsKFtL",
+        "username": "shiroko486318",
+        "verified": false
+      }
+    ]
+  }
+}

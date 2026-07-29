@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2077733015791579481",
+    "created_at": "2026-07-17T19:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078193405189111841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879101273561251840",
+          "start": 0,
+          "username": "chidie66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078193405189111841",
+    "in_reply_to_user_id": "1879101273561251840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078000729038741616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chidie66 单看表面意义就很雷霆所以我发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2077733015791579481",
+        "created_at": "2026-07-17T19:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078193405189111841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879101273561251840",
+              "start": 0,
+              "username": "chidie66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078193405189111841",
+        "in_reply_to_user_id": "1879101273561251840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078000729038741616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidie66 单看表面意义就很雷霆所以我发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879101273561251840",
+        "conversation_id": "2077733015791579481",
+        "created_at": "2026-07-17T06:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078000729038741616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078000729038741616",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077733015791579481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 光发一张图何意味，这是人家陶行知先生自勉的，某些人只理解了表层含义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 2668,
+          "like_count": 6995,
+          "listed_count": 11,
+          "media_count": 1282,
+          "tweet_count": 10362
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T09:40:42.000Z",
+        "description": "今日葬花人笑痴  你孙老尸来推本来就想看黄的，没想到让我大吃一惊 看到了物种多样性",
+        "id": "1879101273561251840",
+        "location": "China",
+        "name": "Chi Xiaochuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063159516313907200/94JwnfF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 123,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "chidie66",
+        "verified": false
+      }
+    ]
+  }
+}

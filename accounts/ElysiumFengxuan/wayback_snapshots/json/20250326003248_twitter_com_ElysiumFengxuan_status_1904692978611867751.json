@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1904551416984674770",
+    "created_at": "2025-03-26T00:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T01:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904692978611867751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2962119486",
+          "start": 0,
+          "username": "hoshinoyumemi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904692978611867751",
+    "in_reply_to_user_id": "2962119486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904551416984674770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoyumemi11 蓝粉白背景（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1904551416984674770",
+        "created_at": "2025-03-26T00:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T01:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904692978611867751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2962119486",
+              "start": 0,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904692978611867751",
+        "in_reply_to_user_id": "2962119486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904551416984674770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoyumemi11 蓝粉白背景（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2962119486",
+        "conversation_id": "1904551416984674770",
+        "created_at": "2025-03-25T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904551416984674770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/1904352235795919358",
+              "start": 52,
+              "url": "https://t.co/ab0yvMvOYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904551416984674770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 856,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904352235795919358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一些有趣的：这个人的头像是完全符合所谓的「跨性别特征」的二次元头像。那请问一下这跨性别特征到底在哪里？ https://t.co/ab0yvMvOYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "Elysium_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 994,
+          "like_count": 1154,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-07T04:55:43.000Z",
+        "description": "She/her|Proud to be Trans🏳️‍⚧️骄傲的跨性别者|les🌈|请不要使用「生理性别」|Althusserian Marxism|UK trains and buses enthusiast|Elle as in 'Michelle' @Michelle_Z2023|小鱼@yucandyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "Michelle_Z2023"
+              },
+              {
+                "end": 158,
+                "start": 147,
+                "username": "yucandyyyy"
+              }
+            ]
+          }
+        },
+        "id": "2962119486",
+        "location": "Tkaronto",
+        "name": "Elle🏳️‍⚧️🇵🇸Solidarity Now!",
+        "pinned_tweet_id": "1853780122475626968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872325210705219584/8MDDIacT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1399,
+          "like_count": 32942,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 4259
+        },
+        "username": "hoshinoyumemi11",
+        "verified": false
+      }
+    ]
+  }
+}

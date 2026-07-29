@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997316449787109378"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1997283029069529322",
+    "created_at": "2025-12-06T14:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997316453008351595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843873950704775171",
+          "start": 0,
+          "username": "snowy_1001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NvApYBGmwM",
+          "end": 35,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1997316453008351595/photo/1",
+          "media_key": "3_1997316449787109378",
+          "start": 12,
+          "url": "https://t.co/NvApYBGmwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997316453008351595",
+    "in_reply_to_user_id": "1843873950704775171",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997283029069529322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snowy_1001 https://t.co/NvApYBGmwM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_1997316449787109378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fkupWa4AIxSFz.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997316449787109378"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1997283029069529322",
+        "created_at": "2025-12-06T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997316453008351595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843873950704775171",
+              "start": 0,
+              "username": "snowy_1001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NvApYBGmwM",
+              "end": 35,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1997316453008351595/photo/1",
+              "media_key": "3_1997316449787109378",
+              "start": 12,
+              "url": "https://t.co/NvApYBGmwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997316453008351595",
+        "in_reply_to_user_id": "1843873950704775171",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997283029069529322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snowy_1001 https://t.co/NvApYBGmwM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843873950704775171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1997283029069529322",
+        "created_at": "2025-12-06T12:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997283029069529322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 95,
+              "tag": "HalalUpgrade"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "药娘科技"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "抽象永生"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997283029069529322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旁边的纸条写着：\n\n“兄弟，这些是给你重生用的，别问，抽象就完事了。”\n\n我打开手机，看到我新身份的 Twitter 已经爆了：\n“成为我们的一员吧 bro，提升生活质量，不保证合法。”\n“#HalalUpgrade #药娘科技 #抽象永生”\n评论区一群人疯狂转发，有人说：\n\n“oder 现在是宗教+科技+药学三栖网红了。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1741,
+          "like_count": 2532,
+          "listed_count": 6,
+          "media_count": 836,
+          "tweet_count": 5955
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T04:40:09.000Z",
+        "description": "week up  open your eyes     become one of us\n清真حلال🕌🚫🐖🐷🕷️",
+        "id": "1843873950704775171",
+        "location": "神",
+        "name": "snowy - W～※ ※ ※ ※ - -- - 蜘蛛杀手4399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843874379882496001/o2RXa8Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 648,
+          "like_count": 8474,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3400
+        },
+        "username": "snowy_1001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1909591153432797652",
+    "created_at": "2025-04-09T08:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909886316785078289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901471587477442560",
+          "start": 0,
+          "username": "Another_and_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909886316785078289",
+    "in_reply_to_user_id": "1901471587477442560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909591153432797652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_and_Me 以前经常听歌的时候大脑就有个mp3，现在都是我杂乱的思维声音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1909591153432797652",
+        "created_at": "2025-04-09T08:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T09:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909886316785078289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909886316785078289",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909591153432797652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me 以前经常听歌的时候大脑就有个mp3，现在都是我杂乱的思维声音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1909591151826341888"
+          ]
+        },
+        "author_id": "1901471587477442560",
+        "conversation_id": "1909591153432797652",
+        "created_at": "2025-04-08T12:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909591153432797652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909591153432797652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 483,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一件事（\n你们的脑中会有一个MP3嘛？\n我这MP3还怪难用的，总是在莫名其妙的时刻不受控制地单曲循环莫名其妙的歌（\n不过要是是我喜欢的歌还好，作为我生活的背景音乐，不喜欢的就......啊啊啊从我脑子里滚出去！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1170,
+          "like_count": 1442,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "精神状态不稳定（所以推文会比较割裂）警告/偶尔癫佬发言，冒犯了叫我我给你磕头🙏/事音游人/友跨顺男（这辈子不会翻车的笑）/叫我迷就好",
+        "id": "1901471587477442560",
+        "name": "安纳德-迷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901867661933318144/XwEVWv3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 112,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 249
+        },
+        "username": "Another_and_Me",
+        "verified": false
+      }
+    ]
+  }
+}

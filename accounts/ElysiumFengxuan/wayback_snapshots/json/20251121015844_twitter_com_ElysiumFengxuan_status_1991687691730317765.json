@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1991581654608204234",
+    "created_at": "2025-11-21T01:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T02:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991687691730317765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991687691730317765",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991585400276808020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa 如果严重影响到了你的生活，让你无法自理，才需要医生介入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1991581654608204234",
+        "created_at": "2025-11-21T01:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991687691730317765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991687691730317765",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991585400276808020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa 如果严重影响到了你的生活，让你无法自理，才需要医生介入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983213298708574208",
+        "conversation_id": "1991581654608204234",
+        "created_at": "2025-11-20T19:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991585400276808020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991585400276808020",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991581654608204234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI说我可能有ADHD。我做了一下ASRS，确实提示有ADHD-I。我人麻了啊，我前几天才激烈抨击过“赛博确诊ADHD”😩。明天再看吧，要不要找个医生看看之类的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1585,
+          "like_count": 2177,
+          "listed_count": 6,
+          "media_count": 722,
+          "tweet_count": 5228
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "07年大只夜猫子｜BPD｜喜欢哲学、社科、艺术、设计｜热爱后现代、后安那其哲学｜不键墙内政，警察不要找我，我只是一个没说过敏感词的心理疾病患者｜性别虚无主义者🏴，友LGBTQ+🏳️‍🌈社群但反对性别体制｜大五：高O/两极化C/低E/情景化A/高N｜INXP-T｜逃避高中自学ing｜同类快来互fo！🥺",
+        "id": "1983213298708574208",
+        "location": "Earth",
+        "name": "CosMorisa Ⓐ",
+        "pinned_tweet_id": "1991591234486644763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983813859032158208/VjhU6-7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 181,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 227
+        },
+        "username": "cosmorisa",
+        "verified": false
+      }
+    ]
+  }
+}

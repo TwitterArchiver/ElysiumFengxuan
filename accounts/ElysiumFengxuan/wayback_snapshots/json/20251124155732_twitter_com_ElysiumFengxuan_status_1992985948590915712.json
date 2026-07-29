@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992893114676334792",
+    "created_at": "2025-11-24T15:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992985948590915712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743272057633378304",
+          "start": 0,
+          "username": "nuonuo888999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992985948590915712",
+    "in_reply_to_user_id": "1743272057633378304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992893114676334792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuonuo888999 真夹到爪子了就尴尬了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8912,
+        "height": 1280,
+        "media_key": "7_1992893094241730560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992893094241730560/pu/img/taWW3TwnsRcA8VSS.jpg",
+        "public_metrics": {
+          "view_count": 2354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992893094241730560/pu/vid/avc1/320x580/AEoGwzgeTjOuAzu-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992893094241730560/pu/vid/avc1/480x872/ZdlEy3lHMrJfDC2t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992893094241730560/pu/vid/avc1/704x1280/wBohG_3IwWJZjylN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992893094241730560/pu/pl/Je3W6VdAwveJ00mJ.m3u8?tag=12"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992893114676334792",
+        "created_at": "2025-11-24T15:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992985948590915712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743272057633378304",
+              "start": 0,
+              "username": "nuonuo888999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992985948590915712",
+        "in_reply_to_user_id": "1743272057633378304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992893114676334792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuonuo888999 真夹到爪子了就尴尬了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992893094241730560"
+          ]
+        },
+        "author_id": "1743272057633378304",
+        "conversation_id": "1992893114676334792",
+        "created_at": "2025-11-24T09:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992893114676334792"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "唯快不破",
+              "probability": 0.7993,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuZVwTBu0C",
+              "end": 28,
+              "expanded_url": "https://x.com/nuonuo888999/status/1992893114676334792/video/1",
+              "media_key": "7_1992893094241730560",
+              "start": 5,
+              "url": "https://t.co/OuZVwTBu0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992893114676334792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6291,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "唯快不破 https://t.co/OuZVwTBu0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1669,
+          "like_count": 2285,
+          "listed_count": 6,
+          "media_count": 753,
+          "tweet_count": 5487
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T14:04:24.000Z",
+        "description": "风景，美食。",
+        "id": "1743272057633378304",
+        "name": "张诺诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743272361905057792/xL9ltlxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45316,
+          "following_count": 34970,
+          "like_count": 256531,
+          "listed_count": 109,
+          "media_count": 2040,
+          "tweet_count": 11265
+        },
+        "username": "nuonuo888999",
+        "verified": true
+      }
+    ]
+  }
+}

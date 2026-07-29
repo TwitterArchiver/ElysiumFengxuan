@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1877001907815780747",
+    "created_at": "2025-01-09T15:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T16:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877374399931953330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1759847001351393280",
+          "start": 0,
+          "username": "kewenly12"
+        },
+        {
+          "end": 20,
+          "id": "1545787268501106688",
+          "start": 11,
+          "username": "zzzChumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877374399931953330",
+    "in_reply_to_user_id": "1759847001351393280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877001907815780747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kewenly12 @zzzChumo 喵呜，羡慕能一起玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1877001907815780747",
+        "created_at": "2025-01-09T15:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877374399931953330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1759847001351393280",
+              "start": 0,
+              "username": "kewenly12"
+            },
+            {
+              "end": 20,
+              "id": "1545787268501106688",
+              "start": 11,
+              "username": "zzzChumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877374399931953330",
+        "in_reply_to_user_id": "1759847001351393280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877001907815780747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kewenly12 @zzzChumo 喵呜，羡慕能一起玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877001904536133632"
+          ]
+        },
+        "author_id": "1759847001351393280",
+        "conversation_id": "1877001907815780747",
+        "created_at": "2025-01-08T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877001907815780747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 126,
+              "id": "1545787268501106688",
+              "start": 117,
+              "username": "zzzChumo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsX1Pq64Mq",
+              "end": 150,
+              "expanded_url": "https://x.com/kewenly12/status/1877001907815780747/photo/1",
+              "media_key": "3_1877001904536133632",
+              "start": 127,
+              "url": "https://t.co/QsX1Pq64Mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877001907815780747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1262,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "长长的轨道通向远方，于是我们分别了。不喜欢别离，但是有聚有散。这几天是我人生中超级特别的日子，我和你们上车了，看了很多风景，吃了好多没吃过的东西，体验了好多未曾经历过的事情。但是站台到了……\n希望我们还能相遇，一定能的，在茫茫人海中。@zzzChumo https://t.co/QsX1Pq64Mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 671,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T07:46:52.000Z",
+        "description": "大家的互联网朋友，可以叫我墨水喵或者墨墨/mtx/友一切/互fo/超级内向社恐人类🥺/刚满19岁😋/涉猎广泛捏/不键政对政治什么的不感兴趣嗯嗯/权当pyq发/做的不好的话对不起呜呜/blue sky↓↓↓每日更新吃货墨墨的日常😋，欢迎灌注喵～↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/inkwen…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/inkwenly12.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EvkxqUc2Dq"
+              }
+            ]
+          }
+        },
+        "id": "1759847001351393280",
+        "name": "inkwenly🍤🍛🍇🍼🌮🍥",
+        "pinned_tweet_id": "1851652958989209872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836618631251382272/1gtyaij0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 702,
+          "like_count": 19929,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/EvkxqUc2Dq",
+        "username": "kewenly12",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/版权头图非请勿用/术术人/人称代词随意 但更倾向she her/三代目/逃生舱 @whatisnickidk/情商为0不会说话/智商为0放弃思考/刷机佬/热衷于收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "whatisnickidk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "在家里蹲着",
+        "name": "初墨也是墨初不是中初🍥🧊🍔🍟🍜🍣🍦🍕🍧🍡🍑🍉🍍🍛🧁🍪🍩",
+        "pinned_tweet_id": "1854259443871138002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545787816457564160/zAiXJmcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 743,
+          "like_count": 51654,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

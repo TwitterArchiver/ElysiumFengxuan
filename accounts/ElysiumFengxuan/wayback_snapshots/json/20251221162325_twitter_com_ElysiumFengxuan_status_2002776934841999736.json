@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2002410990743281939",
+    "created_at": "2025-12-21T16:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002776934841999736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956211420716261380",
+          "start": 0,
+          "username": "KfirC10tws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002776934841999736",
+    "in_reply_to_user_id": "1956211420716261380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002410990743281939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10tws 猫爪是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2002410986406637568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8n-LtMbcAAs8y3.jpg",
+        "width": 1891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2002410990743281939",
+        "created_at": "2025-12-21T16:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002776934841999736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956211420716261380",
+              "start": 0,
+              "username": "KfirC10tws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002776934841999736",
+        "in_reply_to_user_id": "1956211420716261380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002410990743281939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10tws 猫爪是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002410986406637568"
+          ]
+        },
+        "author_id": "1956211420716261380",
+        "conversation_id": "2002410990743281939",
+        "created_at": "2025-12-20T16:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002410990743281939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女装"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "femboy"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "猫爪呸罗呸罗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPM1wgyJKi",
+              "end": 63,
+              "expanded_url": "https://x.com/KfirC10tws/status/2002410990743281939/photo/1",
+              "media_key": "3_2002410986406637568",
+              "start": 40,
+              "url": "https://t.co/wPM1wgyJKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002410990743281939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12975,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "主包我励志成为二代猫爪，望周知\n#男娘 #女装 #femboy #猫爪呸罗呸罗 https://t.co/wPM1wgyJKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1759,
+          "like_count": 2736,
+          "listed_count": 5,
+          "media_count": 863,
+          "tweet_count": 6277
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T04:28:55.000Z",
+        "description": "10年的可爱小楠梁，主要都是清水，不见证喵\nhttps://t.co/idXdMFDeDo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KfirC10",
+                "end": 45,
+                "expanded_url": "https://t.me/KfirC10",
+                "start": 22,
+                "url": "https://t.co/idXdMFDeDo"
+              }
+            ]
+          }
+        },
+        "id": "1956211420716261380",
+        "location": "地球",
+        "name": "KfirC10",
+        "pinned_tweet_id": "1997564544588333096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991935605870411777/Rc3kFdI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 174,
+          "like_count": 36,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 48
+        },
+        "username": "KfirC10tws",
+        "verified": false
+      }
+    ]
+  }
+}

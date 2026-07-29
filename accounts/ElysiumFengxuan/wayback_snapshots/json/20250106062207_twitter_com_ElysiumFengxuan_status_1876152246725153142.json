@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1876113655244452340",
+    "created_at": "2025-01-06T06:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T07:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876152246725153142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846969266824007680",
+          "start": 0,
+          "username": "NaciMe537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876152246725153142",
+    "in_reply_to_user_id": "1846969266824007680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876139558024421744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaciMe537 （思考银生）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1876113655244452340",
+        "created_at": "2025-01-06T06:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876152246725153142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846969266824007680",
+              "start": 0,
+              "username": "NaciMe537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876152246725153142",
+        "in_reply_to_user_id": "1846969266824007680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876139558024421744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaciMe537 （思考银生）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876139554677411840"
+          ]
+        },
+        "author_id": "1846969266824007680",
+        "conversation_id": "1876113655244452340",
+        "created_at": "2025-01-06T05:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T06:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876139558024421744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/blKYm1KqVm",
+              "end": 57,
+              "expanded_url": "https://x.com/NaciMe537/status/1876139558024421744/photo/1",
+              "media_key": "3_1876139554677411840",
+              "start": 34,
+              "url": "https://t.co/blKYm1KqVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876139558024421744",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876113655244452340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 会不会有人莫名其妙爆金币（好奇） https://t.co/blKYm1KqVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 675,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T17:39:35.000Z",
+        "description": "君子不器/mtx满天星/别讨厌我aa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "florr.io",
+                "end": 23,
+                "expanded_url": "http://florr.io",
+                "start": 0,
+                "url": "https://t.co/wHKGoCVxeY"
+              }
+            ]
+          }
+        },
+        "id": "1846969266824007680",
+        "location": "距离您只有0.3km",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874879684489719808/CzUUW4_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 271,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/wHKGoCVxeY",
+        "username": "NaciMe537",
+        "verified": false
+      }
+    ]
+  }
+}

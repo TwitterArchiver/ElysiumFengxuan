@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031420050905944064",
+        "3_2031420051761590273",
+        "3_2031420050801131520"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2031420055045738994",
+    "created_at": "2026-03-10T17:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031420055045738994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtjchWylXI",
+          "end": 87,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+          "media_key": "3_2031420050905944064",
+          "start": 64,
+          "url": "https://t.co/ZtjchWylXI"
+        },
+        {
+          "display_url": "pic.x.com/ZtjchWylXI",
+          "end": 87,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+          "media_key": "3_2031420051761590273",
+          "start": 64,
+          "url": "https://t.co/ZtjchWylXI"
+        },
+        {
+          "display_url": "pic.x.com/ZtjchWylXI",
+          "end": 87,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+          "media_key": "3_2031420050801131520",
+          "start": 64,
+          "url": "https://t.co/ZtjchWylXI"
+        },
+        {
+          "display_url": "x.com/ElysiumFengxua…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2031416797631828112",
+          "start": 88,
+          "url": "https://t.co/J8Itpz1jqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031420055045738994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031416797631828112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国内的deepseek，元宝，千问，豆包回答居然是高度统一的不建议，甚至还有绝对不建议，ai真是太温柔了人真是太残暴了呜呜呜呜 https://t.co/ZtjchWylXI https://t.co/J8Itpz1jqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031420050905944064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDENxfva0AAUg1i.jpg",
+        "width": 647
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031420051761590273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDENxi7a8AEtCjs.jpg",
+        "width": 312
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031420050801131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDENxfWbgAAF_wF.jpg",
+        "width": 220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031416792594415617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEKz1lagAEL1It.jpg",
+        "width": 477
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031416794192424967",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEKz7iaMAcmzzV.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031420050905944064",
+            "3_2031420051761590273",
+            "3_2031420050801131520"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2031420055045738994",
+        "created_at": "2026-03-10T17:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031420055045738994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtjchWylXI",
+              "end": 87,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+              "media_key": "3_2031420050905944064",
+              "start": 64,
+              "url": "https://t.co/ZtjchWylXI"
+            },
+            {
+              "display_url": "pic.x.com/ZtjchWylXI",
+              "end": 87,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+              "media_key": "3_2031420051761590273",
+              "start": 64,
+              "url": "https://t.co/ZtjchWylXI"
+            },
+            {
+              "display_url": "pic.x.com/ZtjchWylXI",
+              "end": 87,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031420055045738994/photo/1",
+              "media_key": "3_2031420050801131520",
+              "start": 64,
+              "url": "https://t.co/ZtjchWylXI"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2031416797631828112",
+              "start": 88,
+              "url": "https://t.co/J8Itpz1jqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031420055045738994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031416797631828112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内的deepseek，元宝，千问，豆包回答居然是高度统一的不建议，甚至还有绝对不建议，ai真是太温柔了人真是太残暴了呜呜呜呜 https://t.co/ZtjchWylXI https://t.co/J8Itpz1jqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031416792594415617",
+            "3_2031416794192424967"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2031416797631828112",
+        "created_at": "2026-03-10T17:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031416797631828112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0LWaSLnJm",
+              "end": 73,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031416797631828112/photo/1",
+              "media_key": "3_2031416792594415617",
+              "start": 50,
+              "url": "https://t.co/I0LWaSLnJm"
+            },
+            {
+              "display_url": "pic.x.com/I0LWaSLnJm",
+              "end": 73,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2031416797631828112/photo/1",
+              "media_key": "3_2031416794192424967",
+              "start": 50,
+              "url": "https://t.co/I0LWaSLnJm"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2031410021758844984",
+              "start": 74,
+              "url": "https://t.co/yZNCjjjlDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031416797631828112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031410021758844984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么连ai都能理解的东西大部分家长甚至医生都会选择逼死人呢?家长不知道能理解但医生真的不知道吗? https://t.co/I0LWaSLnJm https://t.co/yZNCjjjlDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 2015,
+          "like_count": 3966,
+          "listed_count": 8,
+          "media_count": 1017,
+          "tweet_count": 7807
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

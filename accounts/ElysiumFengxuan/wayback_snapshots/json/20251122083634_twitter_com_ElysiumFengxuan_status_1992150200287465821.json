@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992139482204963290",
+    "created_at": "2025-11-22T08:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T09:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992150200287465821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1952044145301975042",
+          "start": 0,
+          "username": "HCZH929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992150200287465821",
+    "in_reply_to_user_id": "1952044145301975042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992148497215508527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCZH929 是另一个人搁他旁边唠叨来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992139482204963290",
+        "created_at": "2025-11-22T08:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992150200287465821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952044145301975042",
+              "start": 0,
+              "username": "HCZH929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992150200287465821",
+        "in_reply_to_user_id": "1952044145301975042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992148497215508527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCZH929 是另一个人搁他旁边唠叨来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044145301975042",
+        "conversation_id": "1992139482204963290",
+        "created_at": "2025-11-22T08:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992148497215508527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992148497215508527",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992139482204963290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 虽然这么说可能会有点冒犯,但是被迫害妄想是痴呆的前兆来着…至歉一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 1619,
+          "like_count": 2206,
+          "listed_count": 6,
+          "media_count": 731,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:30:51.000Z",
+        "description": "忠！！！诚！！！\n推广自辩 /感谢你的关注，互fo /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1952044145301975042",
+        "location": "通辽",
+        "name": "咸鸭蛋可汗",
+        "pinned_tweet_id": "1973494176299057662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976664555876184064/pGEv757L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 91
+        },
+        "username": "HCZH929",
+        "verified": false
+      }
+    ]
+  }
+}

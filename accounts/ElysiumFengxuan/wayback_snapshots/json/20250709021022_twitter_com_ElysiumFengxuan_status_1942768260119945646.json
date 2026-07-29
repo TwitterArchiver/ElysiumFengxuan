@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1942764789207556281",
+    "created_at": "2025-07-09T02:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942768260119945646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705975905167020032",
+          "start": 0,
+          "username": "EmoooNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942768260119945646",
+    "in_reply_to_user_id": "1705975905167020032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942767919915753650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoooNET 没啥哇，正常的安眠药而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1942764789207556281",
+        "created_at": "2025-07-09T02:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942768260119945646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705975905167020032",
+              "start": 0,
+              "username": "EmoooNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942768260119945646",
+        "in_reply_to_user_id": "1705975905167020032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942767919915753650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoooNET 没啥哇，正常的安眠药而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705975905167020032",
+        "conversation_id": "1942764789207556281",
+        "created_at": "2025-07-09T02:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942767919915753650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942767919915753650",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942764789207556281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 这是啥哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1389,
+          "like_count": 1864,
+          "listed_count": 5,
+          "media_count": 575,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T16:02:16.000Z",
+        "description": "不用在意名字，昵称不定期变动... 年份: 2007 / 身高: 166cm / 体重: 55kg（减肥 ing...，目标体重 50kg） / 有对象了 私信已关 请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emooo.net",
+                "end": 23,
+                "expanded_url": "https://emooo.net",
+                "start": 0,
+                "url": "https://t.co/yqcZ9ZzC1i"
+              }
+            ]
+          }
+        },
+        "id": "1705975905167020032",
+        "name": "云星汐璇",
+        "pinned_tweet_id": "1891639129462517910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 2081,
+          "like_count": 1073,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/yqcZ9ZzC1i",
+        "username": "EmoooNET",
+        "verified": false
+      }
+    ]
+  }
+}

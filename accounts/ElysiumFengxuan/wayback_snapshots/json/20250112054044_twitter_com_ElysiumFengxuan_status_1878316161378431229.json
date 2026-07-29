@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1878274619905585305",
+    "created_at": "2025-01-12T05:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T06:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878316161378431229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791742055359889408",
+          "start": 0,
+          "username": "Kushal_PatCREPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878316161378431229",
+    "in_reply_to_user_id": "1791742055359889408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878274619905585305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kushal_PatCREPE 奶龙奶龙~我是奶龙~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1878274619905585305",
+        "created_at": "2025-01-12T05:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T06:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878316161378431229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791742055359889408",
+              "start": 0,
+              "username": "Kushal_PatCREPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878316161378431229",
+        "in_reply_to_user_id": "1791742055359889408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878274619905585305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kushal_PatCREPE 奶龙奶龙~我是奶龙~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878274615740657664"
+          ]
+        },
+        "author_id": "1791742055359889408",
+        "conversation_id": "1878274619905585305",
+        "created_at": "2025-01-12T02:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T03:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878274619905585305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35o1k8VG0p",
+              "end": 51,
+              "expanded_url": "https://x.com/Kushal_PatCREPE/status/1878274619905585305/photo/1",
+              "media_key": "3_1878274615740657664",
+              "start": 28,
+              "url": "https://t.co/35o1k8VG0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878274619905585305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#可爱的男孩子\n世界上最抽象的头像\n​看完不设是这个👍 https://t.co/35o1k8VG0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 689,
+          "like_count": 847,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-18T08:06:15.000Z",
+        "description": "帕特的日常/闺蜜@XUEBIICE/喜欢的人@Ziverk2/建政不回关/帕的提问箱https://t.co/5CPB7GOTG8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "XUEBIICE"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Ziverk2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kusha_patcrepe",
+                "end": 65,
+                "expanded_url": "http://ngl.link/kusha_patcrepe",
+                "start": 42,
+                "url": "https://t.co/5CPB7GOTG8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/EeQQRMrvdC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/EeQQRMrvdC",
+                "start": 0,
+                "url": "https://t.co/dQUw2Iqk3U"
+              }
+            ]
+          }
+        },
+        "id": "1791742055359889408",
+        "location": "Earth",
+        "name": "帕_PAT",
+        "pinned_tweet_id": "1877281546417172822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862112385512755200/xnipnO5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 315,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/dQUw2Iqk3U",
+        "username": "Kushal_PatCREPE",
+        "verified": false
+      }
+    ]
+  }
+}

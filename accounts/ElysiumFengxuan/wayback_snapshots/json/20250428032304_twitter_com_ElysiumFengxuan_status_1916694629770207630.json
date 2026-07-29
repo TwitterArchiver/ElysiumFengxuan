@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1916667736811573509",
+    "created_at": "2025-04-28T03:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T04:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916694629770207630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339017385647325187",
+          "start": 0,
+          "username": "JiangRSPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916694629770207630",
+    "in_reply_to_user_id": "1339017385647325187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916688506283524280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangRSPL qwq阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1916667736811573509",
+        "created_at": "2025-04-28T03:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T04:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916694629770207630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339017385647325187",
+              "start": 0,
+              "username": "JiangRSPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916694629770207630",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916688506283524280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangRSPL qwq阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339017385647325187",
+        "conversation_id": "1916667736811573509",
+        "created_at": "2025-04-28T02:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T03:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916688506283524280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "QQ音乐初音未来老歌《甩葱歌》原版，改编自芬兰民歌《伊娃的波尔卡》, 视频播放量 5064924、弹幕量 6745、点赞数 173200、投硬币枚数 10475、收藏人数 96495、转发人数 15732, 视频作者 星白真冬, 作者简介 真是要多惨有多惨，相关视频：甩葱歌（1974年原始版），《甩葱歌》初音未来无损完整版，【茶理理】千本樱，【全明星】一人我饮酒醉，甩葱歌原版--IevanPolkka--经典芬兰民谣，⚡甩私人歌⚡，中世纪曲风版“甩葱歌”《Ievan Polkka》，【4K修复】萨卡班甲鱼サカサカバンバンバスピスピス （neutrino _ AI_VOICE）（AI超分），【歌唱河北】元首怒唱甩葱歌，【画质修复】初音未来 - 甩葱歌（高清重制）",
+              "display_url": "bilibili.com/video/BV1Ls411…",
+              "end": 51,
+              "expanded_url": "https://www.bilibili.com/video/BV1Ls411w7r7/?share_source=copy_web&vd_source=f940a830b637517e02a188b925903311",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1916688509785849856/30M5acLv?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1916688509785849856/30M5acLv?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "甩葱歌原版_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Ls411w7r7/?share_source=copy_web&vd_source=f940a830b637517e02a188b925903311",
+              "url": "https://t.co/OVuFyFfN31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916688506283524280",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916687440829620253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 大概就是这样一首歌🤣 https://t.co/OVuFyFfN31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1261,
+          "like_count": 1800,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 3848
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-16T01:20:10.000Z",
+        "description": "药娘 | 有可能是MTX 之类的 | 4i人妻(爱好女 已有家室) | 颜值非常抱歉，身材初具人形 | ❤️希望大家都可以开心生活❤️ | 有什么想问的  https://t.co/3exIuCTvKQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangrspl",
+                "end": 101,
+                "expanded_url": "https://ngl.link/jiangrspl",
+                "start": 78,
+                "url": "https://t.co/3exIuCTvKQ"
+              }
+            ]
+          }
+        },
+        "id": "1339017385647325187",
+        "location": "东部星区",
+        "name": "姜姜要变很辣🍥",
+        "pinned_tweet_id": "1915742952531595538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897919838875795456/Pv2SMKGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 98,
+          "like_count": 428,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 367
+        },
+        "username": "JiangRSPL",
+        "verified": false
+      }
+    ]
+  }
+}

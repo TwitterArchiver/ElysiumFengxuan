@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1913805507170832659",
+    "created_at": "2025-04-20T06:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913845561482264633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460183475235950593",
+          "start": 0,
+          "username": "OuroraEtimis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913845561482264633",
+    "in_reply_to_user_id": "1460183475235950593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913805507170832659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuroraEtimis 诶？？？我居然在内圈）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1913805505224687616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go8z95wawAAm7qc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1913805507170832659",
+        "created_at": "2025-04-20T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913845561482264633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460183475235950593",
+              "start": 0,
+              "username": "OuroraEtimis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913845561482264633",
+        "in_reply_to_user_id": "1460183475235950593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913805507170832659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuroraEtimis 诶？？？我居然在内圈）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913805505224687616"
+          ]
+        },
+        "author_id": "1460183475235950593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1913805507170832659",
+        "created_at": "2025-04-20T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913805507170832659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1911326334808473600/GjEapat6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1911326334808473600/GjEapat6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/NRcoa4RYOr"
+            },
+            {
+              "display_url": "pic.x.com/05HQ6Qi9WJ",
+              "end": 64,
+              "expanded_url": "https://x.com/OuroraEtimis/status/1913805507170832659/photo/1",
+              "media_key": "3_1913805505224687616",
+              "start": 41,
+              "url": "https://t.co/05HQ6Qi9WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913805507170832659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/NRcoa4RYOr https://t.co/05HQ6Qi9WJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1231,
+          "like_count": 1704,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 3666
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-15T09:50:56.000Z",
+        "description": "| 持证含糖 |❤️ HRT2024-9-15| INFP-T ||双向情感障碍||伪音学习中||同类互粉|💞|面基贴贴||在顺德||发情好涩的笨蛋猫猫｜（扩列）笨蛋老婆 ：@hsysda32312\n\n电报:https://t.co/4R59jqrx7v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "hsysda32312"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/OuraroEltimis",
+                "end": 127,
+                "expanded_url": "https://t.me/OuraroEltimis",
+                "start": 104,
+                "url": "https://t.co/4R59jqrx7v"
+              }
+            ]
+          }
+        },
+        "id": "1460183475235950593",
+        "location": "广东 佛山 顺德",
+        "name": "🍥暮雨 Eltimis🏳️‍⚧️",
+        "pinned_tweet_id": "1913810644488622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912910032842444800/UNQXwweB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 398,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 286
+        },
+        "username": "OuroraEtimis",
+        "verified": false
+      }
+    ]
+  }
+}

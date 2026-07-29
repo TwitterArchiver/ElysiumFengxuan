@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993521722155581442"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1993229330655371661",
+    "created_at": "2025-11-26T03:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993521724844130436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUO8scAZfY",
+          "end": 81,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1993521724844130436/photo/1",
+          "media_key": "3_1993521722155581442",
+          "start": 58,
+          "url": "https://t.co/gUO8scAZfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993521724844130436",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993229330655371661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 孩子要被你们恐怖都支出吓似了（）那去年那七万还是有些东西要从我这里当中转站出来的（安详） https://t.co/gUO8scAZfY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993521722155581442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ppcbUbwAIqiIO.jpg",
+        "width": 919
+      },
+      {
+        "height": 1515,
+        "media_key": "3_1993229322673680385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lfgiXbcAE-KWi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993521722155581442"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1993229330655371661",
+        "created_at": "2025-11-26T03:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993521724844130436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUO8scAZfY",
+              "end": 81,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1993521724844130436/photo/1",
+              "media_key": "3_1993521722155581442",
+              "start": 58,
+              "url": "https://t.co/gUO8scAZfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993521724844130436",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993229330655371661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 孩子要被你们恐怖都支出吓似了（）那去年那七万还是有些东西要从我这里当中转站出来的（安详） https://t.co/gUO8scAZfY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993229322673680385"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1993229330655371661",
+        "created_at": "2025-11-25T08:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993229330655371661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "mtf"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "crypto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBO1U8tBlG",
+              "end": 87,
+              "expanded_url": "https://x.com/520illusion/status/1993229330655371661/photo/1",
+              "media_key": "3_1993229322673680385",
+              "start": 64,
+              "url": "https://t.co/RBO1U8tBlG"
+            },
+            {
+              "display_url": "x.com/AkasakaRentsuk…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/AkasakaRentsuki/status/1992884897783169275",
+              "start": 88,
+              "url": "https://t.co/9i2KSUSpb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993229330655371661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5910,
+          "like_count": 29,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992884897783169275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不断失望，不断被骗，再信🚪哥我是狗，花了十五六万了，连个能说话的都没有，不是骗子就是转账一停消息就停\n#mtf #crypto https://t.co/RBO1U8tBlG https://t.co/9i2KSUSpb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1683,
+          "like_count": 2317,
+          "listed_count": 6,
+          "media_count": 765,
+          "tweet_count": 5550
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 |  蓝  | 终将成为你 | 清水 | 🚫 od 色情 花刀 政治 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993403526383648774/FvyQegqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 228,
+          "like_count": 3146,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1879
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

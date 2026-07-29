@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2000016058372198496",
+    "created_at": "2025-12-14T11:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000168001086349399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862977940935315456",
+          "start": 0,
+          "username": "Rainbow_080131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000168001086349399",
+    "in_reply_to_user_id": "1862977940935315456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000138292873110010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow_080131 蟹蟹喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2000016058372198496",
+        "created_at": "2025-12-14T11:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000168001086349399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862977940935315456",
+              "start": 0,
+              "username": "Rainbow_080131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000168001086349399",
+        "in_reply_to_user_id": "1862977940935315456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000138292873110010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow_080131 蟹蟹喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862977940935315456",
+        "conversation_id": "2000016058372198496",
+        "created_at": "2025-12-14T09:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000138292873110010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000138292873110010",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000016058372198496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1752,
+          "like_count": 2644,
+          "listed_count": 6,
+          "media_count": 852,
+          "tweet_count": 6127
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T21:52:16.000Z",
+        "description": "小药娘 无证含糖\n17岁 中度抑郁 高中牲\n178/62kg\n希望有朋友-🚪88-\n也出原味(自付运费，也可以买新的给我穿🤔然后我给你加料🤓👆)\nhttps://t.co/ZLktImRAMd\n下面链接是匿名问🥰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rainbow_080131",
+                "end": 96,
+                "expanded_url": "http://t.me/Rainbow_080131",
+                "start": 73,
+                "url": "https://t.co/ZLktImRAMd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainbow54219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainbow54219",
+                "start": 0,
+                "url": "https://t.co/3dG6fmxS04"
+              }
+            ]
+          }
+        },
+        "id": "1862977940935315456",
+        "name": "𝓡𝓪𝓲𝓷𝓫𝓸𝔀🍥🐱",
+        "pinned_tweet_id": "1995687473192849452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999772295993425921/YztlbTBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 29,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/3dG6fmxS04",
+        "username": "Rainbow_080131",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2017114444393042382",
+    "created_at": "2026-02-25T09:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026596398104457298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "823342515201851392",
+          "start": 0,
+          "username": "AristocracyFree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026596398104457298",
+    "in_reply_to_user_id": "823342515201851392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026580810753781890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AristocracyFree 虽然但是我们认识吗（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2017114444393042382",
+        "created_at": "2026-02-25T09:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026596398104457298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "823342515201851392",
+              "start": 0,
+              "username": "AristocracyFree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026596398104457298",
+        "in_reply_to_user_id": "823342515201851392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026580810753781890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AristocracyFree 虽然但是我们认识吗（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823342515201851392",
+        "conversation_id": "2017114444393042382",
+        "created_at": "2026-02-25T08:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026580810753781890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026580810753781890",
+        "in_reply_to_user_id": "823342515201851392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017114444393042382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 求转发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1885,
+          "like_count": 3513,
+          "listed_count": 7,
+          "media_count": 971,
+          "tweet_count": 7214
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-23T01:32:07.000Z",
+        "description": "「※政治的怪文書が多い/日本語超絶下手/🎭不動産&心理学家族出身/嫉妬しやすい」《20代／☯️華夏族/TRPG通訳者(お主に常夜国) / 萌文化研究員/元日本留学不登校児/✒︎漫画コース志望浪人✒︎》【⚜an-ari無政府貴族主義者⚜/真祖信仰/多神論/伝統主義/表現自由/ 東アジア団結/マイノリティ友好 】",
+        "id": "823342515201851392",
+        "location": "常夜国の何処か",
+        "name": "K.K.K世宇亜烏(イょう.ア.ウ)🧛‍♂️⚜️",
+        "pinned_tweet_id": "2017114444393042382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783511007530491904/MO5W_MTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 2469,
+          "like_count": 30669,
+          "listed_count": 7,
+          "media_count": 2241,
+          "tweet_count": 41919
+        },
+        "username": "AristocracyFree",
+        "verified": false
+      }
+    ]
+  }
+}

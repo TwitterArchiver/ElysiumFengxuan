@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949418739407179776",
+        "3_1949418741093339136",
+        "3_1949418741089079296"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949418745623113825",
+    "created_at": "2025-07-27T10:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949418745623113825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7KpMw5iSS",
+          "end": 72,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+          "media_key": "3_1949418739407179776",
+          "start": 49,
+          "url": "https://t.co/Z7KpMw5iSS"
+        },
+        {
+          "display_url": "pic.x.com/Z7KpMw5iSS",
+          "end": 72,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+          "media_key": "3_1949418741093339136",
+          "start": 49,
+          "url": "https://t.co/Z7KpMw5iSS"
+        },
+        {
+          "display_url": "pic.x.com/Z7KpMw5iSS",
+          "end": 72,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+          "media_key": "3_1949418741089079296",
+          "start": 49,
+          "url": "https://t.co/Z7KpMw5iSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949418745623113825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知不觉陪伴了我三年的电脑，其经历了三个人格的诞生与初代二代的消亡，不知道他能陪我走到什么时候呢 https://t.co/Z7KpMw5iSS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1949418739407179776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw26A9ja0AAumFD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1949418741093339136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw26BD1bkAAlY-z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1949418741089079296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw26BD0akAA_xIw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949418739407179776",
+            "3_1949418741093339136",
+            "3_1949418741089079296"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949418745623113825",
+        "created_at": "2025-07-27T10:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949418745623113825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7KpMw5iSS",
+              "end": 72,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+              "media_key": "3_1949418739407179776",
+              "start": 49,
+              "url": "https://t.co/Z7KpMw5iSS"
+            },
+            {
+              "display_url": "pic.x.com/Z7KpMw5iSS",
+              "end": 72,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+              "media_key": "3_1949418741093339136",
+              "start": 49,
+              "url": "https://t.co/Z7KpMw5iSS"
+            },
+            {
+              "display_url": "pic.x.com/Z7KpMw5iSS",
+              "end": 72,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1949418745623113825/photo/1",
+              "media_key": "3_1949418741089079296",
+              "start": 49,
+              "url": "https://t.co/Z7KpMw5iSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949418745623113825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉陪伴了我三年的电脑，其经历了三个人格的诞生与初代二代的消亡，不知道他能陪我走到什么时候呢 https://t.co/Z7KpMw5iSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1407,
+          "like_count": 1883,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      }
+    ]
+  }
+}

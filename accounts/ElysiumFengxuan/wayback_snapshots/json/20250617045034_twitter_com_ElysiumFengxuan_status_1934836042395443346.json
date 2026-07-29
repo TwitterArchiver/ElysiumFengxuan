@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1934222907003248751",
+    "created_at": "2025-06-17T04:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934836042395443346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829411930458718208",
+          "start": 0,
+          "username": "Natsuki_Akko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934836042395443346",
+    "in_reply_to_user_id": "1829411930458718208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934222907003248751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Natsuki_Akko 太恐怖了孩子要回家呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1934222907003248751",
+        "created_at": "2025-06-17T04:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934836042395443346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829411930458718208",
+              "start": 0,
+              "username": "Natsuki_Akko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934836042395443346",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934222907003248751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Natsuki_Akko 太恐怖了孩子要回家呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829411930458718208",
+        "conversation_id": "1934222907003248751",
+        "created_at": "2025-06-15T12:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934222907003248751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934222907003248751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11531,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "允许改证\n却卡学历性别\n\n那不就是\n有学历要求的工作\n都干不了吗\n\n不就是逼着\n去开网约车\n去送外卖\n甚至去卖淫吗\n\n羡慕术后\n能找到工作的\n安黛姐姐\n好羡慕啊\n羡慕以及祝福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 1386,
+          "like_count": 1872,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "好朋友@saika114514，好姐妹@miaokua，@lhoy440777。竟然奔三😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "saika114514"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "miaokua"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "lhoy440777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Natsuki_Akko",
+                "end": 23,
+                "expanded_url": "https://t.me/Natsuki_Akko",
+                "start": 0,
+                "url": "https://t.co/ArUVeE4Uuk"
+              }
+            ]
+          }
+        },
+        "id": "1829411930458718208",
+        "name": "希希😮‍💨🥺🥹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926614531217768448/yO-88yO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1308,
+          "like_count": 22853,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/ArUVeE4Uuk",
+        "username": "Natsuki_Akko",
+        "verified": false
+      }
+    ]
+  }
+}

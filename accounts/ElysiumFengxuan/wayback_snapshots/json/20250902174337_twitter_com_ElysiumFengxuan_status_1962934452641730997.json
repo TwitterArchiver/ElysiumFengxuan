@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962934448028110849"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962934452641730997",
+    "created_at": "2025-09-02T17:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962934452641730997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJNS5H2lr1",
+          "end": 58,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1962934452641730997/photo/1",
+          "media_key": "3_1962934448028110849",
+          "start": 35,
+          "url": "https://t.co/BJNS5H2lr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962934452641730997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跟你说奥这东西用来建高空建筑最好用了特别是我这个把家建天上的xwx https://t.co/BJNS5H2lr1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1962934448028110849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2-evwX0AEosa7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962934448028110849"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962934452641730997",
+        "created_at": "2025-09-02T17:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962934452641730997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJNS5H2lr1",
+              "end": 58,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1962934452641730997/photo/1",
+              "media_key": "3_1962934448028110849",
+              "start": 35,
+              "url": "https://t.co/BJNS5H2lr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962934452641730997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟你说奥这东西用来建高空建筑最好用了特别是我这个把家建天上的xwx https://t.co/BJNS5H2lr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1458,
+          "like_count": 1946,
+          "listed_count": 6,
+          "media_count": 646,
+          "tweet_count": 4729
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      }
+    ]
+  }
+}

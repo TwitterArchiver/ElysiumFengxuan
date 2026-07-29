@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992843957416694102",
+    "created_at": "2025-11-24T07:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992863338158780815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727120087663116288",
+          "start": 0,
+          "username": "xiejiayinBitget"
+        },
+        {
+          "end": 27,
+          "id": "1597158942668226560",
+          "start": 17,
+          "username": "Bitget_zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992863338158780815",
+    "in_reply_to_user_id": "1727120087663116288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992843957416694102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiejiayinBitget @Bitget_zh 怎么更改的ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_1992838904270225408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6f8bMebAAAZINz.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992843957416694102",
+        "created_at": "2025-11-24T07:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992863338158780815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727120087663116288",
+              "start": 0,
+              "username": "xiejiayinBitget"
+            },
+            {
+              "end": 27,
+              "id": "1597158942668226560",
+              "start": 17,
+              "username": "Bitget_zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992863338158780815",
+        "in_reply_to_user_id": "1727120087663116288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992843957416694102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiejiayinBitget @Bitget_zh 怎么更改的ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992838904270225408"
+          ]
+        },
+        "author_id": "1727120087663116288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992843957416694102",
+        "created_at": "2025-11-24T06:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992843957416694102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 159,
+              "id": "1597158942668226560",
+              "start": 149,
+              "username": "Bitget_zh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QVy5mtSGn",
+              "end": 183,
+              "expanded_url": "https://x.com/xiejiayinBitget/status/1992843957416694102/photo/1",
+              "media_key": "3_1992838904270225408",
+              "start": 160,
+              "url": "https://t.co/7QVy5mtSGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992843957416694102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 159,
+                "id": "1597158942668226560",
+                "start": 149,
+                "username": "Bitget_zh"
+              }
+            ]
+          },
+          "text": "昨天推特位置大战，你在哪儿？\n我在「Bitget VIP 的心窝子」！ \n上周去做心电图，医生看了半天，震惊地说：“兄弟，你这心跳跳的不是心率，是 VIP  VIP  VIP！”\n\n好吧，闭眼全是：Bitget VIP 费率更低到离谱、福利更狠到发疯、专属客服直接把你当祖宗供着……这消息到位了没？@Bitget_zh \n\n肉身还在007，灵魂已迁入VIP 的心窝子。其他兄弟姐妹们，别急我这就去你的心窝子～～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6866,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天推特位置大战，你在哪儿？\n我在「Bitget VIP 的心窝子」！ \n上周去做心电图，医生看了半天，震惊地说：“兄弟，你这心跳跳的不是心率，是 VIP  VIP  VIP！”\n\n好吧，闭眼全是：Bitget VIP 费率更低到离谱、福利更狠到发疯、专属客服直接把你当祖宗供着……这消息到位了没？@Bitget_zh https://t.co/7QVy5mtSGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1653,
+          "like_count": 2268,
+          "listed_count": 6,
+          "media_count": 750,
+          "tweet_count": 5437
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T00:21:43.000Z",
+        "description": "@Bitget Head of Greater China, Only Hold #BGB VIP3+🚀\nBitget VIP，费率更低，福利更狠！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "BGB"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bitget.com",
+                "end": 23,
+                "expanded_url": "http://Bitget.com",
+                "start": 0,
+                "url": "https://t.co/iZYxN6vUbn"
+              }
+            ]
+          }
+        },
+        "id": "1727120087663116288",
+        "location": "Singapore",
+        "name": "谢家印",
+        "pinned_tweet_id": "1978698517834354839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974628997163294720/f8I2MTz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82904,
+          "following_count": 1403,
+          "like_count": 28314,
+          "listed_count": 498,
+          "media_count": 996,
+          "tweet_count": 16560
+        },
+        "url": "https://t.co/iZYxN6vUbn",
+        "username": "xiejiayinBitget",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T09:22:26.000Z",
+        "description": "全球最大的 UEX 全景交易所，优质资产一站式交易 #Bitget \nBitget VIP，费率更低，福利更狠！\n官方中文社群：https://t.co/WnPfdfyp1K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "Bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Bitget_CNOffic…",
+                "end": 87,
+                "expanded_url": "https://t.me/Bitget_CNOfficial",
+                "start": 64,
+                "url": "https://t.co/WnPfdfyp1K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.fit/bg/gsvbqfr6",
+                "end": 23,
+                "expanded_url": "https://partner.bitget.fit/bg/gsvbqfr6",
+                "start": 0,
+                "url": "https://t.co/K55RAh2G97"
+              }
+            ]
+          }
+        },
+        "id": "1597158942668226560",
+        "location": "注册获20%手续费返还👉",
+        "name": "Bitget中文",
+        "pinned_tweet_id": "1991718063071531317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974153079474806784/5--tt6Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102185,
+          "following_count": 593,
+          "like_count": 4869,
+          "listed_count": 404,
+          "media_count": 6052,
+          "tweet_count": 10551
+        },
+        "url": "https://t.co/K55RAh2G97",
+        "username": "Bitget_zh",
+        "verified": true
+      }
+    ]
+  }
+}

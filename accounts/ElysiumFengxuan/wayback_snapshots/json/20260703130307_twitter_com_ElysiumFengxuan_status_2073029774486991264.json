@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2072972595738407118",
+    "created_at": "2026-07-03T13:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073029774486991264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663332142796148736",
+          "start": 0,
+          "username": "dajuzi23242526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073029774486991264",
+    "in_reply_to_user_id": "1663332142796148736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073014928563417228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dajuzi23242526 ww羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2072972595738407118",
+        "created_at": "2026-07-03T13:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073029774486991264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663332142796148736",
+              "start": 0,
+              "username": "dajuzi23242526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073029774486991264",
+        "in_reply_to_user_id": "1663332142796148736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073014928563417228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dajuzi23242526 ww羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663332142796148736",
+        "conversation_id": "2072972595738407118",
+        "created_at": "2026-07-03T12:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073014928563417228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073014928563417228",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072972595738407118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 昨天买了一份，8块钱16个还有紫菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2659,
+          "like_count": 6965,
+          "listed_count": 11,
+          "media_count": 1269,
+          "tweet_count": 10297
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T23:51:16.000Z",
+        "description": "🏳️‍⚧️爱我的二胖城市和杭州「难走的路永远不会拥挤但是充满了前所未有的荆棘以及希望」跨女\\le..」女同\\lo娘，jk，三坑，另一个平台app「bluesky」「推只是我的日记本说说..@dajuzi23242526.bsky.social欢迎互fo😊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "dajuzi23242526"
+              }
+            ]
+          }
+        },
+        "id": "1663332142796148736",
+        "name": "橙子喵🐱🍥",
+        "pinned_tweet_id": "1783634433935114708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888671212089536512/l5Yhh46E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 4950,
+          "like_count": 136668,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 32919
+        },
+        "url": "",
+        "username": "dajuzi23242526",
+        "verified": false
+      }
+    ]
+  }
+}

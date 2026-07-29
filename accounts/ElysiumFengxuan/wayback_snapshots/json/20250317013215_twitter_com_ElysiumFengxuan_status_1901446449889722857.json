@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1901132738364928205",
+    "created_at": "2025-03-17T01:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T02:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901446449889722857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901446449889722857",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901132738364928205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 羡慕天赋党"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1303,
+        "height": 720,
+        "media_key": "7_1901132720400723969",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901132720400723969/pu/img/TcDIiWmEcFzePI-r.jpg",
+        "public_metrics": {
+          "view_count": 1208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/480x270/bJzp2fQMobm4dPn2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/640x360/hDI2ZfOpIHfNJOdB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/vid/avc1/1280x720/CNCWQj2VbKDf1U5t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901132720400723969/pu/pl/YBS7jojVRztK-BXK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1901132722179108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmIuI2BbcAAZuAA.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1901132738364928205",
+        "created_at": "2025-03-17T01:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T02:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901446449889722857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901446449889722857",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901132738364928205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 羡慕天赋党"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901132720400723969",
+            "3_1901132722179108864"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "1901132738364928205",
+        "created_at": "2025-03-16T04:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901132738364928205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "mtf"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "药娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GIXll12Ak",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+              "media_key": "7_1901132720400723969",
+              "start": 19,
+              "url": "https://t.co/7GIXll12Ak"
+            },
+            {
+              "display_url": "pic.x.com/7GIXll12Ak",
+              "end": 42,
+              "expanded_url": "https://x.com/ciyou9443/status/1901132738364928205/video/1",
+              "media_key": "3_1901132722179108864",
+              "start": 19,
+              "url": "https://t.co/7GIXll12Ak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901132738364928205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5838,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫发夹～ #mtf #药娘 #男娘 https://t.co/7GIXll12Ak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 877,
+          "like_count": 986,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 1990
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "欢迎互fo/困困困困困要困死了/薛定谔的颜值/欢迎来找我玩～🏳️‍⚧️🍥",
+        "id": "1805373961020260353",
+        "location": "山东",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325707840933888/Wj9NkqpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 140,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 276
+        },
+        "username": "ciyou9443",
+        "verified": false
+      }
+    ]
+  }
+}

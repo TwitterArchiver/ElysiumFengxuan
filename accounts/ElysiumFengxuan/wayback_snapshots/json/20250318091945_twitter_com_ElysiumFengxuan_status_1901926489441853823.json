@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1901907740173201664",
+    "created_at": "2025-03-18T09:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T10:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901926489441853823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "168658591",
+          "start": 0,
+          "username": "Chiuchiyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901926489441853823",
+    "in_reply_to_user_id": "168658591",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901920479570755839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiuchiyin ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1901907740173201664",
+        "created_at": "2025-03-18T09:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901926489441853823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "168658591",
+              "start": 0,
+              "username": "Chiuchiyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901926489441853823",
+        "in_reply_to_user_id": "168658591",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901920479570755839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiuchiyin ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "168658591",
+        "conversation_id": "1901907740173201664",
+        "created_at": "2025-03-18T08:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T09:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901920479570755839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901920479570755839",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901915904755048743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 抗抑郁药\n\n如果有抽烟也有帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 929,
+          "like_count": 1023,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-20T13:26:19.000Z",
+        "description": "Data Scientist, Computer Scientist, Physicist and Polyglot.\nI build ML models and make videos about mathematics.\nDeep into AI rabbit hole.\nEN/DE/ID/CN/TW",
+        "id": "168658591",
+        "name": "小賢者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888504038007906304/2faajct0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 2806,
+          "like_count": 793,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 4666
+        },
+        "username": "Chiuchiyin",
+        "verified": false
+      }
+    ]
+  }
+}

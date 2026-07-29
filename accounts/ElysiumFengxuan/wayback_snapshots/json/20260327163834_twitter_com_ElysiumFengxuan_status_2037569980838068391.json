@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2037486343119569146",
+    "created_at": "2026-03-27T16:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037569980838068391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 26,
+          "id": "917031360308510720",
+          "start": 12,
+          "username": "user670839245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037569980838068391",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037486343119569146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x @user670839245 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2037486343119569146",
+        "created_at": "2026-03-27T16:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037569980838068391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 26,
+              "id": "917031360308510720",
+              "start": 12,
+              "username": "user670839245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037569980838068391",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037486343119569146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x @user670839245 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2037486343119569146",
+        "created_at": "2026-03-27T11:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037486343119569146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037486343119569146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想要大家的回复和点赞……\n只有这样才能让我感觉到自己的被关注被认可……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 2046,
+          "like_count": 4357,
+          "listed_count": 8,
+          "media_count": 1067,
+          "tweet_count": 8296
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🚬/ 07年 / 跨性别女性 / radical communist / ally / 大模型 / 独立AI研究者 / biohack / 競馬 / Vocaloid / 铁道迷 / @whitecloud_ybw ❤️/欢迎有聊无聊的人找我玩，私信即可 / 加我的人看清楚了我是药娘不是顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 92,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2033907657996963865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5842,
+          "following_count": 2038,
+          "like_count": 26589,
+          "listed_count": 15,
+          "media_count": 1359,
+          "tweet_count": 9757
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-08T14:18:08.000Z",
+        "description": "&gt;_&lt; | 喵喵喵喵喵？？",
+        "id": "917031360308510720",
+        "name": "User670",
+        "pinned_tweet_id": "1650211659913510913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561406835999244288/TsO3KvPy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 3909,
+          "like_count": 9251,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 10805
+        },
+        "username": "user670839245",
+        "verified": false
+      }
+    ]
+  }
+}

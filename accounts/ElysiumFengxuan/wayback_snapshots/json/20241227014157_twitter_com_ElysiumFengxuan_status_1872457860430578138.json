@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1872414927631388879",
+    "created_at": "2024-12-27T01:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T02:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872457860430578138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826129497714040832",
+          "start": 0,
+          "username": "CREZAN_FAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872457860430578138",
+    "in_reply_to_user_id": "1826129497714040832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872414927631388879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CREZAN_FAN 是的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1872414927631388879",
+        "created_at": "2024-12-27T01:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T02:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872457860430578138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826129497714040832",
+              "start": 0,
+              "username": "CREZAN_FAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872457860430578138",
+        "in_reply_to_user_id": "1826129497714040832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872414927631388879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CREZAN_FAN 是的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826129497714040832",
+        "conversation_id": "1872414927631388879",
+        "created_at": "2024-12-26T22:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T23:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872414927631388879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elysiumfengxua…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/elysiumfengxuan/status/1872321212090880458",
+              "start": 21,
+              "url": "https://t.co/CSjbmJ8UhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872414927631388879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872321212090880458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是FTM厌男但还想成为男？不是？哥们？ https://t.co/CSjbmJ8UhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 477,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T05:29:47.000Z",
+        "description": "",
+        "id": "1826129497714040832",
+        "name": "Jota",
+        "pinned_tweet_id": "1836385426346475937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871187142455795712/c-QQoPVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 247,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1295
+        },
+        "username": "CREZAN_FAN",
+        "verified": false
+      }
+    ]
+  }
+}

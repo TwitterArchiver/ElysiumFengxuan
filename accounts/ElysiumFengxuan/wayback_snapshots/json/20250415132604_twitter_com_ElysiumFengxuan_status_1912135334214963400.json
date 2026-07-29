@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1909029747503341628",
+    "created_at": "2025-04-15T13:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T14:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912135334214963400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797669103655919617",
+          "start": 0,
+          "username": "doufu668571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912135334214963400",
+    "in_reply_to_user_id": "1797669103655919617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912124895129182432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doufu668571 药商问问就知道了，甚至你去药店也能买到（吐槽）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_1912124892264255488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gok7dWmX0AAETvY.jpg",
+        "width": 342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1909029747503341628",
+        "created_at": "2025-04-15T13:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T14:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912135334214963400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797669103655919617",
+              "start": 0,
+              "username": "doufu668571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912135334214963400",
+        "in_reply_to_user_id": "1797669103655919617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912124895129182432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doufu668571 药商问问就知道了，甚至你去药店也能买到（吐槽）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912124892264255488"
+          ]
+        },
+        "author_id": "1797669103655919617",
+        "conversation_id": "1909029747503341628",
+        "created_at": "2025-04-15T12:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912124895129182432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p1bagNTC6",
+              "end": 65,
+              "expanded_url": "https://x.com/doufu668571/status/1912124895129182432/photo/1",
+              "media_key": "3_1912124892264255488",
+              "start": 42,
+              "url": "https://t.co/3p1bagNTC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912124895129182432",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911210504611303765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 搞药的时候不是挺能的，怎么找个工作给神仙们难到了 https://t.co/3p1bagNTC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1205,
+          "like_count": 1583,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-03T16:38:18.000Z",
+        "description": "拳打南山敬老院，脚踢北海幼儿园。",
+        "id": "1797669103655919617",
+        "name": "龙虎山爱人狂魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889613731639992320/LUoHJnIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 492
+        },
+        "username": "doufu668571",
+        "verified": false
+      }
+    ]
+  }
+}

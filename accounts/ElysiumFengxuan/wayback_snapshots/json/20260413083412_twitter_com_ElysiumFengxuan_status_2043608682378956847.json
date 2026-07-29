@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2043606894108086514",
+    "created_at": "2026-04-13T08:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043608682378956847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043608682378956847",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043606894108086514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme 阿巴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043606762608283648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxZhenaUAAwHgK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2043606894108086514",
+        "created_at": "2026-04-13T08:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043608682378956847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043608682378956847",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043606894108086514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme 阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043606762608283648"
+          ]
+        },
+        "author_id": "2029891270861299712",
+        "conversation_id": "2043606894108086514",
+        "created_at": "2026-04-13T08:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043606894108086514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0tNxZDplo",
+              "end": 137,
+              "expanded_url": "https://x.com/JoelQinmetme/status/2043606894108086514/photo/1",
+              "media_key": "3_2043606762608283648",
+              "start": 114,
+              "url": "https://t.co/T0tNxZDplo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043606894108086514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "鲨鱼宝贝今天又偷偷霸占了我的小椅子～🥰🦈  \n刷题刷到脑瓜嗡嗡的，一回头它就这么乖乖靠在那里，软软的白肚皮+小鱼鳍，治愈度直接拉满！  \n摸一把就上头了，瞬间电解质回满💕  \n沃也要被可爱狠狠攻击一下嘛～今天也要继续努力喵～😘 https://t.co/T0tNxZDplo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 2233,
+          "like_count": 5005,
+          "listed_count": 9,
+          "media_count": 1108,
+          "tweet_count": 8757
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜爱捣鼓各种技术｜生产日期2009.05.26｜小号@espakoala｜姐姐@ElysiumFengxuan\nMTF ｜Bio Student | Shanghai | Tutorials & Proxy Guides",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "espakoala"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039624648527397097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1356,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 501
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

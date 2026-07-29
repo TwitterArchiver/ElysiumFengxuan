@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1926912290445463625",
+    "created_at": "2025-05-27T01:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T02:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927180094755271033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927180094755271033",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926912290445463625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry 那送人算啥）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_1926912271223017474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3EgF-W0AIF7y0.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926912271256576000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3EgGGW4AAzaVw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926912271990587392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3EgI1XAAAxYCe.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926912271973855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3EgIxXsAAP8_v.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1926912290445463625",
+        "created_at": "2025-05-27T01:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927180094755271033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927180094755271033",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926912290445463625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry 那送人算啥）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926912271223017474",
+            "3_1926912271256576000",
+            "3_1926912271990587392",
+            "3_1926912271973855232"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "1926912290445463625",
+        "created_at": "2025-05-26T08:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T09:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926912290445463625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/LjyGHfSW8K1B…",
+              "end": 154,
+              "expanded_url": "https://mp.weixin.qq.com/s/LjyGHfSW8K1B3uPEz3TbOg",
+              "start": 131,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJQgNGij2QPn1Sn53lbCjNqrzq-xERvrY4QJRcqk&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLjyGHfSW8K1B3uPEz3TbOg",
+              "url": "https://t.co/vnlaQ0oRz2"
+            },
+            {
+              "display_url": "pic.x.com/lk9kgZkQGi",
+              "end": 178,
+              "expanded_url": "https://x.com/AutismBerry/status/1926912290445463625/photo/1",
+              "media_key": "3_1926912271223017474",
+              "start": 155,
+              "url": "https://t.co/lk9kgZkQGi"
+            },
+            {
+              "display_url": "pic.x.com/lk9kgZkQGi",
+              "end": 178,
+              "expanded_url": "https://x.com/AutismBerry/status/1926912290445463625/photo/1",
+              "media_key": "3_1926912271256576000",
+              "start": 155,
+              "url": "https://t.co/lk9kgZkQGi"
+            },
+            {
+              "display_url": "pic.x.com/lk9kgZkQGi",
+              "end": 178,
+              "expanded_url": "https://x.com/AutismBerry/status/1926912290445463625/photo/1",
+              "media_key": "3_1926912271990587392",
+              "start": 155,
+              "url": "https://t.co/lk9kgZkQGi"
+            },
+            {
+              "display_url": "pic.x.com/lk9kgZkQGi",
+              "end": 178,
+              "expanded_url": "https://x.com/AutismBerry/status/1926912290445463625/photo/1",
+              "media_key": "3_1926912271973855232",
+              "start": 155,
+              "url": "https://t.co/lk9kgZkQGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926912290445463625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6801,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，中国就是禁毒禁魔怔了\n\n对精神疾病弱势群体一刀切、重拳出击。我也为本案当事人打抱不平，卖自己的剩药赚点钱也没有主观恶意，被当成毒贩判贩毒罪完全不合理\n\n请记住贩卖任何“管制精神药品”，比如我平时吃的氯硝西泮、奥沙西泮、思诺思，都会被一刀切按照贩毒罪处理\nhttps://t.co/vnlaQ0oRz2 https://t.co/lk9kgZkQGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1360,
+          "like_count": 1899,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 4215
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Depression+Social Anxiety Disorder// 跨性别友好🏳️‍⚧️|不介意私聊|电报频道:https://t.co/LOY0rE981z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+rhFVzMLCYsw2M…",
+                "end": 82,
+                "expanded_url": "https://t.me/+rhFVzMLCYsw2MDI1",
+                "start": 59,
+                "url": "https://t.co/LOY0rE981z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAjBmI"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Berry Blossom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 926,
+          "like_count": 9812,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/W4UmUAjBmI",
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

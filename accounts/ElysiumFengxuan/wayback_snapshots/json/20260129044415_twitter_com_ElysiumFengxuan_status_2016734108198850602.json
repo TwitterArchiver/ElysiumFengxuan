@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2016396299227340937",
+    "created_at": "2026-01-29T04:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016734108198850602",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016396299227340937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 ovo这是干嘛的ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 244,
+        "media_key": "3_2016396162325188608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_utoFXakAA-22-.jpg",
+        "width": 216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016396162325188608"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2016396299227340937",
+        "created_at": "2026-01-28T06:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjOGAaDvs9",
+              "end": 36,
+              "expanded_url": "https://x.com/mwdxj29477/status/2016396299227340937/photo/1",
+              "media_key": "3_2016396162325188608",
+              "start": 13,
+              "url": "https://t.co/pjOGAaDvs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016396299227340937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5629,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "窝要来管理你们 ! 😡😱 https://t.co/pjOGAaDvs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1802,
+          "like_count": 3109,
+          "listed_count": 6,
+          "media_count": 922,
+          "tweet_count": 6738
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "|翻车顺男~ /出厂日期:11.13.2011|\n|01.28.2026翻车…只是体验一下|\n|喜欢xnn xyn/INFP-T/欢迎互fo~|\n|初二牲/家长几乎放养我/161  50|\n|反共/支持台灣/繁體 & 简体中文|\n|QQ&B站:私信加 TG:『mwdxj』|\n|坐标湖北/ 社恐 /玩MINECRAFT|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民国/湖北省",
+        "name": "Mwdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012764703894671360/6Pvt_xDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 281,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2021935787466797510",
+    "created_at": "2026-02-12T13:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021935787466797510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yusuke_Takigaw…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Yusuke_Takigawa/status/2021843943340839160",
+          "start": 40,
+          "url": "https://t.co/iyb2DFuvrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021935787466797510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021843943340839160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你透露自己的真实年龄，你的粉丝可能会感到惊讶。\n今年十二月月我就21岁了。 https://t.co/iyb2DFuvrc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2021935787466797510",
+        "created_at": "2026-02-12T13:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021935787466797510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yusuke_Takigaw…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Yusuke_Takigawa/status/2021843943340839160",
+              "start": 40,
+              "url": "https://t.co/iyb2DFuvrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021935787466797510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021843943340839160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你透露自己的真实年龄，你的粉丝可能会感到惊讶。\n今年十二月月我就21岁了。 https://t.co/iyb2DFuvrc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450730882738786305",
+        "conversation_id": "2021843943340839160",
+        "created_at": "2026-02-12T07:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021843943340839160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021843943340839160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6151,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你透露自己的真实年龄，你的粉丝可能会感到惊讶。\n今年六月我就40岁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1851,
+          "like_count": 3244,
+          "listed_count": 7,
+          "media_count": 948,
+          "tweet_count": 6957
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "エロゲー\nDiscord(エロゲメイン) https://t.co/XjJqQoqht7\n無言フォローＯＫ、その代わり無言フォローします。\n中日・F1・NBA・国際交流\n保守派ですが外国人に対する差別は許さないです。\nかなり酷いクローン病に苦しんでいます。\n最近覚えた言葉は「日華友好」。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9jcrhmFtvh",
+                "end": 44,
+                "expanded_url": "https://discord.gg/9jcrhmFtvh",
+                "start": 21,
+                "url": "https://t.co/XjJqQoqht7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069291761196…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3706929176119663",
+                "start": 0,
+                "url": "https://t.co/b3pWCwciIi"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "location": "愛知県豊川市",
+        "name": "滝川雄介",
+        "pinned_tweet_id": "2015799245698404816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999958166348644353/_LYuSP8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 2538,
+          "like_count": 1243,
+          "listed_count": 11,
+          "media_count": 651,
+          "tweet_count": 6698
+        },
+        "url": "https://t.co/b3pWCwciIi",
+        "username": "Yusuke_Takigawa",
+        "verified": true
+      }
+    ]
+  }
+}

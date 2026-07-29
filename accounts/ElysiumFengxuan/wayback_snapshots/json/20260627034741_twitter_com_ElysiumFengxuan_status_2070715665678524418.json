@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2070413473486672222",
+    "created_at": "2026-06-27T03:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070715665678524418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717624548512714752",
+          "start": 0,
+          "username": "Patrycja030701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070715665678524418",
+    "in_reply_to_user_id": "1717624548512714752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070711182529610148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patrycja030701 好诶蟹蟹喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2070413473486672222",
+        "created_at": "2026-06-27T03:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070715665678524418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717624548512714752",
+              "start": 0,
+              "username": "Patrycja030701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070715665678524418",
+        "in_reply_to_user_id": "1717624548512714752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070711182529610148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patrycja030701 好诶蟹蟹喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717624548512714752",
+        "conversation_id": "2070413473486672222",
+        "created_at": "2026-06-27T03:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070711182529610148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070711182529610148",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070413473486672222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 2619,
+          "like_count": 6801,
+          "listed_count": 11,
+          "media_count": 1241,
+          "tweet_count": 10130
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T19:29:47.000Z",
+        "description": "原账号@AmorDesperatus｜持证MTF｜hrt开始于2025/12/5｜生产日期2006/9｜177cm/69kg｜现居地:江苏·淮安｜tg:https://t.co/sHOCxeU2Fg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "AmorDesperatus"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/NewLightAsia",
+                "end": 99,
+                "expanded_url": "http://t.me/NewLightAsia",
+                "start": 76,
+                "url": "https://t.co/sHOCxeU2Fg"
+              }
+            ]
+          }
+        },
+        "id": "1717624548512714752",
+        "location": "抬头看人生，如此似钟摆",
+        "name": "EA-StarLight·二號機🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069097564297977856/IYxOiZjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 54,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Patrycja030701",
+        "verified": false
+      }
+    ]
+  }
+}

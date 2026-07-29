@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2021901565611970583",
+    "created_at": "2026-02-12T13:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021934172311605303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1748384528958394368",
+          "start": 0,
+          "username": "Fukochann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021934172311605303",
+    "in_reply_to_user_id": "1748384528958394368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021901565611970583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fukochann 这啥程序（思考）干嘛的（思考）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021901553154822145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88wAaakAETGaI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021901553159090176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88wAbbsAADsgA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021901553142202368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88wAXaAAAWtLN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021901553154871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88wAabUAAK-Im.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2021901565611970583",
+        "created_at": "2026-02-12T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021934172311605303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1748384528958394368",
+              "start": 0,
+              "username": "Fukochann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021934172311605303",
+        "in_reply_to_user_id": "1748384528958394368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021901565611970583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fukochann 这啥程序（思考）干嘛的（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021901553154822145",
+            "3_2021901553159090176",
+            "3_2021901553142202368",
+            "3_2021901553154871296"
+          ]
+        },
+        "author_id": "1748384528958394368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021901565611970583",
+        "created_at": "2026-02-12T10:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021901565611970583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4leEC6TrVj",
+              "end": 27,
+              "expanded_url": "https://x.com/Fukochann/status/2021901565611970583/photo/1",
+              "media_key": "3_2021901553154822145",
+              "start": 4,
+              "url": "https://t.co/4leEC6TrVj"
+            },
+            {
+              "display_url": "pic.x.com/4leEC6TrVj",
+              "end": 27,
+              "expanded_url": "https://x.com/Fukochann/status/2021901565611970583/photo/1",
+              "media_key": "3_2021901553159090176",
+              "start": 4,
+              "url": "https://t.co/4leEC6TrVj"
+            },
+            {
+              "display_url": "pic.x.com/4leEC6TrVj",
+              "end": 27,
+              "expanded_url": "https://x.com/Fukochann/status/2021901565611970583/photo/1",
+              "media_key": "3_2021901553142202368",
+              "start": 4,
+              "url": "https://t.co/4leEC6TrVj"
+            },
+            {
+              "display_url": "pic.x.com/4leEC6TrVj",
+              "end": 27,
+              "expanded_url": "https://x.com/Fukochann/status/2021901565611970583/photo/1",
+              "media_key": "3_2021901553154871296",
+              "start": 4,
+              "url": "https://t.co/4leEC6TrVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021901565611970583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩😋 https://t.co/4leEC6TrVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1851,
+          "like_count": 3242,
+          "listed_count": 7,
+          "media_count": 948,
+          "tweet_count": 6954
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T16:38:59.000Z",
+        "description": "17 岁｜高中生｜mtx｜ENFP｜最爱的老婆🥰@lihedong5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "lihedong5"
+              }
+            ]
+          }
+        },
+        "id": "1748384528958394368",
+        "location": "君のこころ♥️の中に",
+        "name": "風子ふうこ Fuko🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917441942482477058/_ma2cwAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1164,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 612
+        },
+        "username": "Fukochann",
+        "verified": false
+      }
+    ]
+  }
+}

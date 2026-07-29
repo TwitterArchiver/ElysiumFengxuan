@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1896580471229944255",
+    "created_at": "2025-03-04T08:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T09:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896836596231811266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG_8964"
+        },
+        {
+          "end": 29,
+          "id": "1565231003987505153",
+          "start": 13,
+          "username": "Kirishima_Arash"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896836596231811266",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896828779261276290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG_8964 @Kirishima_Arash 好奇是啥样（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1896580471229944255",
+        "created_at": "2025-03-04T08:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T09:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896836596231811266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG_8964"
+            },
+            {
+              "end": 29,
+              "id": "1565231003987505153",
+              "start": 13,
+              "username": "Kirishima_Arash"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896836596231811266",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896828779261276290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG_8964 @Kirishima_Arash 好奇是啥样（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818315659673210880",
+        "conversation_id": "1896580471229944255",
+        "created_at": "2025-03-04T07:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896828779261276290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 33,
+              "id": "1738907027362209792",
+              "start": 17,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896828779261276290",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896816515061862661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @ElysiumFengxuan 我忘了只能空岛用了\n暑假那段时间玩里芒果玩疯了导致的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 774,
+          "like_count": 947,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」\n♥️🇨🇳🇭🇰🇲🇴🇹🇼🇯🇵🇰🇷🇸🇬🇸🇪🇧🇻🇫🇮🇺🇦🇮🇩🇮🇱🇺🇸♥️\n逃生舱：@Nek1BOOM 欢迎互fo😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Nek1BOOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neki.work",
+                "end": 23,
+                "expanded_url": "http://neki.work",
+                "start": 0,
+                "url": "https://t.co/n61PuIvjOU"
+              }
+            ]
+          }
+        },
+        "id": "1818315659673210880",
+        "location": "鸠拉-特恩佩斯特联邦国陆军司令部",
+        "name": "Nek1🦌☕✨ ♥️🇳🇴",
+        "pinned_tweet_id": "1884528224514044010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891632521902948354/gqTWHJ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 985,
+          "like_count": 16803,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3740
+        },
+        "url": "https://t.co/n61PuIvjOU",
+        "username": "NeK1GG_8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  MTX🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n最温暖的归宿和恋人 : @quanai_qwq ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "quanai_qwq"
+              }
+            ]
+          }
+        },
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1896500916930662497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6116,
+          "following_count": 6415,
+          "like_count": 89149,
+          "listed_count": 11,
+          "media_count": 837,
+          "tweet_count": 56303
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      }
+    ]
+  }
+}

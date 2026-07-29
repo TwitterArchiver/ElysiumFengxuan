@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2021540308975317427",
+    "created_at": "2026-02-12T03:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021781636657164722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3556482374",
+          "start": 0,
+          "username": "btcbajie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021781636657164722",
+    "in_reply_to_user_id": "3556482374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021540308975317427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btcbajie 哪有自己骂自己是猪的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2021540293523447808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA30L7aaoAA4lgA.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2021540308975317427",
+        "created_at": "2026-02-12T03:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021781636657164722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3556482374",
+              "start": 0,
+              "username": "btcbajie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021781636657164722",
+        "in_reply_to_user_id": "3556482374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021540308975317427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcbajie 哪有自己骂自己是猪的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021540293523447808"
+          ]
+        },
+        "author_id": "3556482374",
+        "conversation_id": "2021540308975317427",
+        "created_at": "2026-02-11T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021540308975317427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DDKZbEBA2",
+              "end": 26,
+              "expanded_url": "https://x.com/btcbajie/status/2021540308975317427/photo/1",
+              "media_key": "3_2021540293523447808",
+              "start": 3,
+              "url": "https://t.co/6DDKZbEBA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021540308975317427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 83840,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 153,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "咋回 https://t.co/6DDKZbEBA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1841,
+          "like_count": 3209,
+          "listed_count": 7,
+          "media_count": 944,
+          "tweet_count": 6910
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-14T04:28:59.000Z",
+        "description": "早期项目挖掘｜ 活动空投｜ 交易分享｜土狗玩家｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/btcbajie",
+                "end": 23,
+                "expanded_url": "http://t.me/btcbajie",
+                "start": 0,
+                "url": "https://t.co/5jHbHiqj05"
+              }
+            ]
+          }
+        },
+        "id": "3556482374",
+        "name": "BTC八戒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988848153307815936/LEspsu_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16766,
+          "following_count": 2292,
+          "like_count": 87066,
+          "listed_count": 46,
+          "media_count": 832,
+          "tweet_count": 122529
+        },
+        "url": "https://t.co/5jHbHiqj05",
+        "username": "btcbajie",
+        "verified": true
+      }
+    ]
+  }
+}

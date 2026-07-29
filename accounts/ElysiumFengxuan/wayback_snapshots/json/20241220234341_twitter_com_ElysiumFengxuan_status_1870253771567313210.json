@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1869716145533805018",
+    "created_at": "2024-12-20T23:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T00:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870253771567313210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594240329158463495",
+          "start": 0,
+          "username": "Y_77671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870253771567313210",
+    "in_reply_to_user_id": "1594240329158463495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869716145533805018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_77671 麦片我要吃麦片！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1869716145533805018",
+        "created_at": "2024-12-20T23:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T00:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870253771567313210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594240329158463495",
+              "start": 0,
+              "username": "Y_77671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870253771567313210",
+        "in_reply_to_user_id": "1594240329158463495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869716145533805018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_77671 麦片我要吃麦片！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869716129901649920"
+          ]
+        },
+        "author_id": "1594240329158463495",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1869716145533805018",
+        "created_at": "2024-12-19T12:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869716145533805018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7G69vY1zz",
+              "end": 38,
+              "expanded_url": "https://x.com/Y_77671/status/1869716145533805018/photo/1",
+              "media_key": "3_1869716129901649920",
+              "start": 15,
+              "url": "https://t.co/c7G69vY1zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869716145533805018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 43238,
+          "like_count": 471,
+          "quote_count": 6,
+          "reply_count": 151,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远也不知道这是什么 https://t.co/c7G69vY1zz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 439,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-20T08:05:04.000Z",
+        "description": "04年MTF/2023 12 28/最好的闺蜜 @cheese_442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "cheese_442"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_77671",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_77671",
+                "start": 0,
+                "url": "https://t.co/agl9OaSHiD"
+              }
+            ]
+          }
+        },
+        "id": "1594240329158463495",
+        "location": "119°30′～121°00′E35°35′～37°09′N",
+        "name": "zako⭐️",
+        "pinned_tweet_id": "1843923792806154288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809973356688801792/2w-tiV-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4988,
+          "following_count": 1211,
+          "like_count": 16951,
+          "listed_count": 4,
+          "media_count": 729,
+          "tweet_count": 3974
+        },
+        "url": "https://t.co/agl9OaSHiD",
+        "username": "Y_77671",
+        "verified": false
+      }
+    ]
+  }
+}

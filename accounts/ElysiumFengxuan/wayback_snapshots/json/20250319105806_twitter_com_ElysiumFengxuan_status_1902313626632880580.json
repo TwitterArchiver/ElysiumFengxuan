@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1901854710115758225",
+    "created_at": "2025-03-19T10:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T11:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902313626632880580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 29,
+          "id": "1874104856375693312",
+          "start": 14,
+          "username": "shaoxiancao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902313626632880580",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902294912756019532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @shaoxiancao520 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1901854710115758225",
+        "created_at": "2025-03-19T10:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902313626632880580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 29,
+              "id": "1874104856375693312",
+              "start": 14,
+              "username": "shaoxiancao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902313626632880580",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902294912756019532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @shaoxiancao520 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1901854710115758225",
+        "created_at": "2025-03-19T09:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902294912756019532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 32,
+              "id": "1874104856375693312",
+              "start": 17,
+              "username": "shaoxiancao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902294912756019532",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901867240233812322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @shaoxiancao520 单纯留香的话买一盒凡士林，然后把留香短的香水倒里面，搅和匀了往身上抹点，具体比例得看香水，你可以一点点试。这样就类似于低级留香膏了，或者干脆直接买留香膏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 954,
+          "like_count": 1055,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "是男的，上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 289,
+          "like_count": 19675,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2162
+        },
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T14:46:44.000Z",
+        "description": "mtf丨09年161cm药娘丨性别认知障碍丨双向情感障碍丨中度抑郁丨焦虑症丨高浓度二次元丨坐标郑州丨《蛊真人》死忠粉",
+        "id": "1874104856375693312",
+        "location": "郑州",
+        "name": "烧仙草🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1884609840162738487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 568,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 138
+        },
+        "username": "shaoxiancao520",
+        "verified": true
+      }
+    ]
+  }
+}

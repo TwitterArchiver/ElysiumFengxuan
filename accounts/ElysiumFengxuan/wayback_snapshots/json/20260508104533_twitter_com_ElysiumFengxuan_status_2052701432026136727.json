@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2052317748857016542",
+    "created_at": "2026-05-08T10:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052701432026136727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1823349858734116864",
+          "start": 0,
+          "username": "xxb3853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052701432026136727",
+    "in_reply_to_user_id": "1823349858734116864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052698930866241653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxb3853 诶?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2052317748857016542",
+        "created_at": "2026-05-08T10:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052701432026136727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823349858734116864",
+              "start": 0,
+              "username": "xxb3853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052701432026136727",
+        "in_reply_to_user_id": "1823349858734116864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052698930866241653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxb3853 诶?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823349858734116864",
+        "conversation_id": "2052317748857016542",
+        "created_at": "2026-05-08T10:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052698930866241653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052698930866241653",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052317748857016542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 正规的医院在官网就会有联系方式，咨询预约即可\n价格方面，最便宜的应该是8万左右(包括7天住院费)\n不过你要考虑额外的住宿费，飞机票，伙食费，以及伤口没有长好二次手术的费用\n此外，一个人出国可能不太安全，你可能需要一个陪护(最好会一部分泰语)毕竟你也不想每次沟通都得用翻译器吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 2410,
+          "like_count": 5620,
+          "listed_count": 11,
+          "media_count": 1151,
+          "tweet_count": 9220
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T13:24:43.000Z",
+        "description": "11年 现居吉林 HRT日期 2025-8-29 已出柜 不算家长党？妈妈支持 爸爸反对\n千篇一律的景，时长时短的影，无人相伴的路，怅恍迷离的舞……\n如果可以，下辈子我要做一个女孩子。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mxzc.top",
+                "end": 23,
+                "expanded_url": "https://www.mxzc.top/",
+                "start": 0,
+                "url": "https://t.co/HbbGbnyj60"
+              }
+            ]
+          }
+        },
+        "id": "1823349858734116864",
+        "location": "泰国",
+        "name": "小熊被🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038174993801228289/EgZfLey1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 49,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/HbbGbnyj60",
+        "username": "xxb3853",
+        "verified": false
+      }
+    ]
+  }
+}

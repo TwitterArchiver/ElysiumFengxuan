@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2020856565968834624",
+    "created_at": "2026-02-10T14:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021228191185048045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 14,
+          "id": "1618557658163970049",
+          "start": 6,
+          "username": "qqqqqf5"
+        },
+        {
+          "end": 29,
+          "id": "1911351259749294080",
+          "start": 15,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021228191185048045",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021227191925641395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @qqqqqf5 @Quitewaterqwq 你能用通俗易懂的语言翻译这句话吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2020856565968834624",
+        "created_at": "2026-02-10T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021228191185048045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 14,
+              "id": "1618557658163970049",
+              "start": 6,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 29,
+              "id": "1911351259749294080",
+              "start": 15,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021228191185048045",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021227191925641395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @qqqqqf5 @Quitewaterqwq 你能用通俗易懂的语言翻译这句话吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2020856565968834624",
+        "created_at": "2026-02-10T14:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021227191925641395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 25,
+              "id": "1618557658163970049",
+              "start": 17,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 40,
+              "id": "1911351259749294080",
+              "start": 26,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021227191925641395",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这条帖子发了一张图片，内容是中文文字谜语：\n\n“中文學霸注意：\n\n鼠她良翮恺饕饕果咬\n\n恺柔丐丐 、军文兑谑出\n\n。卉獠疆恺恺饕列乐\n\n昊卉獠籍谑 、恺喜枉\n\n。卉獠籍谑 、恺喜枉\n\n。巴赛意昧饕饕 、恺喜枉”\n\n看起来像用稀有字组成的鬼故事谜题，可能解为“最地狱级难度鬼故事”，每个“故事”结尾类似“开玩笑”。如果是脑筋急转弯，意思或许是“鬼故事就是开玩笑”。你有解法吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021225957424599521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @qqqqqf5 @Quitewaterqwq 这条帖子发了一张图片，内容是中文文字谜语：\n\n“中文學霸注意：\n\n鼠她良翮恺饕饕果咬\n\n恺柔丐丐 、军文兑谑出\n\n。卉獠疆恺恺饕列乐\n\n昊卉獠籍谑 、恺喜枉\n\n。卉獠籍谑 、恺喜枉\n\n。巴赛意昧饕饕 、恺喜枉”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1837,
+          "like_count": 3184,
+          "listed_count": 7,
+          "media_count": 938,
+          "tweet_count": 6864
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7880021,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6059,
+          "media_count": 8158118,
+          "tweet_count": 101477620
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信聊天投稿andmore!\nPython/Rust/JS后端个人开发者 | 学生\nAgent | 量化 | 交易\nGithub求follow\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 136,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 113,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2021217168906444882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8205,
+          "following_count": 1992,
+          "like_count": 13933,
+          "listed_count": 16,
+          "media_count": 2060,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "已退推|推荐关注朋友👉@elp15_ @hajixi12356 @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "elp15_"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "wusweet_i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/izumikonata201…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/izumikonata20161",
+                "start": 0,
+                "url": "https://t.co/63kE9WZEIW"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1947285390538236348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1001,
+          "like_count": 9030,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 5352
+        },
+        "url": "https://t.co/63kE9WZEIW",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

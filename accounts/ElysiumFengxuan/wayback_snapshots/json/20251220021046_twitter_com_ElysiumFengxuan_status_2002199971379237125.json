@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2001907611764133921",
+    "created_at": "2025-12-20T02:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T03:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002199971379237125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542726331913633792",
+          "start": 0,
+          "username": "awaste996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002199971379237125",
+    "in_reply_to_user_id": "1542726331913633792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001907611764133921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaste996 呜哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2001907607800619008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8g0XNwboAARBCB.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2001907611764133921",
+        "created_at": "2025-12-20T02:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002199971379237125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542726331913633792",
+              "start": 0,
+              "username": "awaste996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002199971379237125",
+        "in_reply_to_user_id": "1542726331913633792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001907611764133921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaste996 呜哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001907607800619008"
+          ]
+        },
+        "author_id": "1542726331913633792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2001907611764133921",
+        "created_at": "2025-12-19T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001907611764133921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1738907027362209792",
+              "start": 16,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 60,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2000073428796420096/tqv2i-aD?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000073428796420096/tqv2i-aD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/cxBoWa1F7A"
+            },
+            {
+              "display_url": "pic.x.com/bM6DiYwuVS",
+              "end": 84,
+              "expanded_url": "https://x.com/awaste996/status/2001907611764133921/photo/1",
+              "media_key": "3_2001907607800619008",
+              "start": 61,
+              "url": "https://t.co/bM6DiYwuVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001907611764133921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @ElysiumFengxuan\n\n➡️ https://t.co/cxBoWa1F7A https://t.co/bM6DiYwuVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1759,
+          "like_count": 2714,
+          "listed_count": 6,
+          "media_count": 860,
+          "tweet_count": 6228
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T04:26:49.000Z",
+        "description": "缺爱/情绪极不稳定/CHN,ENG,JPN",
+        "id": "1542726331913633792",
+        "name": "河原木千鹤(Chizuru Kawaragi)",
+        "pinned_tweet_id": "1993316039615299865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001115942643015680/-S_zCYlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 54,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 293
+        },
+        "username": "awaste996",
+        "verified": false
+      }
+    ]
+  }
+}

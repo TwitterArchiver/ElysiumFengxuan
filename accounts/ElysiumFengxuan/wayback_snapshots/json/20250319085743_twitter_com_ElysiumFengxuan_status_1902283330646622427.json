@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1902260403213565980",
+    "created_at": "2025-03-19T08:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T09:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902283330646622427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902283330646622427",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902260403213565980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 好奇什么东西）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1902260403213565980",
+        "created_at": "2025-03-19T08:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T09:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902283330646622427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902283330646622427",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902260403213565980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 好奇什么东西）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374034349700444161",
+        "conversation_id": "1902260403213565980",
+        "created_at": "2025-03-19T07:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T08:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902260403213565980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 34,
+              "expanded_url": "https://x.com/pizyj/status/1902259145929085065?s=46",
+              "start": 11,
+              "url": "https://t.co/EpqYwThMqk"
+            },
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/pizyj/status/1901883244015952324",
+              "start": 35,
+              "url": "https://t.co/0RQDVl459x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902260403213565980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901883244015952324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺丰空运😺\n保证新鲜\nhttps://t.co/EpqYwThMqk https://t.co/0RQDVl459x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 951,
+          "like_count": 1050,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "⬅️⬆️不文明的物种，又丑又凶，打人，还抢东西，sub，内有恶🐱@NekomiyaKoharu ,请勿靠近😈😈😈III 个人梯子，测试通用性还可以https://t.co/RvgI8jhUJf 😺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "NekomiyaKoharu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 96,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=SR31PQgn",
+                "start": 73,
+                "url": "https://t.co/RvgI8jhUJf"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58080,
+          "following_count": 5306,
+          "like_count": 41436,
+          "listed_count": 78,
+          "media_count": 9011,
+          "tweet_count": 50455
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

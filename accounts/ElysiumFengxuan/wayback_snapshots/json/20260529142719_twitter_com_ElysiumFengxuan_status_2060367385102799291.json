@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2059897289939022002",
+    "created_at": "2026-05-29T14:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060367385102799291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        },
+        {
+          "end": 22,
+          "id": "2055438029230309376",
+          "start": 10,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060367385102799291",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060332883739648139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@QXY_WARD @KoalaEngine 一觉醒来被开除跨籍😨😱😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060332881277530112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfF1uOasAAt7o2.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2059897289939022002",
+        "created_at": "2026-05-29T14:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060367385102799291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            },
+            {
+              "end": 22,
+              "id": "2055438029230309376",
+              "start": 10,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060367385102799291",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060332883739648139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@QXY_WARD @KoalaEngine 一觉醒来被开除跨籍😨😱😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060332881277530112"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "conversation_id": "2059897289939022002",
+        "created_at": "2026-05-29T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060332883739648139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20555…",
+              "end": 165,
+              "expanded_url": "https://x.com/i/status/2055525636706599416",
+              "start": 142,
+              "url": "https://t.co/Nz8zNnMxYF"
+            },
+            {
+              "display_url": "pic.x.com/maRSMYubqZ",
+              "end": 189,
+              "expanded_url": "https://x.com/QXY_WARD/status/2060332883739648139/photo/1",
+              "media_key": "3_2060332881277530112",
+              "start": 166,
+              "url": "https://t.co/maRSMYubqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060332883739648139",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055525636706599416",
+            "type": "quoted"
+          },
+          {
+            "id": "2059897289939022002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@KoalaEngine 看到过对这个的调查，如果跨性别是用常规男性方式自慰、对自己生殖器没有性别焦虑，那还不如当个男同，男同一点都不丢，看到人家讨论跨性别的自慰方式真的很让我无语，猎奇😅\n剩下的我不想评判那么多，说多了别人又觉得我反跨，不说多我自己又难受，我只是不理解这种行为罢了\nhttps://t.co/Nz8zNnMxYF https://t.co/maRSMYubqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 2482,
+          "like_count": 5897,
+          "listed_count": 10,
+          "media_count": 1180,
+          "tweet_count": 9451
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED 会转发可爱的小男孩🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031964019851231233/c9QZySdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1683,
+          "like_count": 5049,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan | bestie @senzhiwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057804399473574329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 41,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

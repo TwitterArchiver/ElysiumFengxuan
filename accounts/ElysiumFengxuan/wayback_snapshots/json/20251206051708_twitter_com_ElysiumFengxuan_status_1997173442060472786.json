@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1997051549626126814",
+    "created_at": "2025-12-06T05:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997173442060472786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996347854613602304",
+          "start": 0,
+          "username": "yuukihanashiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997173442060472786",
+    "in_reply_to_user_id": "1996347854613602304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997051549626126814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuukihanashiya 圆环？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1997051304418676737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bzlJ4bEAEJ7yr.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1997051549626126814",
+        "created_at": "2025-12-06T05:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997173442060472786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996347854613602304",
+              "start": 0,
+              "username": "yuukihanashiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997173442060472786",
+        "in_reply_to_user_id": "1996347854613602304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997051549626126814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuukihanashiya 圆环？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997051304418676737"
+          ]
+        },
+        "author_id": "1996347854613602304",
+        "conversation_id": "1997051549626126814",
+        "created_at": "2025-12-05T21:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T22:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997051549626126814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkOwZkbo8A",
+              "end": 51,
+              "expanded_url": "https://x.com/yuukihanashiya/status/1997051549626126814/photo/1",
+              "media_key": "3_1997051304418676737",
+              "start": 28,
+              "url": "https://t.co/VkOwZkbo8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997051549626126814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 596,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "米娜好……咱就是n55主页简介上挂着的那个糖商本人…… https://t.co/VkOwZkbo8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 1737,
+          "like_count": 2521,
+          "listed_count": 6,
+          "media_count": 831,
+          "tweet_count": 5928
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T22:36:54.000Z",
+        "description": "（小圆环）糖和糖商！粉白蓝与梦想！\n結城はなしや🍥（小糖商）/2009/mtf/小证时间：25.9.21/一年xyn兼职糖商/心理咨询和紫砂干预/日雌神教/小熊被友站合作🍥https://t.co/4FNDGOY83J\n注：n55认证糖商，q3518541175",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.3853520.xyz",
+                "end": 109,
+                "expanded_url": "https://shop.3853520.xyz",
+                "start": 86,
+                "url": "https://t.co/4FNDGOY83J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.3853520.xyz",
+                "end": 23,
+                "expanded_url": "http://shop.3853520.xyz",
+                "start": 0,
+                "url": "https://t.co/R6gJmlv6sV"
+              }
+            ]
+          }
+        },
+        "id": "1996347854613602304",
+        "name": "結城話夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996351157804077056/s9om95J7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 35,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/R6gJmlv6sV",
+        "username": "yuukihanashiya",
+        "verified": false
+      }
+    ]
+  }
+}

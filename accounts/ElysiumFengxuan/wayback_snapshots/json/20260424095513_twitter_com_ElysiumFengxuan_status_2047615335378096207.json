@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047615327127863296"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2047614899376033929",
+    "created_at": "2026-04-24T09:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047615335378096207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35LgS9mrUF",
+          "end": 37,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2047615335378096207/photo/1",
+          "media_key": "3_2047615327127863296",
+          "start": 14,
+          "url": "https://t.co/35LgS9mrUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047615335378096207",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047614899376033929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme https://t.co/35LgS9mrUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2047615327127863296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqXSpIaAAAlYue.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047615327127863296"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2047614899376033929",
+        "created_at": "2026-04-24T09:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047615335378096207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35LgS9mrUF",
+              "end": 37,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2047615335378096207/photo/1",
+              "media_key": "3_2047615327127863296",
+              "start": 14,
+              "url": "https://t.co/35LgS9mrUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047615335378096207",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047614899376033929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme https://t.co/35LgS9mrUF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029891270861299712",
+        "conversation_id": "2047614899376033929",
+        "created_at": "2026-04-24T09:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047614899376033929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047614899376033929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 493,
+                "start": 489,
+                "tag": "郑钦文"
+              },
+              {
+                "end": 503,
+                "start": 494,
+                "tag": "QueenWen"
+              },
+              {
+                "end": 510,
+                "start": 504,
+                "tag": "WTA东京"
+              },
+              {
+                "end": 516,
+                "start": 511,
+                "tag": "网球预测"
+              },
+              {
+                "end": 526,
+                "start": 517,
+                "tag": "Foregate"
+              },
+              {
+                "end": 535,
+                "start": 527,
+                "tag": "Web3玩乐喵"
+              },
+              {
+                "end": 550,
+                "start": 536,
+                "tag": "PaidPromotion"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "go.foregate.com/tHQgbKf",
+                "end": 478,
+                "expanded_url": "https://go.foregate.com/tHQgbKf",
+                "start": 455,
+                "url": "https://t.co/Z8c5U3CVli"
+              }
+            ]
+          },
+          "text": "🎾 哇哇哇 Queen Wen 又要大战啦！！郑钦文 vs 索菲亚·凯宁 超级巅峰对决来袭～谁能挡住“淘米姐”的 Ace 球雨呀喵！！🔥💕\nWTA 东京站决赛重演（或者随便哪次相遇都行ww），郑钦文的暴力发球直接炸场，凯宁的顽强底线防守又超会磨人……每次看都心脏砰砰砰！！😵‍💫\n你们是相信我家淘米姐继续横扫赛场，还是觉得前大满贯冠军凯宁能顽强逆袭呢？光看比赛太无聊啦，来点刺激的～你的专业分析，说出来大家一起讨论呀！！🤩\n🚀 想一起玩吗？Foregate 就是懂球帝的快乐老家喵～\n⚡️ 刷 X 一样丝滑预测！不用那些麻烦步骤，点几下就搞定，超方便ww\n⛓️ Web3 链上透明结算，每一笔都公开公正，安全感拉满💎\n💎 看准了还能赚积分+奖励，解锁更多小惊喜～\n📊 比赛每记 Ace、每次破发，实时市场情绪都跟着跳动，超带感！！\n不管你是网球老粉，还是跟我一样爱捣鼓技术的 Web3 小白，Foregate 都准备好让你当赛场主宰者啦～\n快来为 Queen Wen 助威！把你的洞察力变成真·赢面吧喵呜～👇\nhttps://t.co/Z8c5U3CVli\n（链接点我点我！）\n#郑钦文 #QueenWen #WTA东京 #网球预测 #Foregate #Web3玩乐喵 #PaidPromotion\n（支持谁的快来评论区说说看呀～我已经准备好一起尖叫了www💕）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "🎾 哇哇哇 Queen Wen 又要大战啦！！郑钦文 vs 索菲亚·凯宁 超级巅峰对决来袭～谁能挡住“淘米姐”的 Ace 球雨呀喵！！🔥💕\nWTA 东京站决赛重演（或者随便哪次相遇都行ww），郑钦文的暴力发球直接炸场，凯宁的顽强底线防守又超会磨人……每次看都心脏砰砰砰！！😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 2275,
+          "like_count": 5210,
+          "listed_count": 9,
+          "media_count": 1120,
+          "tweet_count": 8901
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜爱捣鼓各种技术｜生产日期2009.05.26｜小号@espakoala｜姐姐@ElysiumFengxuan\nMTF ｜Bio Student | Shanghai | Tutorials & Proxy Guides",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "espakoala"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dashcf.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dashcf.metc.uk",
+                "start": 0,
+                "url": "https://t.co/A1eZJWywIr"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2044197409304260836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1429,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/A1eZJWywIr",
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2059897289939022002",
+    "created_at": "2026-05-29T14:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060367025256710203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790943868596506624",
+          "start": 0,
+          "username": "ioio334800"
+        },
+        {
+          "end": 24,
+          "id": "2055438029230309376",
+          "start": 12,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060367025256710203",
+    "in_reply_to_user_id": "1790943868596506624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059934625833836548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ioio334800 @KoalaEngine 诶诶卧也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2059897289939022002",
+        "created_at": "2026-05-29T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060367025256710203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790943868596506624",
+              "start": 0,
+              "username": "ioio334800"
+            },
+            {
+              "end": 24,
+              "id": "2055438029230309376",
+              "start": 12,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060367025256710203",
+        "in_reply_to_user_id": "1790943868596506624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059934625833836548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ioio334800 @KoalaEngine 诶诶卧也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790943868596506624",
+        "conversation_id": "2059897289939022002",
+        "created_at": "2026-05-28T09:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059934625833836548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059934625833836548",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059897289939022002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@KoalaEngine 我是磨床板，这个算奇怪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 2482,
+          "like_count": 5897,
+          "listed_count": 10,
+          "media_count": 1180,
+          "tweet_count": 9450
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T03:14:41.000Z",
+        "description": "人生苦短，啥都要试，我的身体自己想咋玩咋玩，24小时高强度冲浪，吃过糖应该不算cd了，倒是没有gd，hrt2026.5.20-至今，想雌堕/成年党/天残党/颜性恋/双性恋，总有一天会成为d杯的梦想，有姐妹缺糖私信我，我给你买呢",
+        "id": "1790943868596506624",
+        "location": "成都",
+        "name": "ioio 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058936073875804160/3EHd007s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 277,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "username": "ioio334800",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan | bestie @senzhiwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057804399473574329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 41,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

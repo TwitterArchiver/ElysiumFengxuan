@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987064435421425664"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1986737638632825253",
+    "created_at": "2025-11-08T07:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987064447551349051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880324584815366144",
+          "start": 0,
+          "username": "XingXu_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOWW2ox7i6",
+          "end": 48,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1987064447551349051/photo/1",
+          "media_key": "3_1987064435421425664",
+          "start": 25,
+          "url": "https://t.co/WOWW2ox7i6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987064447551349051",
+    "in_reply_to_user_id": "1880324584815366144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987062496730251385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingXu_000 你看现在变成这样了ovo https://t.co/WOWW2ox7i6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987064435421425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N4k3sbMAAw6kD.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987064435421425664"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1986737638632825253",
+        "created_at": "2025-11-08T07:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987064447551349051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880324584815366144",
+              "start": 0,
+              "username": "XingXu_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOWW2ox7i6",
+              "end": 48,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1987064447551349051/photo/1",
+              "media_key": "3_1987064435421425664",
+              "start": 25,
+              "url": "https://t.co/WOWW2ox7i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987064447551349051",
+        "in_reply_to_user_id": "1880324584815366144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987062496730251385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingXu_000 你看现在变成这样了ovo https://t.co/WOWW2ox7i6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880324584815366144",
+        "conversation_id": "1986737638632825253",
+        "created_at": "2025-11-08T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987062496730251385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987062496730251385",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987062059327177119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 指的是這個彈窗功能，國際服務裡，很多軟件、網站，都會叫人去「尋求幫助」。而國內QQ也跟進了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1499,
+          "like_count": 1972,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 4891
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:28.000Z",
+        "description": "",
+        "id": "1880324584815366144",
+        "name": "序",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880325332609462272/_MxTwUW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 168
+        },
+        "username": "XingXu_000",
+        "verified": false
+      }
+    ]
+  }
+}

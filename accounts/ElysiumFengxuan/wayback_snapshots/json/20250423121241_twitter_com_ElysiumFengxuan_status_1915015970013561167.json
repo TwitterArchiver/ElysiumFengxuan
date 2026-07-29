@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1914837310325317799",
+    "created_at": "2025-04-23T12:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T13:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915015970013561167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875417463594348547",
+          "start": 0,
+          "username": "NIKOPHOLOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915015970013561167",
+    "in_reply_to_user_id": "1875417463594348547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915015624012816877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NIKOPHOLOS 不知道哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1914837310325317799",
+        "created_at": "2025-04-23T12:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915015970013561167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875417463594348547",
+              "start": 0,
+              "username": "NIKOPHOLOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915015970013561167",
+        "in_reply_to_user_id": "1875417463594348547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915015624012816877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIKOPHOLOS 不知道哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875417463594348547",
+        "conversation_id": "1914837310325317799",
+        "created_at": "2025-04-23T12:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915015624012816877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915015624012816877",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915015500024664104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 这不是在说我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1243,
+          "like_count": 1755,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 3747
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-04T05:42:36.000Z",
+        "description": "小狗一只 正在hrt的175黑皮小药娘（hrt 中 ）容貌焦虑身材焦虑 钱包空空（永远） 肉身大陆 如果需要我的tg请私聊 门槛🚪20cny（纯绿）50cny（定期更新r18） （攒钱跑路中",
+        "id": "1875417463594348547",
+        "location": "九龍城, 香港",
+        "name": "南里斯Narius",
+        "pinned_tweet_id": "1908013532114989527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899472639615184897/mkPNWDaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 67,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 324
+        },
+        "username": "NIKOPHOLOS",
+        "verified": false
+      }
+    ]
+  }
+}

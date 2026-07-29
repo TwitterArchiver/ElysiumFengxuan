@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2000951683803963840",
+    "created_at": "2025-12-18T01:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T02:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001463771844456598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "728187359322234880",
+          "start": 0,
+          "username": "alisaqaq"
+        },
+        {
+          "end": 22,
+          "id": "1267769833958981632",
+          "start": 10,
+          "username": "Tamaki_Ximu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001463771844456598",
+    "in_reply_to_user_id": "728187359322234880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000951683803963840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alisaqaq @Tamaki_Ximu 阔爱ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2000951299660288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TOmwUbkAA6tdK.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2000951299651854343",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TOmwSa4AcoauL.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2000951683803963840",
+        "created_at": "2025-12-18T01:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T02:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001463771844456598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "728187359322234880",
+              "start": 0,
+              "username": "alisaqaq"
+            },
+            {
+              "end": 22,
+              "id": "1267769833958981632",
+              "start": 10,
+              "username": "Tamaki_Ximu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001463771844456598",
+        "in_reply_to_user_id": "728187359322234880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000951683803963840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alisaqaq @Tamaki_Ximu 阔爱ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000951299660288000",
+            "3_2000951299651854343"
+          ]
+        },
+        "author_id": "728187359322234880",
+        "conversation_id": "2000951683803963840",
+        "created_at": "2025-12-16T15:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000951683803963840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1267769833958981632",
+              "start": 15,
+              "username": "Tamaki_Ximu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d93ZmXFXeQ",
+              "end": 88,
+              "expanded_url": "https://x.com/alisaqaq/status/2000951683803963840/photo/1",
+              "media_key": "3_2000951299660288000",
+              "start": 65,
+              "url": "https://t.co/d93ZmXFXeQ"
+            },
+            {
+              "display_url": "pic.x.com/d93ZmXFXeQ",
+              "end": 88,
+              "expanded_url": "https://x.com/alisaqaq/status/2000951683803963840/photo/1",
+              "media_key": "3_2000951299651854343",
+              "start": 65,
+              "url": "https://t.co/d93ZmXFXeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000951683803963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 11248,
+          "like_count": 396,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊～\n\n拍摄/柜子/坏蛋 @Tamaki_Ximu \n\n（笨蛋索尼没有对上焦\n\n#kigurumi #着ぐるみ #latex https://t.co/d93ZmXFXeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 1759,
+          "like_count": 2694,
+          "listed_count": 6,
+          "media_count": 857,
+          "tweet_count": 6203
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-05T11:39:30.000Z",
+        "description": "Kigurumi 初心者. 在沪码农. 角色：琪露诺（已封存） ｜ 爱丽丝·玛格特罗伊德 ｜ 小涂真纪（制作中）. EN/CN ok. NSFW 警告. OC: Alisa. pixiv: 20225877",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alisaqaq.moe",
+                "end": 23,
+                "expanded_url": "https://alisaqaq.moe",
+                "start": 0,
+                "url": "https://t.co/oi0kJeuD6n"
+              }
+            ]
+          }
+        },
+        "id": "728187359322234880",
+        "location": "Universe",
+        "name": "Alisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998260807638102016/c3Ter1Wd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 545,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/oi0kJeuD6n",
+        "username": "alisaqaq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T10:47:45.000Z",
+        "description": "萌新kiger~|ω・）坐标:京津冀/目前角色:环彩羽/鹿目圆/晓美焰/紬文德斯 请多多关照呀~「よろしくお願いします~」 永远忠于亲爱的主人大人 ❤❤❤",
+        "id": "1267769833958981632",
+        "location": " Beijing ",
+        "name": "夕暮",
+        "pinned_tweet_id": "1947190479298441469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267770013286453255/yZSxQKqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6818,
+          "following_count": 571,
+          "like_count": 7000,
+          "listed_count": 47,
+          "media_count": 203,
+          "tweet_count": 1496
+        },
+        "username": "Tamaki_Ximu",
+        "verified": false
+      }
+    ]
+  }
+}

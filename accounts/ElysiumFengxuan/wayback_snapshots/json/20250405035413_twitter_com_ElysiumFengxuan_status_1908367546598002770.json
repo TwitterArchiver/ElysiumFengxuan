@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1908094099376550309",
+    "created_at": "2025-04-05T03:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T04:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908367546598002770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648277839123476483",
+          "start": 0,
+          "username": "liuyun944569"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908367546598002770",
+    "in_reply_to_user_id": "1648277839123476483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908094099376550309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyun944569 想学！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1908094099376550309",
+        "created_at": "2025-04-05T03:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908367546598002770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648277839123476483",
+              "start": 0,
+              "username": "liuyun944569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908367546598002770",
+        "in_reply_to_user_id": "1648277839123476483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908094099376550309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyun944569 想学！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648277839123476483",
+        "conversation_id": "1908094099376550309",
+        "created_at": "2025-04-04T09:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908094099376550309"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "01e0b2db399000e4"
+        },
+        "id": "1908094099376550309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2765,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，我是渊鱼，跨性别女性 &amp; 声音教练。\n5年伪音+1年声乐，带过100+姐妹找回属于自己的声音。\n我不教你“伪装”，只陪你一点点建立自然、不吃力的表达方式。\n每个人的声音都独一无二，\n你不需要变成谁，只需要学会“像你自己”。\n如果你愿意，我会在每一步陪你走，\n慢慢走，走向那个你喜欢的声音和自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||迷茫➕混乱ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1000,
+          "like_count": 1218,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-18T10:50:48.000Z",
+        "description": "伪音导师，有学生案例@yukiiineko,@xiangcaihanbao,@arakatihazuki，目前已帮助30+跨儿实现声音自由",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "yukiiineko"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "xiangcaihanbao"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "arakatihazuki"
+              }
+            ]
+          }
+        },
+        "id": "1648277839123476483",
+        "location": "nanning",
+        "name": "流云",
+        "pinned_tweet_id": "1908094099376550309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890761830190231552/X02QQEhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "username": "liuyun944569",
+        "verified": false
+      }
+    ]
+  }
+}

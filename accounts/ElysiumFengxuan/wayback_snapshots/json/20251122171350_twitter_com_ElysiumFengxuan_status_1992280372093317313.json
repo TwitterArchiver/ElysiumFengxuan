@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992209629158465913",
+    "created_at": "2025-11-22T17:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992280372093317313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985230553591975936",
+          "start": 0,
+          "username": "chnxuehu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992280372093317313",
+    "in_reply_to_user_id": "1985230553591975936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992260499023729055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnxuehu 呜哇哇哇那又是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992209629158465913",
+        "created_at": "2025-11-22T17:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992280372093317313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985230553591975936",
+              "start": 0,
+              "username": "chnxuehu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992280372093317313",
+        "in_reply_to_user_id": "1985230553591975936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992260499023729055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnxuehu 呜哇哇哇那又是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985230553591975936",
+        "conversation_id": "1992209629158465913",
+        "created_at": "2025-11-22T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992260499023729055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992260499023729055",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992209629158465913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 突然想搞一个叫爆炒……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1632,
+          "like_count": 2213,
+          "listed_count": 6,
+          "media_count": 734,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T06:20:39.000Z",
+        "description": "不装了我是小药娘/高三在读生/某光/sub/精神分裂症/欢迎互fo\n🚪门槛40可以加q\n是只十七岁的雌狐\n希望能和大家交朋友呢/",
+        "id": "1985230553591975936",
+        "location": "妓院一条街",
+        "name": "春雪狐🍥",
+        "pinned_tweet_id": "1990000999189418257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985232678325772288/pByUVouY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 73,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 164
+        },
+        "username": "chnxuehu",
+        "verified": false
+      }
+    ]
+  }
+}

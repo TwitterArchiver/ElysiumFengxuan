@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992944735145923057",
+    "created_at": "2025-11-24T15:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992972032007688198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906683410594381824",
+          "start": 0,
+          "username": "wngkn194344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992972032007688198",
+    "in_reply_to_user_id": "1906683410594381824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992944735145923057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngkn194344 是啊，他爸呢（发癫）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_1992944715399090177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hcqNpa0AEBuW7.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992944735145923057",
+        "created_at": "2025-11-24T15:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992972032007688198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906683410594381824",
+              "start": 0,
+              "username": "wngkn194344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992972032007688198",
+        "in_reply_to_user_id": "1906683410594381824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992944735145923057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngkn194344 是啊，他爸呢（发癫）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992944715399090177"
+          ]
+        },
+        "author_id": "1906683410594381824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992944735145923057",
+        "created_at": "2025-11-24T13:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992944735145923057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1e4wKmZmU",
+              "end": 36,
+              "expanded_url": "https://x.com/wngkn194344/status/1992944735145923057/photo/1",
+              "media_key": "3_1992944715399090177",
+              "start": 13,
+              "url": "https://t.co/p1e4wKmZmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992944735145923057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 417,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后面的语音肯定是挨骂了🤭 https://t.co/p1e4wKmZmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1662,
+          "like_count": 2278,
+          "listed_count": 6,
+          "media_count": 751,
+          "tweet_count": 5471
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T12:22:54.000Z",
+        "description": "冰糖雪梨有点甜！",
+        "id": "1906683410594381824",
+        "name": "冰糖雪梨（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916040261484089346/Hfv62UfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 2438,
+          "like_count": 1597,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 154
+        },
+        "username": "wngkn194344",
+        "verified": false
+      }
+    ]
+  }
+}

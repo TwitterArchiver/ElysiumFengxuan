@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2067548720615620939",
+    "created_at": "2026-06-19T08:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067882536697819429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065088028474068992",
+          "start": 0,
+          "username": "VplusVequalsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067882536697819429",
+    "in_reply_to_user_id": "2065088028474068992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067881021031465364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VplusVequalsW 美颜而已啦呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2067548720615620939",
+        "created_at": "2026-06-19T08:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067882536697819429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065088028474068992",
+              "start": 0,
+              "username": "VplusVequalsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882536697819429",
+        "in_reply_to_user_id": "2065088028474068992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067881021031465364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VplusVequalsW 美颜而已啦呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065088028474068992",
+        "conversation_id": "2067548720615620939",
+        "created_at": "2026-06-19T08:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067881021031465364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067881021031465364",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067548720615620939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 很好看，而且很pass🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 2589,
+          "like_count": 6690,
+          "listed_count": 11,
+          "media_count": 1229,
+          "tweet_count": 9996
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T15:15:20.000Z",
+        "description": "03｜mtx｜HRT (2024.09.21-now)｜喜欢宝可梦&骑砍系列游戏｜爱听前卫摇滚｜自我认同比较混乱😵‍💫｜同类和觉得有意思的人会回fo",
+        "id": "2065088028474068992",
+        "location": "绿林大学",
+        "name": "月桂冠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066512910936166401/UaLsxDkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 186,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "VplusVequalsW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074510035041001472"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2074510063235109036",
+    "created_at": "2026-07-07T15:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074510063235109036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUdXHKiBbe",
+          "end": 29,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2074510063235109036/video/1",
+          "media_key": "7_2074510035041001472",
+          "start": 6,
+          "url": "https://t.co/dUdXHKiBbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074510063235109036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai好好玩 https://t.co/dUdXHKiBbe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "7_2074510035041001472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074510035041001472/pu/img/yeTt2NOJ1LKuq63E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510035041001472/pu/vid/avc1/320x568/w3xXJ9zJLWAI-vI8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510035041001472/pu/vid/avc1/480x852/UAeutW2eU74fVKll.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510035041001472/pu/vid/avc1/720x1280/BlhuBbFyBx8A13Ug.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074510035041001472/pu/pl/NupEggbXXYYdu_yL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074510035041001472"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2074510063235109036",
+        "created_at": "2026-07-07T15:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074510063235109036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUdXHKiBbe",
+              "end": 29,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2074510063235109036/video/1",
+              "media_key": "7_2074510035041001472",
+              "start": 6,
+              "url": "https://t.co/dUdXHKiBbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074510063235109036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai好好玩 https://t.co/dUdXHKiBbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 2663,
+          "like_count": 6974,
+          "listed_count": 11,
+          "media_count": 1274,
+          "tweet_count": 10320
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

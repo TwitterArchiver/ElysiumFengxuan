@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2042043226430042116",
+    "created_at": "2026-04-09T02:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042065972073505217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042065972073505217",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042043226430042116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme 神奇个啥神奇当着他面o一个（发癫）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042040649084760065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbJJrGa8AE2PXJ.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2042043226430042116",
+        "created_at": "2026-04-09T02:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042065972073505217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042065972073505217",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042043226430042116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme 神奇个啥神奇当着他面o一个（发癫）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042040649084760065"
+          ]
+        },
+        "author_id": "2029891270861299712",
+        "conversation_id": "2042043226430042116",
+        "created_at": "2026-04-09T00:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:43:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042040656680644883",
+          "2042043226430042116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTKzMGfpce",
+              "end": 66,
+              "expanded_url": "https://x.com/JoelQinmetme/status/2042043226430042116/photo/1",
+              "media_key": "3_2042040649084760065",
+              "start": 43,
+              "url": "https://t.co/CTKzMGfpce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042043226430042116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "看到这个聊天记录人家瞬间吓软了www～😳  \n原来还有不让点外卖的大学呀～www🍥✨ https://t.co/CTKzMGfpce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 2149,
+          "like_count": 4871,
+          "listed_count": 8,
+          "media_count": 1100,
+          "tweet_count": 8636
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜生产日期2009.05.26｜小号@espakoala｜姐姐@ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "espakoala"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039624648527397097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1339,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 449
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

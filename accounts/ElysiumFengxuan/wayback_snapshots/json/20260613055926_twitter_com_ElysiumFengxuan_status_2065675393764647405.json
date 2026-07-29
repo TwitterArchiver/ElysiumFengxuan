@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2065640678349209998",
+    "created_at": "2026-06-13T05:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065675393764647405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028661482624622592",
+          "start": 0,
+          "username": "ban_xi6867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065675393764647405",
+    "in_reply_to_user_id": "2028661482624622592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065640678349209998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_xi6867 泥不看药娘不评论看到直接划走几天就没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2065640678349209998",
+        "created_at": "2026-06-13T05:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065675393764647405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028661482624622592",
+              "start": 0,
+              "username": "ban_xi6867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065675393764647405",
+        "in_reply_to_user_id": "2028661482624622592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065640678349209998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_xi6867 泥不看药娘不评论看到直接划走几天就没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028661482624622592",
+        "conversation_id": "2065640678349209998",
+        "created_at": "2026-06-13T03:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065640678349209998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065640678349209998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是来推上反驳罕见的,怎么一天到晚给我推药娘,这破ai还一直引导我去当药娘,无敌了,还好我心智成熟,智商高,怪不得那么多同胞群众被西方洗脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 2570,
+          "like_count": 6523,
+          "listed_count": 11,
+          "media_count": 1222,
+          "tweet_count": 9871
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T02:39:43.000Z",
+        "description": "你好 我叫陈顺东\n耳东陈\n顺利的顺\n东方的东\n我的父母希望我顺顺利利的所以给我取名陈顺东\n可是我半辈子都在走下坡路",
+        "id": "2028661482624622592",
+        "name": "25级 陈顺东",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050982712186744832/3epYI1Zx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "ban_xi6867",
+        "verified": false
+      }
+    ]
+  }
+}

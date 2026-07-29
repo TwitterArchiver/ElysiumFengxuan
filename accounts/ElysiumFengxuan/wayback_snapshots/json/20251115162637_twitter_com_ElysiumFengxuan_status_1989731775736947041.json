@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1967193804768993648",
+    "created_at": "2025-11-15T16:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989731775736947041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950131707090522114",
+          "start": 0,
+          "username": "xingchenyawn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989731775736947041",
+    "in_reply_to_user_id": "1950131707090522114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967193804768993648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchenyawn 什么东东ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5016,
+        "height": 960,
+        "media_key": "13_1967193771445243904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967193771445243904/img/iDkRoOqdPxpRch3-.jpg",
+        "public_metrics": {
+          "view_count": 122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967193771445243904/vid/avc1/320x320/I9uTBDYjaXXmIUhQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967193771445243904/vid/avc1/540x540/_E2q92VE8kVi8J2k.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967193771445243904/vid/avc1/720x720/8_lzPgWtP5Q-ZQE0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967193771445243904/pl/PsWLRCU2mdkN4nQZ.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1967193804768993648",
+        "created_at": "2025-11-15T16:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989731775736947041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950131707090522114",
+              "start": 0,
+              "username": "xingchenyawn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989731775736947041",
+        "in_reply_to_user_id": "1950131707090522114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967193804768993648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchenyawn 什么东东ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967193771445243904"
+          ]
+        },
+        "author_id": "1950131707090522114",
+        "conversation_id": "1967193804768993648",
+        "created_at": "2025-09-14T11:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967193804768993648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RU9cwr0lXi",
+              "end": 40,
+              "expanded_url": "https://x.com/xingchenyawn/status/1967193804768993648/video/1",
+              "media_key": "13_1967193771445243904",
+              "start": 17,
+              "url": "https://t.co/RU9cwr0lXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967193804768993648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 416,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心血来潮用头像试了一下，好可爱！ https://t.co/RU9cwr0lXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988766406477799424/gZWtEpcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1528,
+          "like_count": 2057,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T09:50:13.000Z",
+        "description": "I'm 星辰Yawn!✨ A cute shota×boyish VTuber radiating fun and smiles! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Mainly active on 哔哩哔哩(Bilibili), creating covers & heartwarming streams! (ﾉ◕ヮ◕)ﾉ*:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35466861231501…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546686123150136",
+                "start": 0,
+                "url": "https://t.co/X19NPMRKoI"
+              }
+            ]
+          }
+        },
+        "id": "1950131707090522114",
+        "name": "星辰Yawn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950132843486859264/HmjVhEG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 10,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/X19NPMRKoI",
+        "username": "xingchenyawn",
+        "verified": false
+      }
+    ]
+  }
+}

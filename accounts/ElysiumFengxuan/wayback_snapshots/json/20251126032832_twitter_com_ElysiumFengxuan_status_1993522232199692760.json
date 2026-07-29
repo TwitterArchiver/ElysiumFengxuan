@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993522228919767040"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "1993229330655371661",
+    "created_at": "2025-11-26T03:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993522232199692760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXXSVvOPp7",
+          "end": 48,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1993522232199692760/photo/1",
+          "media_key": "3_1993522228919767040",
+          "start": 25,
+          "url": "https://t.co/wXXSVvOPp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993522232199692760",
+    "in_reply_to_user_id": "1738907027362209792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993521724844130436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 诶诶这个才是支出qwq https://t.co/wXXSVvOPp7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993522228919767040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pp57KbkAAPGel.jpg",
+        "width": 919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993521722155581442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ppcbUbwAIqiIO.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993522228919767040"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1993229330655371661",
+        "created_at": "2025-11-26T03:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993522232199692760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXXSVvOPp7",
+              "end": 48,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1993522232199692760/photo/1",
+              "media_key": "3_1993522228919767040",
+              "start": 25,
+              "url": "https://t.co/wXXSVvOPp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993522232199692760",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993521724844130436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 诶诶这个才是支出qwq https://t.co/wXXSVvOPp7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993521722155581442"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1993229330655371661",
+        "created_at": "2025-11-26T03:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993521724844130436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUO8scAZfY",
+              "end": 81,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1993521724844130436/photo/1",
+              "media_key": "3_1993521722155581442",
+              "start": 58,
+              "url": "https://t.co/gUO8scAZfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993521724844130436",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993229330655371661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 孩子要被你们恐怖都支出吓似了（）那去年那七万还是有些东西要从我这里当中转站出来的（安详） https://t.co/gUO8scAZfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1683,
+          "like_count": 2317,
+          "listed_count": 6,
+          "media_count": 766,
+          "tweet_count": 5551
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 |  蓝  | 终将成为你 | 清水 | 🚫 od 色情 花刀 政治 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993403526383648774/FvyQegqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 228,
+          "like_count": 3146,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1879
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

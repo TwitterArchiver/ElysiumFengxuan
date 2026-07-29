@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1947517961289498800",
+    "created_at": "2025-07-23T02:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T03:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947848999140266105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302984963805999104",
+          "start": 0,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947848999140266105",
+    "in_reply_to_user_id": "1302984963805999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947517961289498800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlelambqwq 自言自语到无人评论的我qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1947517961289498800",
+        "created_at": "2025-07-23T02:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947848999140266105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302984963805999104",
+              "start": 0,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947848999140266105",
+        "in_reply_to_user_id": "1302984963805999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947517961289498800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelambqwq 自言自语到无人评论的我qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302984963805999104",
+        "conversation_id": "1947517961289498800",
+        "created_at": "2025-07-22T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947517961289498800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947517961289498800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也就今年上半年逼自己了一把，可能跟陌生人联系的多，我大部分时间其实都很自闭的。我一不加别人的群，二也不敢在好多不认识的人下面发一些过于敏感或者争议的话。老推油不找我，新推油不认识，现在就很尴尬了，基本上推文都是我在一个人自言自语（喝茶）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1403,
+          "like_count": 1869,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 4416
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/控制欲强的变态/幼稚小鬼/粘人依赖人/性格暴躁/找对象ing/bluesky的id和Twitter一样",
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑",
+        "pinned_tweet_id": "1945238117981520297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925812406929719296/p20A_eZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 864,
+          "like_count": 63419,
+          "listed_count": 14,
+          "media_count": 1103,
+          "tweet_count": 11116
+        },
+        "username": "littlelambqwq",
+        "verified": false
+      }
+    ]
+  }
+}

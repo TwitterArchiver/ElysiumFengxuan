@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035341986429800448",
+        "7_2035342121818038272"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2035342211362033810",
+    "created_at": "2026-03-21T13:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035342211362033810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9HmZrZqav",
+          "end": 39,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2035342211362033810/video/1",
+          "media_key": "7_2035341986429800448",
+          "start": 16,
+          "url": "https://t.co/X9HmZrZqav"
+        },
+        {
+          "display_url": "pic.x.com/X9HmZrZqav",
+          "end": 39,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2035342211362033810/video/1",
+          "media_key": "7_2035342121818038272",
+          "start": 16,
+          "url": "https://t.co/X9HmZrZqav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035342211362033810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽起猛了我看到我的按键在蹦迪 https://t.co/X9HmZrZqav"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12691,
+        "height": 720,
+        "media_key": "7_2035341986429800448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035341986429800448/pu/img/uMTcOYnQ5ubdBaDr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035341986429800448/pu/vid/avc1/480x270/I9FL7mLsLdmT-3sQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035341986429800448/pu/vid/avc1/640x360/M35oKowI_TOWDz-b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035341986429800448/pu/vid/avc1/1280x720/9WXfvF5Az_3D4CAf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035341986429800448/pu/pl/NnkpFTjNIRIQYi7V.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 9537,
+        "height": 720,
+        "media_key": "7_2035342121818038272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035342121818038272/pu/img/a9GiTeBmp4zl9zJ7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035342121818038272/pu/vid/avc1/480x270/CTpA7ryvT43qPpen.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035342121818038272/pu/vid/avc1/640x360/GKS2AjfoBWLtnUmb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035342121818038272/pu/vid/avc1/1280x720/AmrjG24AsKjJxpeo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035342121818038272/pu/pl/cspse8vE9BsNi3AP.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035341986429800448",
+            "7_2035342121818038272"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2035342211362033810",
+        "created_at": "2026-03-21T13:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035342211362033810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9HmZrZqav",
+              "end": 39,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2035342211362033810/video/1",
+              "media_key": "7_2035341986429800448",
+              "start": 16,
+              "url": "https://t.co/X9HmZrZqav"
+            },
+            {
+              "display_url": "pic.x.com/X9HmZrZqav",
+              "end": 39,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2035342211362033810/video/1",
+              "media_key": "7_2035342121818038272",
+              "start": 16,
+              "url": "https://t.co/X9HmZrZqav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035342211362033810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽起猛了我看到我的按键在蹦迪 https://t.co/X9HmZrZqav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 2064,
+          "like_count": 4139,
+          "listed_count": 8,
+          "media_count": 1049,
+          "tweet_count": 8100
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1853926791167304125",
+    "created_at": "2024-11-06T03:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T04:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854004467118830036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854004467118830036",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853926791167304125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 什么！不是你说的一点前到吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1853926791167304125",
+        "created_at": "2024-11-06T03:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T04:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854004467118830036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854004467118830036",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853926791167304125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 什么！不是你说的一点前到吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853926785509142529"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853926791167304125",
+        "created_at": "2024-11-05T22:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T23:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853926791167304125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9JeZ11Yfk",
+              "end": 36,
+              "expanded_url": "https://x.com/jingsheng237248/status/1853926791167304125/photo/1",
+              "media_key": "3_1853926785509142529",
+              "start": 13,
+              "url": "https://t.co/W9JeZ11Yfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853926791167304125",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚卡了\n\n不然早进来了 https://t.co/W9JeZ11Yfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 323,
+          "like_count": 349,
+          "listed_count": 0,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "American, United States 人在北美，努力提升英语水平ing |友跨顺直翻车中，02年，🏳️‍⚧️🏳️‍🌈 | fo我的会回fo，交友中 | follow me IFB",
+        "id": "1847778949272584192",
+        "location": "Springfield, MA",
+        "name": "小脑斧🐯🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1852945929407533373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853866938046300160/ciIcNpak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 605,
+          "like_count": 425,
+          "listed_count": 0,
+          "tweet_count": 303
+        },
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

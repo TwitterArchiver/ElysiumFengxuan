@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1992545194034503954",
+    "created_at": "2025-11-23T16:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992637363928076646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992637363928076646",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992545194034503954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1992545180218712064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bxSNHaYAAWEXC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1992545180214579201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bxSNGbUAE9LKx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1992545180243918848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bxSNNbAAA-7W8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1992545180214521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bxSNGacAA0gf-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992545194034503954",
+        "created_at": "2025-11-23T16:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992637363928076646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992637363928076646",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992545194034503954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992545180218712064",
+            "3_1992545180214579201",
+            "3_1992545180243918848",
+            "3_1992545180214521856"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992545194034503954",
+        "created_at": "2025-11-23T10:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992545194034503954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGZasi7KVp",
+              "end": 57,
+              "expanded_url": "https://x.com/limao382525/status/1992545194034503954/photo/1",
+              "media_key": "3_1992545180218712064",
+              "start": 34,
+              "url": "https://t.co/CGZasi7KVp"
+            },
+            {
+              "display_url": "pic.x.com/CGZasi7KVp",
+              "end": 57,
+              "expanded_url": "https://x.com/limao382525/status/1992545194034503954/photo/1",
+              "media_key": "3_1992545180214579201",
+              "start": 34,
+              "url": "https://t.co/CGZasi7KVp"
+            },
+            {
+              "display_url": "pic.x.com/CGZasi7KVp",
+              "end": 57,
+              "expanded_url": "https://x.com/limao382525/status/1992545194034503954/photo/1",
+              "media_key": "3_1992545180243918848",
+              "start": 34,
+              "url": "https://t.co/CGZasi7KVp"
+            },
+            {
+              "display_url": "pic.x.com/CGZasi7KVp",
+              "end": 57,
+              "expanded_url": "https://x.com/limao382525/status/1992545194034503954/photo/1",
+              "media_key": "3_1992545180214521856",
+              "start": 34,
+              "url": "https://t.co/CGZasi7KVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992545194034503954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 431,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "姜姜！！！快看这个快看这个！！！\n夸我夸我！！曼波一个人造的哦！！ https://t.co/CGZasi7KVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1649,
+          "like_count": 2249,
+          "listed_count": 6,
+          "media_count": 746,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！)",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 98,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 253
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1871948714094563799",
+    "created_at": "2024-12-27T04:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T05:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872497572851659231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771012919242973184",
+          "start": 0,
+          "username": "ZhagsunChunsheg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872497572851659231",
+    "in_reply_to_user_id": "1771012919242973184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872489130174906438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhagsunChunsheg 咱开局就选朵莉亚（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1871948714094563799",
+        "created_at": "2024-12-27T04:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T05:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872497572851659231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771012919242973184",
+              "start": 0,
+              "username": "ZhagsunChunsheg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872497572851659231",
+        "in_reply_to_user_id": "1771012919242973184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872489130174906438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhagsunChunsheg 咱开局就选朵莉亚（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771012919242973184",
+        "conversation_id": "1871948714094563799",
+        "created_at": "2024-12-27T03:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T04:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872489130174906438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872489130174906438",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871948714094563799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 你说得对，但是这把朵丽亚好像不是很好搭队友的体系啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 494,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T03:16:09.000Z",
+        "description": "#大学牲 #机械工程  #徐州 #泥框\n/努力往上爬，老师，我太想进步了/\n/平时喜欢看看文史哲/\n/可爱男娘你在哪/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "大学牲"
+              },
+              {
+                "end": 10,
+                "start": 5,
+                "tag": "机械工程"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "徐州"
+              },
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "泥框"
+              }
+            ]
+          }
+        },
+        "id": "1771012919242973184",
+        "location": "徐州",
+        "name": "长孙春生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771013002684481536/wS3cIrl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 130,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "username": "ZhagsunChunsheg",
+        "verified": false
+      }
+    ]
+  }
+}

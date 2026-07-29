@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1838745643696963894",
+    "created_at": "2025-03-21T05:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T06:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902950798981505212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466795093256720384",
+          "start": 0,
+          "username": "Ciruano99999"
+        },
+        {
+          "end": 30,
+          "id": "1738979075576782848",
+          "start": 14,
+          "username": "jiang_zhen55582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902950798981505212",
+    "in_reply_to_user_id": "1466795093256720384",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902950623395643712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciruano99999 @jiang_zhen55582 ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1838745643696963894",
+        "created_at": "2025-03-21T05:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T06:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902950798981505212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466795093256720384",
+              "start": 0,
+              "username": "Ciruano99999"
+            },
+            {
+              "end": 30,
+              "id": "1738979075576782848",
+              "start": 14,
+              "username": "jiang_zhen55582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902950798981505212",
+        "in_reply_to_user_id": "1466795093256720384",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902950623395643712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciruano99999 @jiang_zhen55582 ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466795093256720384",
+        "conversation_id": "1838745643696963894",
+        "created_at": "2025-03-21T05:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T06:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902950623395643712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 33,
+              "id": "1738979075576782848",
+              "start": 17,
+              "username": "jiang_zhen55582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902950623395643712",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868658375485169898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @jiang_zhen55582 楼上翻车了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||主银:@snowy_1001||当宠物ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "snowy_1001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 975,
+          "like_count": 1086,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T15:43:05.000Z",
+        "description": "氷華/mtf/无🍬",
+        "id": "1466795093256720384",
+        "location": "New South Wales, Australia",
+        "name": "冬月 氷花",
+        "pinned_tweet_id": "1765722716559356091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729291039046049792/r7Yt3QMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 275,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 424
+        },
+        "username": "Ciruano99999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T17:45:06.000Z",
+        "description": "生日2009.7.17\n无证含糖2025.2.5\n想多交朋友qwq",
+        "id": "1738979075576782848",
+        "location": "湖北",
+        "name": "暗月🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889279882036961280/yXT_MF7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 427,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 149
+        },
+        "username": "jiang_zhen55582",
+        "verified": false
+      }
+    ]
+  }
+}

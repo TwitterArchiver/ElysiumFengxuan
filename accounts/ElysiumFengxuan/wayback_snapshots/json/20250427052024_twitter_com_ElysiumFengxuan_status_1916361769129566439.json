@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1916319554038599776",
+    "created_at": "2025-04-27T05:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T06:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916361769129566439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793377526542245888",
+          "start": 0,
+          "username": "CT726D_sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916361769129566439",
+    "in_reply_to_user_id": "793377526542245888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916352967755649080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CT726D_sky 诶？什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1916319554038599776",
+        "created_at": "2025-04-27T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916361769129566439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793377526542245888",
+              "start": 0,
+              "username": "CT726D_sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916361769129566439",
+        "in_reply_to_user_id": "793377526542245888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916352967755649080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CT726D_sky 诶？什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793377526542245888",
+        "conversation_id": "1916319554038599776",
+        "created_at": "2025-04-27T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916352967755649080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916352967755649080",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916319554038599776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 線買太短，有兩公尺長的，這樣離電視距離才夠。或者是買個外接無線鍵盤跟滑鼠，筆電就只是主機。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||找宠物➕企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V54QS"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1262,
+          "like_count": 1798,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 3833
+        },
+        "url": "https://t.co/3Uy28V54QS",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-01T09:01:57.000Z",
+        "description": "",
+        "id": "793377526542245888",
+        "location": "Tainan City, Taiwan",
+        "name": "把悲傷留給自己",
+        "pinned_tweet_id": "1910151225905238058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/793381048943980544/94P_ztMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1855,
+          "like_count": 14611,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 528
+        },
+        "username": "CT726D_sky",
+        "verified": false
+      }
+    ]
+  }
+}

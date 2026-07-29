@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1986689230979146079",
+    "created_at": "2025-11-07T11:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986757676311916702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893557452823764992",
+          "start": 0,
+          "username": "MyHJuDscrllSOoH"
+        },
+        {
+          "end": 30,
+          "id": "1797143402347479040",
+          "start": 17,
+          "username": "s4tuRday_joe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986757676311916702",
+    "in_reply_to_user_id": "1893557452823764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986754299314237936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyHJuDscrllSOoH @s4tuRday_joe 思诺思好玩ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1986689230979146079",
+        "created_at": "2025-11-07T11:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986757676311916702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893557452823764992",
+              "start": 0,
+              "username": "MyHJuDscrllSOoH"
+            },
+            {
+              "end": 30,
+              "id": "1797143402347479040",
+              "start": 17,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986757676311916702",
+        "in_reply_to_user_id": "1893557452823764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986754299314237936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyHJuDscrllSOoH @s4tuRday_joe 思诺思好玩ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893557452823764992",
+        "conversation_id": "1986689230979146079",
+        "created_at": "2025-11-07T11:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986754299314237936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 30,
+              "id": "1797143402347479040",
+              "start": 17,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986754299314237936",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986753844400058840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @s4tuRday_joe 有什么奇怪的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1498,
+          "like_count": 1972,
+          "listed_count": 6,
+          "media_count": 683,
+          "tweet_count": 4884
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T07:04:24.000Z",
+        "description": "https://t.co/rFZQZur24r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sv1105",
+                "end": 23,
+                "expanded_url": "http://t.me/sv1105",
+                "start": 0,
+                "url": "https://t.co/rFZQZur24r"
+              }
+            ]
+          }
+        },
+        "id": "1893557452823764992",
+        "name": "医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893558660896374784/X8x8PPcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 306,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "MyHJuDscrllSOoH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "一个保持好奇的病人 | maimaiでらっくす退游了 | 高一 | TYLOO的CS2分部粉丝 | 坐标河北 稀罕您来 I 嘻哈音乐爱好者 | 互fo欢迎\n裏：@Nek0_Arcue1d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Nek0_Arcue1d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "建华东道26号",
+        "name": "周陸4ReaL",
+        "pinned_tweet_id": "1976909135737442362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983708580445552640/LnqAZAHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 804,
+          "like_count": 9262,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}
