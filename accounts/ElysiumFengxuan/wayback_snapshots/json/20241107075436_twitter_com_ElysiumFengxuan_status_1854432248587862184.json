@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "1854432248587862184",
+    "created_at": "2024-11-07T07:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T08:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854432248587862184"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854432248587862184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们穿越了!\n现在谁是美国总统？\n“川普”\n谁是俄罗斯总统？\n“普京”\n中国国家主席姓什么？\n“姓习”\n总理呢？\n“姓李”\n......\n\n坏了，是2019年\n这是哪？\n“湖北武汉”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1854432248587862184",
+        "created_at": "2024-11-07T07:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T08:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854432248587862184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854432248587862184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们穿越了!\n现在谁是美国总统？\n“川普”\n谁是俄罗斯总统？\n“普京”\n中国国家主席姓什么？\n“姓习”\n总理呢？\n“姓李”\n......\n\n坏了，是2019年\n这是哪？\n“湖北武汉”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩||我是猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||欢迎同类互fo||推上私信加QQvx||希望找同类||已有主||当宠物ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "白雪的笼子里",
+        "name": "凤轩酱🏳‍⚧🍥",
+        "pinned_tweet_id": "1838745643696963894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807353738946043904/59lkPwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 350,
+          "like_count": 425,
+          "listed_count": 0,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": true
+      }
+    ]
+  }
+}
