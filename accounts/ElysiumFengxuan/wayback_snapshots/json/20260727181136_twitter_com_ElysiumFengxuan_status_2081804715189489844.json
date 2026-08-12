@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2081665363994108298",
+    "created_at": "2026-07-27T18:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081804715189489844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055900754968465408",
+          "start": 0,
+          "username": "conv1x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081804715189489844",
+    "in_reply_to_user_id": "2055900754968465408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081803694090449339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conv1x1 惨omo，下次我试试（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2081665363994108298",
+        "created_at": "2026-07-27T18:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081804715189489844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081804715189489844",
+        "in_reply_to_user_id": "2055900754968465408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081803694090449339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 惨omo，下次我试试（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055900754968465408",
+        "conversation_id": "2081665363994108298",
+        "created_at": "2026-07-27T18:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081803694090449339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081803694090449339",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081802422843003187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 真的\n：大夫你好，最近失眠，想开点唑吡坦\n：酒石酸唑吡坦吗\n：对\n：以前吃过没有\n：吃过\n然后就给开了\npr在风口上医院死活不给开 网上禁售 线下又贵有的还收处方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 2678,
+          "like_count": 7029,
+          "listed_count": 12,
+          "media_count": 1292,
+          "tweet_count": 10413
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\n如果误封锁了请一定联系我喵\n如果误封锁了请一定联系我喵\n如果误封锁了请一定联系我喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "其中一个投影的实例部署于太阳系",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 173,
+          "like_count": 7948,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      }
+    ]
+  }
+}

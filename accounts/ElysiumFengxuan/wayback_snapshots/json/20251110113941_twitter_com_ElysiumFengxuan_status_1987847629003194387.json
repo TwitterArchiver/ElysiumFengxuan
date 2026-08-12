@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987847625534500864"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987809862303334885",
+    "created_at": "2025-11-10T11:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T12:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987847629003194387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mdluLZ2Wa",
+          "end": 35,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1987847629003194387/photo/1",
+          "media_key": "3_1987847625534500864",
+          "start": 12,
+          "url": "https://t.co/0mdluLZ2Wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987847629003194387",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987809862303334885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA ovo https://t.co/0mdluLZ2Wa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987847629003194387].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987847629003194387",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987847629003194387"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987847625534500864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZA4iOWcAADxN9.jpg",
+        "width": 919
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1987809738659426304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YebOnbcAA-ICm.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987809738659426304"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1987809862303334885",
+        "created_at": "2025-11-10T09:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987809862303334885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsfQq3EYPx",
+              "end": 101,
+              "expanded_url": "https://x.com/N552AA/status/1987809862303334885/photo/1",
+              "media_key": "3_1987809738659426304",
+              "start": 78,
+              "url": "https://t.co/WsfQq3EYPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987809862303334885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4476,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "11/20是跨性别追悼日\n旨在追悼那些因为歧视，社会暴力等而离开的跨性别朋友们\n我们决定举办一场贴贴来几年这些朋友们\n地点在上海（具体地址待定）\n来的加群 https://t.co/WsfQq3EYPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=yjzv69du",
+                "start": 0,
+                "url": "https://t.co/3Uy28V4x1k"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913591753141284864/c75_B5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1520,
+          "like_count": 2001,
+          "listed_count": 6,
+          "media_count": 691,
+          "tweet_count": 4959
+        },
+        "url": "https://t.co/3Uy28V4x1k",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/无证断续含糖/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主（加群加微信N552AA）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLj51"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1006,
+          "like_count": 3978,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/zkiZZtLj51",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}
