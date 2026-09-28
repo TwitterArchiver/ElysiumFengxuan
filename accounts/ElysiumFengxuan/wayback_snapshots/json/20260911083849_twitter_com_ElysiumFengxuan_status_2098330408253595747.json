@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098330386397052928"
+      ]
+    },
+    "author_id": "1738907027362209792",
+    "conversation_id": "2098330408253595747",
+    "created_at": "2026-09-11T08:38:49.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098330408253595747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1RGYYVANZ",
+          "end": 42,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/2098330408253595747/video/1",
+          "media_key": "13_2098330386397052928",
+          "start": 19,
+          "url": "https://t.co/G1RGYYVANZ"
+        },
+        {
+          "display_url": "x.com/ElysiumFengxua…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2098324239464222963",
+          "start": 43,
+          "url": "https://t.co/rPZbPpvTFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098330408253595747",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2098330386397052928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098324239464222963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ok呀，也是会做激光眼了（剧烈发癫） https://t.co/G1RGYYVANZ https://t.co/rPZbPpvTFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8938,
+        "height": 1280,
+        "media_key": "13_2098330386397052928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098330386397052928/img/auaF8lmWP7dhAd2_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098330386397052928/vid/avc1/320x710/rYzQryS88vHRdZgn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098330386397052928/vid/avc1/480x1066/_nvkWRnYmav4gehF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098330386397052928/vid/avc1/576x1280/MnN9MK8aVSGAVR_7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098330386397052928/pl/vuUO_iJdXEg9fTXH.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 1430,
+        "media_key": "3_2098324232828862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6-xblbwAAwZeY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098330386397052928"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2098330408253595747",
+        "created_at": "2026-09-11T08:38:49.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098330408253595747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1RGYYVANZ",
+              "end": 42,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2098330408253595747/video/1",
+              "media_key": "13_2098330386397052928",
+              "start": 19,
+              "url": "https://t.co/G1RGYYVANZ"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2098324239464222963",
+              "start": 43,
+              "url": "https://t.co/rPZbPpvTFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098330408253595747",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098330386397052928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098324239464222963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ok呀，也是会做激光眼了（剧烈发癫） https://t.co/G1RGYYVANZ https://t.co/rPZbPpvTFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098324232828862464"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2098324239464222963",
+        "created_at": "2026-09-11T08:14:18.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098324239464222963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UENpm4XMV7",
+              "end": 35,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2098324239464222963/photo/1",
+              "media_key": "3_2098324232828862464",
+              "start": 12,
+              "url": "https://t.co/UENpm4XMV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098324239464222963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098324232828862464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么又跟着视频学费了 https://t.co/UENpm4XMV7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2098330408253595747",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1764836017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 2700,
+          "like_count": 7327,
+          "listed_count": 11,
+          "media_count": 1346,
+          "tweet_count": 10795
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

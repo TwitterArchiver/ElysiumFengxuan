@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2100102381350387968",
+    "created_at": "2026-09-16T08:08:42.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100134772135858420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100134772135858420",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100102381350387968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb 盲猜是史先生的舅舅出了车祸）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2100091565377200128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUGJuYaIAA2f8U.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2100102381350387968",
+        "created_at": "2026-09-16T08:08:42.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100134772135858420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100134772135858420",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100102381350387968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb 盲猜是史先生的舅舅出了车祸）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100091565377200128"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100102381350387968",
+        "created_at": "2026-09-16T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100102381350387968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34eKivF5xK",
+              "end": 60,
+              "expanded_url": "https://x.com/mxyzcdb/status/2100102381350387968/photo/1",
+              "media_key": "3_2100091565377200128",
+              "start": 37,
+              "url": "https://t.co/34eKivF5xK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100102381350387968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100091565377200128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2817,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要么你去问问豆包彩票中奖号码呢，然后没中让豆包赔偿你彩票一等奖，左右不赔 https://t.co/34eKivF5xK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2100134772135858420",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1764836017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 2731,
+          "like_count": 7434,
+          "listed_count": 12,
+          "media_count": 1358,
+          "tweet_count": 10900
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "重新启航｜mtx｜叫我翅膀好嘛｜蓝v互关｜内容仅供娱乐，真假自辨｜本体 @axzameyzed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "axzameyzed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q3uqu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100132590724501689",
+        "name": "翅翅膀喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 458,
+          "like_count": 6398,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 2736
+        },
+        "url": "https://t.co/rpnd1q3uqu",
+        "username": "mxyzcdb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

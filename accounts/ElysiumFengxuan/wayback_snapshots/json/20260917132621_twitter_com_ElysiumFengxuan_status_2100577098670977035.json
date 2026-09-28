@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2100142675366498366",
+    "created_at": "2026-09-17T13:26:21.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100577098670977035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100577098670977035",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100142675366498366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor 定居了?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2100142651505082369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU0nVCbgAEv8el.jpg",
+        "width": 1885
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100142657955905537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU0ntEbQAExghY.jpg",
+        "width": 3035
+      },
+      {
+        "height": 2987,
+        "media_key": "3_2100142666990440448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU0oOubUAAel1A.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2100142675366498366",
+        "created_at": "2026-09-17T13:26:21.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100577098670977035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100577098670977035",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100142675366498366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor 定居了?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100142651505082369",
+            "3_2100142657955905537",
+            "3_2100142666990440448"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2100142675366498366",
+        "created_at": "2026-09-16T08:40:07.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100142675366498366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5n4ZSUEJ2q",
+              "end": 107,
+              "expanded_url": "https://x.com/seaskyfor/status/2100142675366498366/photo/1",
+              "media_key": "3_2100142651505082369",
+              "start": 84,
+              "url": "https://t.co/5n4ZSUEJ2q"
+            },
+            {
+              "display_url": "pic.x.com/5n4ZSUEJ2q",
+              "end": 107,
+              "expanded_url": "https://x.com/seaskyfor/status/2100142675366498366/photo/1",
+              "media_key": "3_2100142657955905537",
+              "start": 84,
+              "url": "https://t.co/5n4ZSUEJ2q"
+            },
+            {
+              "display_url": "pic.x.com/5n4ZSUEJ2q",
+              "end": 107,
+              "expanded_url": "https://x.com/seaskyfor/status/2100142675366498366/photo/1",
+              "media_key": "3_2100142666990440448",
+              "start": 84,
+              "url": "https://t.co/5n4ZSUEJ2q"
+            },
+            {
+              "display_url": "x.com/N552AA8/status…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/N552AA8/status/2100060229144912023",
+              "start": 108,
+              "url": "https://t.co/UCSfe6tTe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100142675366498366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100142651505082369"
+          },
+          {
+            "media_key": "3_2100142657955905537"
+          },
+          {
+            "media_key": "3_2100142666990440448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100060229144912023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "CN: ill \n定居南京（全国可fly） \n本人entp很喜欢聊天欢迎大家来\n几乎没有胸 所以价格很便宜 \n可以陪打王者荣耀和平精英\n剩余内容请看第一张图，谢谢大家 https://t.co/5n4ZSUEJ2q https://t.co/UCSfe6tTe2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2100577098670977035",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1764836017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 2743,
+          "like_count": 7496,
+          "listed_count": 12,
+          "media_count": 1367,
+          "tweet_count": 10949
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像女生 不是男生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2100547245032841611",
+        "name": "ill",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 277,
+          "like_count": 485,
+          "listed_count": 5,
+          "media_count": 160,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

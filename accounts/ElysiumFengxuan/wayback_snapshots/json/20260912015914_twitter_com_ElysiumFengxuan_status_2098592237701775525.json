@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2098429147253264726",
+    "created_at": "2026-09-12T01:59:14.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098592237701775525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1623501244689166336",
+          "start": 0,
+          "username": "lacunarsplatoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098592237701775525",
+    "in_reply_to_user_id": "1623501244689166336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098429147253264726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lacunarsplatoon 阿黑颜什么意思OMO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2098429147253264726",
+        "created_at": "2026-09-12T01:59:14.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098592237701775525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1623501244689166336",
+              "start": 0,
+              "username": "lacunarsplatoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098592237701775525",
+        "in_reply_to_user_id": "1623501244689166336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098429147253264726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lacunarsplatoon 阿黑颜什么意思OMO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623501244689166336",
+        "conversation_id": "2098429147253264726",
+        "created_at": "2026-09-11T15:11:10.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098429147253264726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098429147253264726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 238341,
+          "like_count": 2404,
+          "quote_count": 6,
+          "reply_count": 117,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "（查看单主稿件要求）\n单主：要ntr……\n我：好好好\n单主：要轮奸……\n我：好好好！\n单主：要怀孕……\n我：好好好！！\n单主：但是不要阿黑颜……\n我：诶……不要吗………………"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2098592237701775525",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1764836017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 2700,
+          "like_count": 7348,
+          "listed_count": 11,
+          "media_count": 1347,
+          "tweet_count": 10816
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-09T01:57:24.000Z",
+        "description": "ラクナです╰(*´︶`*)╯/oc帐/⚠︎nsfw🔞🈶",
+        "id": "1623501244689166336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098565164740362442",
+        "name": "スプラクナ",
+        "pinned_tweet_id": "1715016947811954844",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623501244689166336/1782142890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025015895505211392/tFYl0Q01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13464,
+          "following_count": 368,
+          "like_count": 4383,
+          "listed_count": 58,
+          "media_count": 210,
+          "tweet_count": 2764
+        },
+        "url": "",
+        "username": "lacunarsplatoon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
