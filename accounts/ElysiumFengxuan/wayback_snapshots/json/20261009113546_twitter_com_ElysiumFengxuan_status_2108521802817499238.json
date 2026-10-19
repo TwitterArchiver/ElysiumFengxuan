@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2108175901032935694",
+    "created_at": "2026-10-09T11:35:46.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108521802817499238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444235426613514243",
+          "start": 0,
+          "username": "kurage1917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108521802817499238",
+    "in_reply_to_user_id": "1444235426613514243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108175901032935694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurage1917 史莱姆?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10855,
+        "height": 720,
+        "media_key": "13_2108175853968617472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108175853968617472/img/TyXUYErCWK6deGRT.jpg",
+        "public_metrics": {
+          "view_count": 970014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108175853968617472/vid/avc1/396x270/Mw2Wuf0tEq8ybA_x.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108175853968617472/vid/avc1/528x360/4q_dX_Bz-LuWZT66.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108175853968617472/vid/avc1/1058x720/yvR-ip0aSS3KoURY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108175853968617472/pl/67v8F0lTkITGuQSi.m3u8?v=cfc"
+          }
+        ],
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2108175901032935694",
+        "created_at": "2026-10-09T11:35:46.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108521802817499238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444235426613514243",
+              "start": 0,
+              "username": "kurage1917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108521802817499238",
+        "in_reply_to_user_id": "1444235426613514243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108175901032935694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage1917 史莱姆?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108175853968617472"
+          ]
+        },
+        "author_id": "1444235426613514243",
+        "conversation_id": "2108175901032935694",
+        "created_at": "2026-10-08T12:41:17.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108175901032935694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZnMFvxRvc",
+              "end": 67,
+              "expanded_url": "https://x.com/kurage1917/status/2108175901032935694/video/1",
+              "media_key": "13_2108175853968617472",
+              "start": 44,
+              "url": "https://t.co/JZnMFvxRvc"
+            },
+            {
+              "display_url": "x.com/mh_wilds/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/mh_wilds/status/2108105165006049472",
+              "start": 68,
+              "url": "https://t.co/hM1Gil997W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108175901032935694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2108175853968617472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4473,
+          "impression_count": 1623825,
+          "like_count": 16312,
+          "quote_count": 382,
+          "reply_count": 52,
+          "retweet_count": 1180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108105165006049472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蜘蛛恐怖症対策モードでも、破格のインパクトを見せつけてきますね  (　ˆ̑‵̮ˆ̑　) https://t.co/JZnMFvxRvc https://t.co/hM1Gil997W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zako.beer",
+                "end": 23,
+                "expanded_url": "http://zako.beer",
+                "start": 0,
+                "url": "https://t.co/Ol6MCVqEKi"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2108521802817499238",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1789882797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101546714071207936/snJkNMSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2820,
+          "like_count": 8183,
+          "listed_count": 11,
+          "media_count": 1442,
+          "tweet_count": 11459
+        },
+        "url": "https://t.co/Ol6MCVqEKi",
+        "username": "ElysiumFengxuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-02T09:39:06.000Z",
+        "description": "ゲーム＆日常垢です。主にモンハンやってます。 アセンダンスがはやくやりてぇの一心でワイルズにまた舞い戻ってきました♨️早く次のPV見てぇよぉ…",
+        "id": "1444235426613514243",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108518501724123498",
+        "name": "大自然",
+        "pinned_tweet_id": "1476339707105611783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444235426613514243/1639158360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104511151036137472/FALiEDf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 3009,
+          "like_count": 85064,
+          "listed_count": 20,
+          "media_count": 4617,
+          "tweet_count": 22239
+        },
+        "url": "",
+        "username": "kurage1917",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

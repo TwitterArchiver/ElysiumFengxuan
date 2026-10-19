@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2106210182057582950",
+    "created_at": "2026-10-03T10:19:42.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106328333097345106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Aliestria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106328333097345106",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106210182057582950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aliestria 对的对的我就是被亚文化洗脑的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2106210182057582950",
+        "created_at": "2026-10-03T10:19:42.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106328333097345106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Aliestria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106328333097345106",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106210182057582950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aliestria 对的对的我就是被亚文化洗脑的😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2106210182057582950",
+        "created_at": "2026-10-03T02:30:13.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106210182057582950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106210182057582950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1706,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前的网络环境还比较正常，但自从美国民主党上台后国内跨性别群体突然就增多了。这背后都是有是境外势力来支持的，LGBT思想的泛滥就是境外势力的阴谋。东亚去雄计划真的要成功了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zako.beer",
+                "end": 23,
+                "expanded_url": "http://zako.beer",
+                "start": 0,
+                "url": "https://t.co/Ol6MCVqEKi"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2106328333097345106",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1789882797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101546714071207936/snJkNMSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 2816,
+          "like_count": 8040,
+          "listed_count": 11,
+          "media_count": 1428,
+          "tweet_count": 11353
+        },
+        "url": "https://t.co/Ol6MCVqEKi",
+        "username": "ElysiumFengxuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "反跨跨女，顺性别药娘，邪恶跨畜\n对血液🩸很敏感，患有渴血症\n我是罪人，做人妖是为了惩罚自己\n右翼保守派新教徒✟，坚定的资本主义战士\n法兰西⚜️王室复辟支持者，父权制的拥趸\n如果你屏蔽我，那么就是我赢了\n地狱的烈焰不熄，因至高的审判从未止息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aliestria",
+                "end": 23,
+                "expanded_url": "http://t.me/Aliestria",
+                "start": 0,
+                "url": "https://t.co/UTWrj83veE"
+              }
+            ]
+          }
+        },
+        "id": "2056547558462480384",
+        "is_identity_verified": true,
+        "location": "炼狱山",
+        "most_recent_tweet_id": "2106327891416088838",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2104769608037360024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1790674271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102785411970199552/j6gsdx_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 660,
+          "like_count": 822,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/UTWrj83veE",
+        "username": "Aliestria",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

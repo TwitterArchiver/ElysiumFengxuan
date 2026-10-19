@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2108490289488781647",
+    "created_at": "2026-10-09T11:55:27.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108526755040645129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108526755040645129",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108490289488781647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 有残疾证出去找工作公司都查得到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2108490289488781647",
+        "created_at": "2026-10-09T11:55:27.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108526755040645129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108526755040645129",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108490289488781647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 有残疾证出去找工作公司都查得到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2108490287962030080"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "conversation_id": "2108490289488781647",
+        "created_at": "2026-10-09T09:30:33.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108490289488781647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108490289488781647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2899,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪伴了我十年的残疾证到期了，2016年我的父母以智力残疾的名义给我办了这个残疾证，说实话我觉得我脑子没问题，但是我爸妈就是想薅公家的羊毛，期间残联的人时不时就来我家叫我按手印签字，说实话，我并不乐意，现在残疾证到期了，我不想再占这个坑了，大家说我该不该继续办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zako.beer",
+                "end": 23,
+                "expanded_url": "http://zako.beer",
+                "start": 0,
+                "url": "https://t.co/Ol6MCVqEKi"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2108526755040645129",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1789882797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101546714071207936/snJkNMSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2820,
+          "like_count": 8187,
+          "listed_count": 11,
+          "media_count": 1442,
+          "tweet_count": 11462
+        },
+        "url": "https://t.co/Ol6MCVqEKi",
+        "username": "ElysiumFengxuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "我会珍惜每一丝从我身边走过的幸福。",
+        "id": "1882563916632666112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108503208796803153",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882563916632666112/1769488164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101940795305496576/RGLG4PRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1066,
+          "like_count": 681210,
+          "listed_count": 7,
+          "media_count": 888,
+          "tweet_count": 54419
+        },
+        "url": "",
+        "username": "hhjnjkoguyunmo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

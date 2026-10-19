@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2108265015266697536",
+    "created_at": "2026-10-09T11:07:35.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108514709683265619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810166216016965632",
+          "start": 0,
+          "username": "baimo424786"
+        },
+        {
+          "end": 22,
+          "id": "1559445629004300290",
+          "start": 13,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108514709683265619",
+    "in_reply_to_user_id": "1810166216016965632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108451956918513848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimo424786 @nomi9724 什么家宠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2108265015266697536",
+        "created_at": "2026-10-09T11:07:35.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108514709683265619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810166216016965632",
+              "start": 0,
+              "username": "baimo424786"
+            },
+            {
+              "end": 22,
+              "id": "1559445629004300290",
+              "start": 13,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108514709683265619",
+        "in_reply_to_user_id": "1810166216016965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108451956918513848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimo424786 @nomi9724 什么家宠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810166216016965632",
+        "conversation_id": "2108265015266697536",
+        "created_at": "2026-10-09T06:58:14.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108451956918513848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108451956918513848",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108265015266697536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 ……我去 差点被骗 看着她们发的照片视频胸长得很好还能产奶本想买点给家宠使用来着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zako.beer",
+                "end": 23,
+                "expanded_url": "http://zako.beer",
+                "start": 0,
+                "url": "https://t.co/Ol6MCVqEKi"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2108514709683265619",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1789882797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101546714071207936/snJkNMSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2820,
+          "like_count": 8181,
+          "listed_count": 11,
+          "media_count": 1442,
+          "tweet_count": 11457
+        },
+        "url": "https://t.co/Ol6MCVqEKi",
+        "username": "ElysiumFengxuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-08T04:17:19.000Z",
+        "description": "一般网上冲浪选手",
+        "id": "1810166216016965632",
+        "is_identity_verified": false,
+        "location": "Anhui",
+        "most_recent_tweet_id": "2108451956918513848",
+        "name": "泽耶",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810166430429765632/zpy5tWpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 951,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "baimo424786",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生丨指派男丨任意代词丨自称功能健全丨人类互fo丨羡慕mtf丨repper暂不翻车丨性取向不明丨疑似AuDHD丨INFJ丨倒错主体丨不墙内不线下丨碎片化文史哲丨发送“抱抱”、“不要”、“羡慕”的bot丨擅长自我欺骗丨前进！丨\n\n天堂必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 154,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 131,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2108501506077204618",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2108265015266697536",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1461,
+          "like_count": 6950,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738907027362209792",
+    "conversation_id": "2108222245529428003",
+    "created_at": "2026-10-11T00:53:33.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T01:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109084959680176169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "839124457188798464",
+          "start": 0,
+          "username": "ddny09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109084959680176169",
+    "in_reply_to_user_id": "839124457188798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108222245529428003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddny09 不应该先研究代码哪里有问题吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 294081,
+        "height": 1080,
+        "media_key": "13_2108209448099643392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108209448099643392/img/DmB4sTC_9OGG6j0m.jpg",
+        "public_metrics": {
+          "view_count": 90299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108209448099643392/vid/avc1/480x270/_KWFilMreVVCIJcr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108209448099643392/vid/avc1/640x360/0NV9DYfctPri5Sv0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108209448099643392/vid/avc1/1920x1080/IgYTGcc11x1fcmf5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108209448099643392/pl/ScHzrZvKf43GNXeM.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108209448099643392/vid/avc1/1280x720/M8uKZxrG0Am5w3ax.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2108222245529428003",
+        "created_at": "2026-10-11T00:53:33.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T01:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109084959680176169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "839124457188798464",
+              "start": 0,
+              "username": "ddny09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109084959680176169",
+        "in_reply_to_user_id": "839124457188798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108222245529428003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddny09 不应该先研究代码哪里有问题吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108209448099643392"
+          ]
+        },
+        "author_id": "839124457188798464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108222245529428003",
+        "created_at": "2026-10-08T15:45:26.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108222245529428003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0RRxHmvYn",
+              "end": 35,
+              "expanded_url": "https://x.com/ddny09/status/2108222245529428003/video/1",
+              "media_key": "13_2108209448099643392",
+              "start": 12,
+              "url": "https://t.co/W0RRxHmvYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108222245529428003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108209448099643392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 60573,
+          "like_count": 590,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "这机器人已经参悟天地了 https://t.co/W0RRxHmvYn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zako.beer",
+                "end": 23,
+                "expanded_url": "http://zako.beer",
+                "start": 0,
+                "url": "https://t.co/Ol6MCVqEKi"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "is_identity_verified": false,
+        "location": "笼子里",
+        "most_recent_tweet_id": "2109084959680176169",
+        "name": "贝茹忧_凤轩🐱🌱",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738907027362209792/1789882797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101546714071207936/snJkNMSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 2822,
+          "like_count": 8237,
+          "listed_count": 11,
+          "media_count": 1442,
+          "tweet_count": 11474
+        },
+        "url": "https://t.co/Ol6MCVqEKi",
+        "username": "ElysiumFengxuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-07T14:43:55.000Z",
+        "description": "生活洞察 | 实用工具 | AI | Crypto | Web3 | 热爱搬砖 | 享受被时代改变的生活",
+        "id": "839124457188798464",
+        "is_identity_verified": true,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2109084207997985003",
+        "name": "Evan.Z",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839124457188798464/1514780714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078870670180753408/ikwp4K9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24115,
+          "following_count": 2558,
+          "like_count": 42845,
+          "listed_count": 5,
+          "media_count": 3760,
+          "tweet_count": 38479
+        },
+        "url": "",
+        "username": "ddny09",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
